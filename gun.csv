@@ -1,1368 +1,492 @@
 "Incident ID","Incident Date",State,"City Or County",Address,"Victims Killed","Victims Injured","Suspects Killed","Suspects Injured","Suspects Arrested",Operations
-3096035,"December 17, 2024",Michigan,Detroit,"18800 block of Russell St",0,1,0,0,0,N/A
-3095265,"December 16, 2024","District of Columbia",Washington,"50 block of Galveston St SW",0,1,0,0,0,N/A
-3095395,"December 16, 2024",Indiana,Indianapolis,"6100 block of Old Mill Dr",0,1,0,0,0,N/A
-3095363,"December 15, 2024",Ohio,Dayton,"700 block of Burwood Ave",1,0,0,0,1,N/A
-3094266,"December 15, 2024","South Carolina",Hopkins,"100 block of Hunting Ave",1,0,0,0,1,N/A
-3094368,"December 15, 2024",Michigan,"Ann Arbor","Maynard St and E William St",0,1,0,0,0,N/A
-3095635,"December 15, 2024",Mississippi,Starkville,"1425 Louisville St",1,0,0,0,0,N/A
-3095617,"December 15, 2024",Alabama,Foley,"100 block of McKenzie St",0,0,0,1,1,N/A
-3094013,"December 14, 2024",Maryland,Dunkirk,"3800 block of Larkview Ct",0,1,0,1,0,N/A
-3093892,"December 14, 2024","West Virginia",Chapmanville,"Madison St",1,0,0,0,0,N/A
-3094408,"December 14, 2024",Georgia,Ellenwood,"4000 block of Shane Trail",1,0,0,0,0,N/A
-3095980,"December 14, 2024",Florida,Hialeah,"901 E Eighth Ave",0,1,0,0,0,N/A
-3095900,"December 14, 2024",California,Columbia,"Columbia St and Cemetery Ln",1,0,0,0,0,N/A
-3094179,"December 14, 2024",Kansas,Burrton,N/A,1,0,0,0,0,N/A
-3093914,"December 14, 2024",Tennessee,Memphis,"3200 block of Whispering Ln",1,0,0,0,0,N/A
-3096374,"December 13, 2024",Oklahoma,Blanchard,"1620 N Main St",0,0,0,0,0,N/A
-3093902,"December 13, 2024",Florida,Jacksonville,"27th St and Main St",0,1,0,0,0,N/A
-3094301,"December 13, 2024",California,Pomona,"3100 block of N Garey Ave",0,2,0,0,0,N/A
-3093102,"December 13, 2024",Colorado,Denver,"470 S Federal Blvd",0,1,0,0,0,N/A
-3093640,"December 13, 2024",Pennsylvania,Commodore,"16957 PA-286",0,0,0,0,0,N/A
-3093600,"December 13, 2024",Texas,"San Marcos","2101 TX-123",1,0,0,0,0,N/A
-3093386,"December 12, 2024",Florida,"Deerfield Beach","NW 2nd Way and NW 7th Ct",0,1,0,0,0,N/A
-3093977,"December 12, 2024","South Carolina",Georgetown,N/A,0,1,0,0,0,N/A
-3093960,"December 12, 2024","South Carolina",Blythewood,"Turkey Farm Rd",0,1,0,0,0,N/A
-3092576,"December 11, 2024",Florida,"Saint Petersburg","9th Ave N",0,1,0,0,0,N/A
-3093034,"December 11, 2024",Ohio,Toledo,"300 block of Central Ave",0,1,0,0,0,N/A
-3092344,"December 11, 2024",Hawaii,Honolulu,"1564 N King St",0,1,0,0,0,N/A
-3094648,"December 10, 2024",Delaware,Lincoln,"8609 3rd St",0,0,0,0,0,N/A
-3094566,"December 9, 2024",Missouri,"Saint Louis","7300 block of Burrwood Dr",0,1,0,0,0,N/A
-3090482,"December 9, 2024",Pennsylvania,"Wilkes Barre","555 Fellows Ave",1,0,0,0,0,N/A
-3094328,"December 9, 2024",Florida,Ocala,"2901 SW 42nd St",0,1,0,0,1,N/A
-3091189,"December 9, 2024",Ohio,Akron,"1500 block of Evergreen Ave",1,0,0,0,0,N/A
-3090540,"December 8, 2024",Florida,Gainesville,"Williston Rd",1,0,0,0,0,N/A
-3090488,"December 8, 2024",Kansas,Wichita,"2400 block of N Lorraine Ave",0,1,0,0,0,N/A
-3089841,"December 8, 2024",Arkansas,"Little Rock","N Mill St",0,1,0,0,0,N/A
-3089780,"December 8, 2024",Indiana,Ladoga,"10000 block of S 375 E",0,1,0,0,0,N/A
-3092612,"December 8, 2024",Arizona,Safford,N/A,0,1,0,0,0,N/A
-3090272,"December 8, 2024","North Carolina",Shallotte,"4764 Main St",0,1,0,0,1,N/A
-3092554,"December 8, 2024","South Carolina",Orangeburg,"New Wilkinson Ave",0,1,0,0,0,N/A
-3090502,"December 7, 2024","New York",Kingston,"Wood Rd",0,1,0,0,0,N/A
-3090470,"December 7, 2024",Virginia,Blackstone,"Wilson Rd",0,1,0,0,0,N/A
-3090414,"December 7, 2024",Ohio,Dayton,"100 block of N Wright Ave",0,1,0,0,1,N/A
-3089304,"December 7, 2024",Florida,Deltona,"101 Howland Blvd",0,1,0,0,0,N/A
-3089585,"December 7, 2024",Pennsylvania,Rockwood,"100 block of Barron Church Rd",1,0,0,0,0,N/A
-3089430,"December 6, 2024",Louisiana,Sulphur,"Michael Ln",1,0,0,0,1,N/A
-3089250,"December 6, 2024",Nevada,"Las Vegas","4700 block of E Craig Rd",1,0,0,0,0,N/A
-3089174,"December 6, 2024",California,Fresno,"5231 N Fresno St",1,0,0,0,0,N/A
-3089673,"December 6, 2024",Maryland,"Upper Marlboro","9801 Fallard Ct",0,1,0,0,0,N/A
-3089622,"December 6, 2024","South Carolina",Eutawville,N/A,0,1,0,0,0,N/A
-3088698,"December 6, 2024",Pennsylvania,Philadelphia,"2200 Hobson St",0,1,0,0,0,N/A
-3087946,"December 5, 2024","North Carolina",Huntersville,"12810 Old Statesville Rd",0,1,0,0,0,N/A
-3095217,"December 5, 2024",Illinois,Mchenry,"3705 West Elm St",0,1,0,0,0,N/A
-3092449,"December 5, 2024",Mississippi,Grenada,"N Abutment Ramp",1,0,0,0,0,N/A
-3087243,"December 4, 2024",Pennsylvania,Colmar,"119 Bethlehem Pike",0,1,0,0,0,N/A
-3087871,"December 4, 2024","North Carolina",Whiteville,"4564 Chadbourn Hwy",0,1,0,0,0,N/A
-3087548,"December 4, 2024",Nebraska,Lincoln,"5550 Pioneers Blvd",0,1,0,0,0,N/A
-3087235,"December 3, 2024","North Carolina",Greensboro,"3601 W Gate City Blvd",0,0,0,1,0,N/A
-3087276,"December 3, 2024","New Jersey",Elizabeth,"700 block of Seaport Dr",0,1,0,0,0,N/A
-3086457,"December 3, 2024",Maryland,Olney,"18101 Town Center Dr",0,1,0,0,0,N/A
-3087223,"December 3, 2024","North Carolina",Lawndale,"Buck Horn Ln and Nolan Rd",0,1,0,0,0,N/A
-3087020,"December 3, 2024",Florida,"West Palm Beach","601-7 Sansburys Way",0,1,0,0,0,N/A
-3088211,"December 3, 2024",Louisiana,"Baton Rouge","300 block of S 17th St",0,1,0,0,1,N/A
-3086888,"December 3, 2024",Kansas,Manhattan,"2500 block of Farm Bureau Rd",0,1,0,0,0,N/A
-3087042,"December 3, 2024",Missouri,Springfield,"1000 block of S Kansas Ave",0,1,0,0,1,N/A
-3086339,"December 2, 2024",Florida,"Fort Lauderdale","100 Terminal Dr",0,1,0,0,0,N/A
-3086200,"December 2, 2024",California,"Rancho Cucamonga","8250 Day Creek Blvd",1,0,0,0,0,N/A
-3085678,"December 1, 2024",Tennessee,Memphis,"4000 block of Crossover Ln",0,0,0,1,0,N/A
-3085544,"December 1, 2024",Kentucky,Frankfort,"Leathers Ln",1,0,0,0,1,N/A
-3085127,"December 1, 2024",Alabama,Birmingham,"2615 Tempest Dr SW",0,1,0,0,0,N/A
-3087069,"December 1, 2024",Missouri,Chillicothe,"2700 block of Washington St",0,1,0,0,0,N/A
-3085985,"December 1, 2024",Louisiana,"Lake Charles","Tom Hebert Rd",1,0,0,1,0,N/A
-3085167,"December 1, 2024",Illinois,Chicago,"50 block of W 35th St",0,1,0,0,0,N/A
-3087908,"November 30, 2024","New York",Kingston,"Woods Rd",0,1,0,0,0,N/A
-3085593,"November 30, 2024","New York",Camden,"Meagher Wells Rd",0,1,0,0,0,N/A
-3084422,"November 30, 2024",Tennessee,Memphis,"Marble Ave and Morehead St",0,1,0,0,0,N/A
-3084735,"November 30, 2024",Louisiana,"New Orleans","2215 Willow St",1,0,0,0,0,N/A
-3085410,"November 30, 2024",Pennsylvania,"Moscow (Covington Township)","242 Drinker Turnpike",0,1,0,0,1,N/A
-3084615,"November 29, 2024","North Dakota",Horace,N/A,0,1,0,0,0,N/A
-3083988,"November 29, 2024",Arkansas,Beebe,"21 US-64 W",0,1,0,0,1,N/A
-3087320,"November 29, 2024",Texas,Houston,"700 block of N Sam Houston Pkwy",1,0,0,0,1,N/A
-3084051,"November 29, 2024",Mississippi,Meridian,N/A,0,2,0,0,0,N/A
-3085500,"November 29, 2024","South Dakota","Rapid City","Deadwood Ave and W Omaha St",1,0,0,0,1,N/A
-3084507,"November 29, 2024",Utah,"Salt Lake City","Indiana Ave and Emery St W",0,1,0,0,1,N/A
-3085476,"November 29, 2024",Michigan,Saginaw,"5000 block of Cabot St",0,1,0,0,0,N/A
-3085704,"November 28, 2024",Ohio,Cleveland,"16100 block of Lakeshore Blvd",0,1,0,0,0,N/A
-3085284,"November 28, 2024","North Carolina","Four Oaks","Parkertown Rd and Parker Rd",0,1,0,0,1,N/A
-3083419,"November 28, 2024",Pennsylvania,"Mckeesport (Port Vue)","Romine Ave",0,1,0,0,1,N/A
-3083833,"November 28, 2024",Ohio,Chillicothe,"E Water St",0,1,0,0,0,N/A
-3082433,"November 27, 2024",Illinois,Chicago,"2900 block of N Pine Grove Ave",1,0,0,0,0,N/A
-3082544,"November 27, 2024",Vermont,Bristol,"Adirondack View",1,0,0,0,0,N/A
-3081646,"November 25, 2024","South Carolina","Anderson (county)",N/A,0,1,0,0,0,N/A
-3080733,"November 25, 2024","New York",Rochester,"100 block of Copley St",1,0,0,0,0,N/A
-3080802,"November 25, 2024",Michigan,Detroit,"18800 block of Saint Aubin St",0,1,0,0,1,N/A
-3083316,"November 25, 2024",Florida,"Fort Lauderdale","1200 block of SW 28th Rd",0,1,0,0,1,N/A
-3080427,"November 25, 2024",Texas,Tomball,"19923 Stone Creek Ct",1,0,0,0,1,N/A
-3080988,"November 25, 2024",Pennsylvania,Paxinos,"950 Shamrock Rd",0,1,0,0,0,N/A
-3080820,"November 24, 2024",Pennsylvania,Johnstown,"100 block of Sheridan St",1,0,0,0,1,N/A
-3080505,"November 24, 2024","West Virginia",Bluefield,"Skating Rink Hollow Rd",0,1,0,0,0,N/A
-3080430,"November 24, 2024",California,"Los Angeles (Westchester)","5500 Thornburn St",0,1,0,0,0,N/A
-3080932,"November 24, 2024",Kentucky,Lexington,"209 Simpson Ave",0,1,0,0,0,N/A
-3080567,"November 23, 2024","South Carolina",Sumter,"Utah Cir",1,0,0,0,1,N/A
-3081433,"November 23, 2024",Florida,Kissimmee,"Caribbean View Terrace",1,0,0,0,0,N/A
-3092486,"November 23, 2024",California,Bakersfield,"300 block of Roberts Ln",0,1,0,0,0,N/A
-3091521,"November 23, 2024",Kentucky,"New Haven","3300 Stiles Rd",0,1,0,0,0,N/A
-3092594,"November 22, 2024",California,Oakland,"8601 MacArthur Blvd",0,1,0,0,0,N/A
-3079376,"November 22, 2024",California,Merced,"Childs Ave and B St",1,0,0,0,0,N/A
-3079398,"November 22, 2024","South Carolina",Gaffney,"862 McKowns Mountain Rd",1,0,0,0,1,N/A
-3078234,"November 22, 2024",Ohio,Akron,"700 block of Wren Walk",1,0,0,1,2,N/A
-3079271,"November 22, 2024",Florida,Miami,"9250 NW 7th Ave",0,1,0,0,1,N/A
-3078985,"November 22, 2024",Ohio,Cleveland,"6100 block of Ellen Ave",0,1,0,0,0,N/A
-3078255,"November 21, 2024",Missouri,Ballwin,"469 Graywood Dr",0,1,0,0,0,N/A
-3080367,"November 21, 2024",Oregon,Beaverton,N/A,0,1,0,0,0,N/A
-3078346,"November 21, 2024",Colorado,Aurora,"3100 block of S Norfolk Ave",0,1,0,1,1,N/A
-3078163,"November 21, 2024",California,Fresno,"890 W Belmont Ave",1,0,0,0,0,N/A
-3078056,"November 21, 2024",Louisiana,Shreveport,"Market St and Texas St",0,1,0,0,0,N/A
-3077819,"November 21, 2024",Kentucky,Louisville,"5500 block of Overbrook Woods Pl",1,0,0,0,0,N/A
-3078741,"November 20, 2024",Indiana,"North Judson","Garfield Ave and N Garfield Ave",0,1,0,0,0,N/A
-3076739,"November 20, 2024","New Hampshire",Epping,"233 Exeter Rd",0,1,0,0,0,N/A
-3077657,"November 20, 2024",Illinois,Carbondale,"300-block of S Marion St",0,1,0,0,1,N/A
-3078318,"November 20, 2024",California,"Redwood City","800 block of Woodside Rd",0,1,0,0,0,N/A
-3076683,"November 20, 2024",Texas,Overton,"10900 block of County Rd 29",0,1,0,0,0,N/A
-3076813,"November 19, 2024",Virginia,"Newport News","4200 block of Newsome Dr",1,0,0,0,0,N/A
-3088498,"November 19, 2024","New York",Plattsburgh,"Oak St",0,1,0,0,0,N/A
-3074601,"November 18, 2024","South Carolina",Aiken,"100 block of Tab Dr",0,1,0,0,0,N/A
-3075451,"November 18, 2024","South Carolina",Windsor,"300 block of Wendy Ln",1,0,0,0,0,N/A
-3076801,"November 18, 2024",Michigan,"Traverse City",N/A,0,1,0,0,0,N/A
-3075201,"November 18, 2024",Alabama,Semmes,"8500 block of Moffett Rd",1,0,0,0,0,N/A
-3074987,"November 18, 2024",Indiana,Mishawaka,N/A,0,1,0,0,0,N/A
-3076009,"November 18, 2024",Indiana,Logansport,N/A,0,1,0,0,0,N/A
-3074211,"November 17, 2024",Wisconsin,Milwaukee,"6401 W Bradley Rd",0,1,0,0,0,N/A
-3074984,"November 17, 2024",Idaho,Kellogg,"610 Bunker Ave",0,1,0,0,0,N/A
-3075336,"November 17, 2024",Tennessee,Nashville,"1400 block of Rosa Parks Blvd",0,1,0,0,0,N/A
-3074698,"November 16, 2024","North Carolina",Greenville,"2060 Quail Ridge Dr",0,1,0,0,1,N/A
-3073643,"November 16, 2024",Texas,Austin,"1934 Rutland Dr",1,0,0,0,1,N/A
-3073402,"November 15, 2024",California,Oakland,"1200 block of 86th Ave",1,0,0,0,0,N/A
-3073939,"November 15, 2024","New Mexico",Clovis,"1000 block of W 10th St",0,1,0,0,0,N/A
-3075502,"November 15, 2024",Texas,"Corpus Christi (North Padre Island)",N/A,1,0,0,0,0,N/A
-3072929,"November 15, 2024",Texas,Maydelle,US-84,0,1,0,0,0,N/A
-3072233,"November 14, 2024","North Carolina",Raleigh,"1200 block of Summerkings Ct",0,1,0,0,0,N/A
-3072678,"November 14, 2024",Colorado,Gunbarrel,"4700 block of Jamestown St",1,0,0,0,0,N/A
-3071980,"November 14, 2024",Arizona,Phoenix,"7th Ave and W Baseline Rd",0,1,0,0,0,N/A
-3072180,"November 14, 2024",Georgia,Atlanta,"532 Cleveland Avenue SW",0,1,0,0,0,N/A
-3073225,"November 14, 2024",Arkansas,Marianna,"Olive St",0,1,0,0,0,N/A
-3071613,"November 13, 2024",Ohio,"South Charleston","400 block of Sunset Ct",0,1,0,0,0,N/A
-3070777,"November 12, 2024",Illinois,Chicago,"S Whipple St and W Jackson Blvd",0,0,0,1,0,N/A
-3070752,"November 12, 2024",Mississippi,Meridian,"40th Ave",0,1,0,0,0,N/A
-3070478,"November 12, 2024",Iowa,Waterloo,N/A,0,1,0,0,0,N/A
-3070360,"November 12, 2024",Michigan,"Grand Rapids","Sherman St SE and Benjamin Ave SE",0,1,0,0,0,N/A
-3071442,"November 12, 2024",Michigan,Detroit,"Freeland St and Fenkell Ave",0,1,0,0,0,N/A
-3069494,"November 11, 2024","New York",Rochester,"100 block of Bartlett St",0,1,0,0,0,N/A
-3072574,"November 11, 2024",Indiana,Schererville,"E Joliet St and S Cline Ave",0,1,0,0,0,N/A
-3070770,"November 10, 2024",Mississippi,Madison,N/A,1,0,0,0,0,N/A
-3069645,"November 10, 2024",Montana,"Fergus County (county)",N/A,0,1,0,0,0,N/A
-3070592,"November 10, 2024",Pennsylvania,"Kingston (Larksville)","2nd St",0,1,0,1,0,N/A
-3069516,"November 10, 2024",Oregon,"Halfway (Sunset)","OR-86 and N Pine Rd",1,0,0,0,0,N/A
-3068811,"November 10, 2024",Georgia,Atlanta,"1048 Conley Rd SE",1,0,0,0,0,N/A
-3074047,"November 10, 2024",California,Brentwood,"Solana Dr and Sunlight Dr",0,1,0,0,0,N/A
-3070453,"November 10, 2024","North Carolina","High Point","1800 block of Abberton Way",1,0,0,0,0,N/A
-3069278,"November 10, 2024",Indiana,Greenwood,"1100 block of Crescent Dr",1,0,0,0,1,N/A
-3068107,"November 9, 2024",Ohio,Springfield,"4400 block of Reno Rd",1,0,0,0,1,N/A
-3068831,"November 9, 2024",Minnesota,Perley,N/A,0,1,0,0,0,N/A
-3068224,"November 9, 2024",Louisiana,Baker,"1020 Florida Ave",1,0,0,0,1,N/A
-3067740,"November 9, 2024",Minnesota,Glyndon,"4600 block of 90th Ave N",1,0,0,0,0,N/A
-3068555,"November 9, 2024",Nevada,Sparks,"5600 block of El Paseo Dr",0,1,0,0,1,N/A
-3068279,"November 9, 2024",Oregon,Portland,"75 SE 146th Ave",1,0,0,1,1,N/A
-3068247,"November 9, 2024",Louisiana,Shreveport,"Colquitt Rd",0,1,0,0,0,N/A
-3067759,"November 8, 2024",Wisconsin,Milwaukee,"9220 N 75th St",0,1,0,0,0,N/A
-3066392,"November 7, 2024",Alabama,Huntsville,"200 block of Binford Dr",0,1,0,0,1,N/A
-3070305,"November 7, 2024",Michigan,Westland,"Alamo Ct and Grand Traverse St",1,0,0,0,0,N/A
-3066972,"November 6, 2024",Delaware,Wilmington,"1800 Limestone Rd",0,0,0,0,0,N/A
-3065364,"November 6, 2024",Minnesota,Minneapolis,"N 33rd Ave and N Penn Ave",0,1,0,0,0,N/A
-3066643,"November 6, 2024",Pennsylvania,Erie,"Reed St and E 22nd St",0,1,0,0,1,N/A
-3065759,"November 5, 2024",Ohio,Dayton,"3500 block of Wayne Ave",0,1,0,0,1,N/A
-3065016,"November 5, 2024",Kentucky,"Louisville (Shively)","4417 Dixie Hwy",1,0,0,0,1,N/A
-3065122,"November 5, 2024",Texas,"Fort Worth","3500 block of Ave L",1,0,0,0,0,N/A
-3064722,"November 5, 2024",Florida,"Saint Petersburg","49th St and 18th Ave",0,1,0,0,0,N/A
-3064542,"November 4, 2024","New Jersey","South Amboy","7089 NJ-35",0,1,0,0,0,N/A
-3064510,"November 4, 2024",Georgia,Valdosta,"500 block of Brookdale Cir",1,0,0,0,1,N/A
-3066774,"November 4, 2024",Oregon,Scio,"38875 NW 1st Ave",0,0,0,0,0,N/A
-3063260,"November 3, 2024",Pennsylvania,Philadelphia,"3831 I St",1,0,0,0,0,N/A
-3064697,"November 3, 2024",Michigan,Jackson,"4200 block of Lansing Ave",0,1,0,0,0,N/A
-3063578,"November 3, 2024",Illinois,Carterville,"600 block of Grand Ave",0,1,0,1,0,N/A
-3064540,"November 3, 2024",Washington,Kent,"25014 74th Ave S",0,1,0,0,0,N/A
-3063127,"November 3, 2024",Maryland,Bowie,"600 block of Brookedge Ct",0,1,0,0,0,N/A
-3064276,"November 3, 2024",Pennsylvania,"Upper Darby","700 block of Clinton Rd",0,1,0,0,0,N/A
-3067475,"November 2, 2024",Virginia,Roanoke,"4300 block of Garst Mill Rd",0,1,0,1,0,N/A
-3062476,"November 2, 2024",Tennessee,Springfield,"2600 Memorial Blvd",0,1,0,0,0,N/A
-3063004,"November 2, 2024",Maryland,Baltimore,"4000 block of Pennington Ave",0,1,0,0,0,N/A
-3064629,"November 2, 2024","South Carolina",Denmark,N/A,0,1,0,0,0,N/A
-3063624,"November 2, 2024","South Carolina",Kershaw,"Flat Rock Rd",1,0,0,0,0,N/A
-3063590,"November 2, 2024",Georgia,Loganville,"4714 Atlanta Hwy",0,1,0,0,1,N/A
-3064027,"November 2, 2024",Pennsylvania,Hartstown,"Atlantic Rd",1,0,0,0,0,N/A
-3063525,"November 2, 2024",Virginia,Woodbridge,"2250 Prince William Pkwy",1,0,0,0,1,N/A
-3062104,"November 1, 2024","North Carolina",Smithfield,"Fieldale Dr",0,2,0,0,0,N/A
-3061767,"October 31, 2024",Illinois,Waukegan,"1300 block of Walnut St",0,1,0,0,1,N/A
-3060971,"October 31, 2024",Florida,Mulberry,"Levins Rd",1,0,0,0,1,N/A
-3060883,"October 31, 2024",Louisiana,"Ville Platte","N Morein St",1,0,0,0,1,N/A
-3065272,"October 31, 2024",Louisiana,"Edgard (Wallace)","100 block of Dufresne Dr",0,1,0,0,0,N/A
-3062025,"October 31, 2024",Idaho,Payette,"409 N 7th St",0,1,0,0,0,N/A
-3060439,"October 30, 2024",Michigan,Schoolcraft,"3rd St and W Y Ave",0,1,0,0,0,N/A
-3061175,"October 30, 2024","New Jersey",Paramus,"Summit Dr",0,1,0,0,0,N/A
-3060937,"October 30, 2024",Florida,Clewiston,"702 S Lopez St",1,0,0,0,0,N/A
-3060319,"October 30, 2024",Michigan,Detroit,"4000 block of W Grand St",0,1,0,0,0,N/A
-3064632,"October 30, 2024",California,"Los Banos","400 block of W K St",0,1,0,0,0,N/A
-3060959,"October 30, 2024",Maryland,"Capitol Heights","133 Central Ave",0,1,0,0,0,N/A
-3061334,"October 30, 2024",Ohio,Pickerington,"7000 block of Optimara Dr",0,1,0,0,0,N/A
-3060337,"October 30, 2024",Indiana,Mishawaka,"1000 block of Jackson St",0,1,0,0,0,N/A
-3061258,"October 29, 2024",Alabama,"Pine Hill","500 Leroy Randolph Rd",0,0,0,0,0,N/A
-3060207,"October 29, 2024","New Mexico",Clayton,"301 Magnolia St",0,1,0,0,1,N/A
-3059932,"October 29, 2024","South Carolina",Summerville,"Sawmill Branch Trl",1,1,0,0,1,N/A
-3059058,"October 29, 2024",Michigan,Detroit,"Greeley St and Grixdale E",0,1,0,0,0,N/A
-3059972,"October 29, 2024",Texas,Paris,"320 Stone Ave",1,0,0,0,0,N/A
-3059640,"October 29, 2024",Texas,"Corpus Christi","2000 block of S Padre Island Dr",0,1,0,0,0,N/A
-3059437,"October 28, 2024",Mississippi,Hattiesburg,"700 block of Mobile St",0,1,0,0,0,N/A
-3059227,"October 28, 2024",Utah,"Salt Lake City","260 S 500 E",1,0,0,0,0,N/A
-3059074,"October 28, 2024",California,"Long Beach","400 block of W 5th St",0,1,0,0,0,N/A
-3058496,"October 28, 2024",Louisiana,"Baton Rouge","Scotland Ave",0,1,0,0,0,N/A
-3057988,"October 28, 2024",Louisiana,Baker,"2200 block of S Magnolia Dr",1,0,0,0,0,N/A
-3057966,"October 28, 2024",Tennessee,Memphis,"I-240 and Lamar Ave",0,1,0,0,0,N/A
-3059725,"October 28, 2024",Louisiana,"Baton Rouge","1900 block of Sparta Ave",0,1,0,0,0,N/A
-3057793,"October 28, 2024",Nebraska,Omaha,"Northwest Dr and N 52nd St",0,1,0,0,0,N/A
-3076651,"October 27, 2024",Louisiana,Sulphur,"332 Pipers Ln",1,0,0,0,1,N/A
-3057773,"October 27, 2024",Oklahoma,"Oklahoma City","NW 34th St and N Pennsylvania Ave",0,1,0,0,0,N/A
-3057521,"October 26, 2024",Michigan,"Grand Rapids","200 block of Prospect Ave NE",0,1,0,0,0,N/A
-3057480,"October 26, 2024",Wisconsin,Milwaukee,"N 48th St and W Clarke St",1,0,0,0,1,N/A
-3057270,"October 26, 2024",Illinois,Centralia,"600 block of E Rasback St",0,1,0,0,1,N/A
-3058636,"October 26, 2024",Kentucky,Owensboro,"2200 block of Fulkerson Dr",0,1,0,0,1,N/A
-3056887,"October 25, 2024",Texas,"San Antonio","300 block of Dartmoor St",0,1,0,0,0,N/A
-3059043,"October 25, 2024",California,Imperial,N/A,0,1,0,0,0,N/A
-3056911,"October 25, 2024",California,Sacramento,"4587 Mack Rd",0,1,0,0,0,N/A
-3055621,"October 24, 2024",Texas,Edinburg,"5501 S McColl Rd",0,1,0,0,0,N/A
-3054942,"October 24, 2024",Florida,Ocala,"15000 block of SW 48th Ave",1,0,0,0,1,N/A
-3055455,"October 24, 2024","Rhode Island","Central Falls","22 Earle St",1,0,0,0,1,N/A
-3060781,"October 24, 2024",Missouri,Joplin,"3502 Newman Rd",0,1,0,0,0,N/A
-3054653,"October 23, 2024",Ohio,Dayton,"300 block of Superior Ave",0,1,0,0,0,N/A
-3053848,"October 22, 2024",Missouri,Holt,N/A,0,1,0,0,0,N/A
-3054376,"October 22, 2024",Florida,Orlando,"9200 block of Northlake Pkwy",0,1,0,0,1,N/A
-3052659,"October 21, 2024",Minnesota,Minneapolis,"2318 Jefferson St NE",1,0,0,0,0,N/A
-3052332,"October 21, 2024",Illinois,Chicago,"N Kimball Ave and W Bryn Mawr Ave",0,1,0,0,0,N/A
-3052826,"October 21, 2024",Texas,"San Antonio","7400 block of Merton Minter",1,0,0,0,0,N/A
-3054558,"October 20, 2024",Texas,Seguin,"2300 block of Leissner School Rd",1,0,0,0,0,N/A
-3055408,"October 20, 2024",Oregon,Tiller,"32000 block of Tiller Trail Hwy",0,1,0,0,0,N/A
-3052834,"October 20, 2024",Ohio,Cincinnati,"2700 block of E Tower Dr",1,0,0,0,1,N/A
-3051960,"October 20, 2024",Texas,Houston,"8400 block of Parasol Ln",0,1,0,0,0,N/A
-3052553,"October 20, 2024",Pennsylvania,Brookhaven,"600 block of Chester Creek Rd",0,1,0,0,0,N/A
-3055242,"October 20, 2024",Georgia,Valdosta,"600 block of Pineview Dr",0,1,0,0,3,N/A
-3053904,"October 20, 2024",Missouri,"Saint Louis (Normandy)","4600 block of Sandmark Walk",0,1,0,0,0,N/A
-3055143,"October 19, 2024","North Carolina","High Point","448 Ridgebrooke Dr",1,0,0,0,0,N/A
-3051428,"October 19, 2024",Alabama,Huntsville,"200 block of Binford Dr",0,1,0,0,1,N/A
-3052483,"October 19, 2024",Nevada,"Las Vegas","5000 block of Hacienda Ave",1,0,0,0,1,N/A
-3056425,"October 19, 2024",Ohio,Columbus,"3700 Block of Edendale Rd",0,1,0,0,1,N/A
-3051675,"October 19, 2024",Arizona,Phoenix,"S 7th Ave and W Southern Ave",0,1,0,0,1,N/A
-3051330,"October 19, 2024","North Carolina",Charlotte,"8000 block of Trousdale Dr",0,1,0,0,0,N/A
-3050730,"October 18, 2024",Alabama,Meridianville,"100 block of Bermuda Lakes Dr",0,1,0,0,0,N/A
-3050488,"October 18, 2024",Georgia,Savannah,"2800 Capital St",0,1,0,0,0,N/A
-3050757,"October 17, 2024",Alabama,Lanett,"300 block of S 10th Ave",0,1,0,0,0,N/A
-3049957,"October 17, 2024",Louisiana,Lafayette,"Marie Antoinette St and Stuart St",0,1,0,0,0,N/A
-3053995,"October 17, 2024",Missouri,"Ripley (county)",N/A,1,0,0,0,1,N/A
-3051492,"October 17, 2024",Michigan,Flint,"3426 Flushing Rd",0,1,0,0,0,N/A
-3050055,"October 17, 2024",California,Lancaster,"44123 Dahlia St",1,0,0,0,0,N/A
-3050102,"October 17, 2024",Kentucky,Louisville,"3000 Dundee Rd",0,1,0,0,0,N/A
-3049972,"October 16, 2024",Tennessee,Crossville,"Tresa St",0,1,0,0,0,N/A
-3062422,"October 16, 2024","New York",Dryden,"Lake Country Ave",0,1,0,0,0,N/A
-3050075,"October 16, 2024",Nevada,"Las Vegas","7100 block of Bramble Ct",1,0,0,0,1,N/A
-3048880,"October 16, 2024",Pennsylvania,Allentown,"2919 Lehigh St",0,1,0,0,0,N/A
-3049554,"October 16, 2024",Virginia,Norfolk,"5300 block of Bellefield Rd",0,1,0,0,0,N/A
-3050430,"October 16, 2024",Georgia,Brunswick,"Habersham St",1,0,0,0,0,N/A
-3048191,"October 15, 2024",Oklahoma,Tulsa,"2731 S 117th E Ave",0,2,0,0,1,N/A
-3049598,"October 15, 2024",Nebraska,Omaha,"N 30th St and Sorensen Pkwy",0,2,0,0,0,N/A
-3047475,"October 14, 2024",Florida,"West Palm Beach","19th St and Division Ave",0,1,0,0,1,N/A
-3048303,"October 13, 2024","South Dakota","Sioux Falls","1200 block of N Prairie Ave",0,1,0,1,0,N/A
-3047177,"October 13, 2024",Arizona,Flagstaff,"792 N Canyon Terrace Dr",1,0,0,0,1,N/A
-3054058,"October 13, 2024",Mississippi,"Yazoo City","White Ave",0,1,0,0,1,N/A
-3047821,"October 13, 2024",Florida,Homestead,"11700 SW 304th St",0,1,0,0,0,N/A
-3047819,"October 13, 2024",Florida,Homestead,"11700 SW 304th St",0,1,0,0,0,N/A
-3050208,"October 13, 2024",Florida,"Pompano Beach (North Lauderdale)","SW 71st Ave and SW 5th Ave",0,1,0,0,0,N/A
-3046244,"October 12, 2024",Ohio,Dayton,"200 block of E Bruce Ave",0,1,0,0,1,N/A
-3047513,"October 12, 2024",Ohio,Toledo,"Page St",0,1,0,0,0,N/A
-3057597,"October 12, 2024",Nevada,"Las Vegas",N/A,0,1,0,0,1,N/A
-3046538,"October 12, 2024",California,Springville,"48200 Bear Creek Rd",1,0,0,0,0,N/A
-3047917,"October 12, 2024",Georgia,Tifton,"1100 block of S Central Ave",1,0,0,0,0,N/A
-3046426,"October 12, 2024","North Carolina",Durham,"Kendall Dr",0,1,0,0,0,N/A
-3046274,"October 12, 2024",Indiana,"South Bend","Titan Dr",0,1,0,0,0,N/A
-3046255,"October 11, 2024",Ohio,"Defiance (county)",N/A,0,1,0,0,0,N/A
-3045492,"October 11, 2024","West Virginia",Clarksburg,"222 Hewes Ave",0,1,0,0,0,N/A
-3045992,"October 10, 2024",Pennsylvania,Butler,"142 Pittsburgh Rd",0,1,0,0,0,N/A
-3045188,"October 10, 2024",Indiana,Kokomo,"319 W Markland Ave",0,1,0,0,1,N/A
-3045290,"October 10, 2024",California,"Buena Park","6741 Lincoln Ave",0,1,0,0,0,N/A
-3044717,"October 10, 2024",Illinois,Chicago,"3800 block of W 87th St",0,1,0,0,0,N/A
-3044085,"October 9, 2024",Arkansas,Rogers,"915 S 8th St",0,1,0,0,1,N/A
-3043186,"October 8, 2024",Oklahoma,"Oklahoma City","7806 Lyrewood Ln",0,1,0,0,0,N/A
-3043840,"October 8, 2024","North Carolina",Greenville,"628 Deborah Ct",1,0,0,0,0,N/A
-3043227,"October 8, 2024",Louisiana,"Baton Rouge","515 Gardere Ln",0,1,0,0,0,N/A
-3042497,"October 7, 2024",Georgia,Roberta,"541 Leamon Gibson Rd",0,1,0,0,0,N/A
-3043045,"October 7, 2024",Florida,"Gulf Breeze (Pensacola Beach)","16 Via De Luna Dr",0,1,0,0,1,N/A
-3042311,"October 7, 2024",Minnesota,"Saint Paul","390 Maryland Ave E",0,1,0,0,0,N/A
-3043038,"October 7, 2024",Minnesota,"Saint Paul","Rice St and Geranium Ave W",0,1,0,0,0,N/A
-3042953,"October 7, 2024",Arizona,"Lake Havasu City","2300 block of Palisades Dr",0,1,0,0,0,N/A
-3043536,"October 7, 2024",Ohio,Dayton,"23 W Fairview Ave",0,1,0,0,0,N/A
-3043165,"October 6, 2024",Oklahoma,"Sand Springs","4813 S Grenada Ave",1,0,0,0,1,N/A
-3042912,"October 6, 2024",Arizona,"Lake Havasu City","2172 Barranca Dr",1,0,0,0,1,N/A
-3041579,"October 6, 2024","South Carolina",Pendleton,"950 Cherry St",0,1,1,0,0,N/A
-3042125,"October 6, 2024","District of Columbia",Washington,"1200 block of 7th St NW",0,1,0,0,0,N/A
-3042398,"October 6, 2024",Louisiana,Meraux,"4500 block of E St Bernard Hwy",1,0,0,0,0,N/A
-3041305,"October 5, 2024",Alabama,Montgomery,"915 S Jackson St",0,0,0,0,2,N/A
-3041554,"October 5, 2024",Georgia,Atlanta,"2400 Campbellton Rd SW",0,1,0,0,1,N/A
-3041074,"October 5, 2024",Texas,"San Antonio","4400 block of Rittman Rd",0,0,0,1,1,N/A
-3085461,"October 4, 2024",Utah,Elsinore,"1890 N Flat Canyon Loop Rd",1,0,0,0,1,N/A
-3040415,"October 4, 2024",Georgia,"Long (county)","Sandy Run Rd",0,1,0,0,0,N/A
-3040636,"October 4, 2024",Illinois,Lyons,"4000 block of Center Ave",0,1,0,0,1,N/A
-3041039,"October 3, 2024",Delaware,Dover,"300 block of David Hall Rd",0,1,0,0,0,N/A
-3039371,"October 3, 2024",Illinois,Chicago,"5600 block of S Shields Ave",0,1,0,1,0,N/A
-3040558,"October 2, 2024",Tennessee,Memphis,"Tunstall St",0,1,0,0,0,N/A
-3039672,"October 2, 2024",Texas,Dallas,"2800 block of Overton Rd",0,1,0,0,0,N/A
-3039542,"October 2, 2024",Georgia,Decatur,"1909 Shamrock Dr",1,0,0,0,0,N/A
-3044327,"October 2, 2024",California,Dorris,N/A,1,0,0,0,1,N/A
-3039921,"October 2, 2024",Ohio,Dayton,"100 block of Grafton Ave",0,1,0,0,0,N/A
-3039358,"October 1, 2024",Arkansas,Magnolia,"Bessie St",1,0,0,0,1,N/A
-3038785,"October 1, 2024",Florida,"Pensacola (Warrington)","10085 N Loop Rd",1,0,0,0,1,N/A
-3038365,"October 1, 2024",Tennessee,Memphis,"2900 block of Mimosa Ave",0,2,0,0,0,N/A
-3037380,"September 30, 2024",Pennsylvania,Pittsburgh,"Wilson Ave",0,1,0,0,0,N/A
-3037873,"September 30, 2024",Florida,"Fort Lauderdale (Tamarac)","5700 Rock Island Rd",1,0,0,0,0,N/A
-3037836,"September 30, 2024",Ohio,Cleveland,"St Clair Ave and E 172nd St",0,1,0,0,0,N/A
-3036750,"September 29, 2024",Texas,"San Antonio","830 N New Braunfels Ave",0,1,0,0,0,N/A
-3036913,"September 29, 2024","New York",Webster,"40 Webster Manor Dr",0,1,0,0,0,N/A
-3036921,"September 29, 2024",Iowa,Waterloo,"Dawson St",0,1,0,0,0,N/A
-3036225,"September 28, 2024",Illinois,Chicago,"2500 block of W 61st St",0,1,0,0,0,N/A
-3038386,"September 28, 2024",Oklahoma,Edmond,"Abeline Ave",1,0,0,0,0,N/A
-3036255,"September 27, 2024",Ohio,"Cleveland (South Euclid)","Stilmore Rd",0,1,0,0,0,N/A
-3035759,"September 27, 2024",Texas,"Wichita Falls","Foxy Ln",0,1,0,0,0,N/A
-3035954,"September 27, 2024",California,Oroville,CA-70,0,1,0,0,0,N/A
-3035721,"September 27, 2024",Wisconsin,Milwaukee,"330 Glenview Ave",0,1,0,0,0,N/A
-3034803,"September 26, 2024",Illinois,Chicago,"3121 S Lawndale Ave",0,1,0,0,0,N/A
-3035354,"September 26, 2024","North Carolina",Wilmington,"300 block of Campus Cove",1,0,0,0,1,N/A
-3034724,"September 25, 2024",Wisconsin,Neillsville,"500 block of W 7th St",0,1,0,0,0,N/A
-3034197,"September 25, 2024",Mississippi,Hickory,"4200 block of Pleasant Ridge",0,1,0,0,0,N/A
-3033308,"September 24, 2024","West Virginia",Beckley,"E Prince St and Sheridan Ave",0,1,0,0,0,N/A
-3055012,"September 24, 2024",Ohio,Columbus,"4800 Block of Warminster Dr",0,1,0,0,0,N/A
-3036365,"September 24, 2024",Iowa,Waterloo,"1600 block of Cherry Hills Dr",0,1,0,0,0,N/A
-3032214,"September 23, 2024",Pennsylvania,"Upper Darby",N/A,0,1,0,0,0,N/A
-3031163,"September 22, 2024",Indiana,Evansville,"N Main St and E Michigan St",0,1,0,0,0,N/A
-3032021,"September 22, 2024",Minnesota,Minneapolis,"4801 S Minnehaha Dr",0,1,0,0,0,N/A
-3054043,"September 22, 2024","New Mexico","San Jon","600 block of E Elm Ave",0,1,0,0,1,N/A
-3031418,"September 21, 2024",Texas,"Marble Falls","2101 Mustang Dr",0,1,0,0,0,N/A
-3032388,"September 21, 2024","District of Columbia",Washington,"32nd St NW and Fessenden St NW",0,1,0,0,0,N/A
-3031445,"September 21, 2024",Tennessee,Hixson,"2277 Gold Point Cir N",0,1,0,0,0,N/A
-3034070,"September 21, 2024",Arkansas,Trumann,N/A,1,0,0,0,0,N/A
-3030273,"September 21, 2024",Kentucky,Louisville,"600 block of Madelon Ct",0,1,0,0,0,N/A
-3030509,"September 21, 2024",Pennsylvania,Etters,"300 block of Cly Rd",0,1,0,0,1,N/A
-3030642,"September 21, 2024",Alaska,Fairbanks,N/A,1,0,0,0,0,N/A
-3029658,"September 20, 2024",Indiana,Indianapolis,N/A,0,1,0,0,0,N/A
-3029512,"September 20, 2024","West Virginia",Miami,"5118 Cabin Creek Rd",0,0,0,0,1,N/A
-3030028,"September 20, 2024",Virginia,Richmond,"4900 block of W Broad St",0,1,0,0,0,N/A
-3030265,"September 20, 2024","South Carolina","Rock Hill","Barrow Ct",1,0,0,0,0,N/A
-3029878,"September 20, 2024",Pennsylvania,"Pittsburgh (Wilkinsburg)","Peebles St",0,1,0,0,0,N/A
-3029663,"September 19, 2024",Alabama,Decatur,N/A,0,2,0,0,0,N/A
-3029188,"September 19, 2024",Florida,Ocala,"300 block of SE 32nd Ave",1,0,0,0,1,N/A
-3028567,"September 19, 2024",Michigan,Jackson,"3611 Page Ave",0,0,0,1,1,N/A
-3028977,"September 19, 2024",Virginia,Manassas,"Doane Dr",0,1,0,0,0,N/A
-3028840,"September 19, 2024",Pennsylvania,Philadelphia,"3901 Whitaker Ave",0,1,0,0,0,N/A
-3029609,"September 18, 2024",Texas,"San Antonio","13600 block of OConnor Rd",0,1,0,0,2,N/A
-3032973,"September 18, 2024",Minnesota,"Minneapolis (New Hope)","6000 block of Quebec Ave N",1,0,0,0,1,N/A
-3029136,"September 18, 2024",Oregon,"John Day","Hwy 395",0,1,0,0,0,N/A
-3027918,"September 18, 2024","South Carolina","Great Falls","Washington St",1,0,0,0,0,N/A
-3026968,"September 17, 2024",Michigan,"Redford Charter Township","20400 block of Lexington Ave",0,1,0,0,1,N/A
-3025982,"September 16, 2024",Michigan,Detroit,"Ashton Ave and Clarita Ave",0,1,0,0,0,N/A
-3025629,"September 16, 2024",Georgia,Atlanta,"3493 Donald Lee Hollowell Parkway",0,1,0,0,0,N/A
-3025631,"September 16, 2024",Ohio,Cincinnati,"Epworth Ave and Hull Ave",0,1,0,0,0,N/A
-3026169,"September 16, 2024",Connecticut,"New Haven",N/A,0,0,0,1,1,N/A
-3054990,"September 16, 2024",Ohio,Columbus,"1900 block of Maryland Ave",0,1,0,0,0,N/A
-3026287,"September 16, 2024",Florida,"Fort Lauderdale (Wilton Manors)","403 NW 25th St",1,0,0,0,1,N/A
-3035218,"September 15, 2024",Alaska,"North Pole","Eilson St",1,0,0,0,1,N/A
-3026664,"September 15, 2024",Michigan,Kalamazoo,"5100 Century Ave",0,1,0,0,0,N/A
-3026597,"September 15, 2024",Alabama,Huntsville,"Brahan Ave",0,2,0,0,0,N/A
-3024896,"September 14, 2024",Indiana,"Fort Wayne",N/A,0,1,0,0,1,N/A
-3024282,"September 14, 2024",Arkansas,Texarkana,N/A,0,1,0,0,0,N/A
-3025829,"September 14, 2024",Washington,"Seattle (Des Moines)","22000 block of Pacific Highway S",0,1,0,0,1,N/A
-3026635,"September 14, 2024",Michigan,Jackson,"900 block of W Ganson St",0,1,0,0,0,N/A
-3024673,"September 14, 2024",Tennessee,Greenbrier,"Sycamore Rd",0,1,0,0,0,N/A
-3025526,"September 14, 2024",Illinois,Danville,N/A,0,1,0,0,0,N/A
-3024664,"September 14, 2024",Tennessee,Nashville,"1200 block of N 2nd St",1,0,0,0,0,N/A
-3023277,"September 13, 2024","North Carolina",Charlotte,"8500 block of Burnt Umber Dr",1,0,0,0,1,N/A
-3025320,"September 13, 2024",Pennsylvania,Erie,"East Ave",0,1,0,0,1,N/A
-3023815,"September 13, 2024",Illinois,Chicago,"W Madison St and S Kilbourn Ave",0,1,0,0,0,N/A
-3026274,"September 13, 2024",California,Calexico,N/A,0,1,0,0,0,N/A
-3022316,"September 12, 2024",Mississippi,Greenville,"Sunflower Ln",0,1,0,0,0,N/A
-3022844,"September 12, 2024",Missouri,Springfield,"3850 N Farm Rd 159",0,1,0,0,0,N/A
-3023137,"September 11, 2024",Georgia,Trion,"919 Allgood St",0,1,0,0,0,N/A
-3021783,"September 11, 2024",Indiana,Lafayette,"2575 Kingsway Dr",0,1,0,0,0,N/A
-3021976,"September 11, 2024",Iowa,Oskaloosa,"2600 block of 250th St",1,0,0,0,0,N/A
-3021277,"September 10, 2024","New Jersey",Paterson,"10 block of Valley Rd",0,1,0,0,0,N/A
-3020923,"September 10, 2024",Pennsylvania,Duquesne,"24 7th St",0,1,0,0,0,N/A
-3020441,"September 10, 2024",Missouri,Doniphan,"Apricot St",0,1,0,0,0,N/A
-3021916,"September 10, 2024","New Jersey",Wayne,"214 Oldham Rd",0,1,0,0,0,N/A
-3020823,"September 10, 2024",Oklahoma,"Oklahoma City","SE 45th St and S Byers Ave",0,1,0,0,0,N/A
-3020199,"September 9, 2024",Wisconsin,Milwaukee,"743 S 24th St",1,0,0,0,1,N/A
-3019389,"September 9, 2024",Ohio,Hamilton,"Annie Lou Dr",0,1,0,0,0,N/A
-3019571,"September 8, 2024","New York",Rochester,"Velox St and Dewey Ave",0,1,0,0,0,N/A
-3019261,"September 8, 2024",Georgia,Columbus,"4000 block of Holly Ave",1,0,0,0,1,N/A
-3018683,"September 8, 2024",California,"Long Beach","100 block of Linden Ave",0,0,0,1,1,N/A
-3020083,"September 7, 2024",Montana,Butte,N/A,0,1,0,0,0,N/A
-3017862,"September 7, 2024",Kentucky,"Bowling Green","812 Roselawn Way",0,1,0,1,0,N/A
-3021408,"September 7, 2024",California,Camarillo,"200 S Glenn Dr",0,0,0,1,1,N/A
-3018932,"September 7, 2024",Texas,"Corpus Christi","4700 block of Archer Dr",0,1,0,0,0,N/A
-3017898,"September 6, 2024",Florida,"Panama City",N/A,0,1,0,0,1,N/A
-3018529,"September 6, 2024",Arizona,"Doney Park","Deal St",0,1,0,0,0,N/A
-3017589,"September 6, 2024",Mississippi,Meridian,N/A,0,1,0,0,0,N/A
-3026993,"September 6, 2024",Wisconsin,Racine,"1100 block of Lasalle St",0,1,0,0,0,N/A
-3017254,"September 6, 2024",Michigan,Detroit,"11000 block of St Patrick Ave",0,1,0,0,0,N/A
-3017533,"September 6, 2024",Tennessee,Antioch,"200 block of British Woods Dr",1,0,0,0,0,N/A
-3031980,"September 5, 2024",Tennessee,Maryville,"1712 W Broadway Ave",0,1,0,0,0,N/A
-3017046,"September 5, 2024",California,"National City","Highland Ave and E 24th St",0,1,0,0,0,N/A
-3017426,"September 5, 2024",Ohio,Akron,"1100 block of  Hardesty Blvd",0,1,0,0,0,N/A
-3015776,"September 4, 2024",Indiana,Indianapolis,N/A,0,1,0,0,0,N/A
-3016054,"September 4, 2024",Louisiana,"Baton Rouge","5151 Highland Rd",1,0,0,0,1,N/A
-3016009,"September 4, 2024",Mississippi,Meridian,"606 16th St",0,1,0,0,0,N/A
-3015442,"September 4, 2024",Michigan,Laingsburg,"7835 E Price Rd",1,0,0,0,0,N/A
-3014297,"September 3, 2024",Illinois,Chicago,"243 E Ontario St",0,1,0,0,0,N/A
-3019611,"September 3, 2024","New York",Frankfort,"605 Palmer St",0,0,0,0,0,N/A
-3015292,"September 3, 2024",California,Modesto,"1300 block of Imperial Ave",0,1,0,0,0,N/A
-3013699,"September 3, 2024",Arizona,Tucson,"2201 E Speedway Blvd",0,1,0,0,0,N/A
-3014691,"September 3, 2024",Illinois,"Rock Falls",N/A,0,1,0,0,0,N/A
-3014491,"September 3, 2024",Illinois,Sterling,"E 14th St and 5th Ave",0,1,0,0,0,N/A
-3013581,"September 2, 2024",Utah,Lehi,"3569 N Thanksgiving Way",1,0,0,0,0,N/A
-3013719,"September 2, 2024",Arizona,"El Mirage","2800 block of W Voltaire Ave",0,1,0,0,0,N/A
-3013945,"September 2, 2024",Missouri,"Saint Louis","700 block of Thrush Ave",1,0,0,0,0,N/A
-3013457,"September 2, 2024",California,Palermo,"7000 block of Martha Ln",0,1,0,0,0,N/A
-3013247,"September 1, 2024",Oklahoma,Tulsa,"E 21st St and S Sheridan Rd",0,1,0,0,1,N/A
-3012823,"September 1, 2024",Missouri,"Saint Louis (Jennings)","9400 block of Auburn Dr",1,0,0,0,1,N/A
-3012724,"September 1, 2024",Virginia,Portsmouth,"1100 block of Virginia Ave",0,1,0,0,0,N/A
-3012962,"September 1, 2024",Wisconsin,Milwaukee,"S 43rd St and W Forest Home Ave",0,1,0,0,1,N/A
-3011981,"September 1, 2024",Louisiana,Brusly,"Bordeaux St and Orleans Quarters Dr",1,0,0,0,0,N/A
-3012145,"September 1, 2024",Pennsylvania,Nanticoke,"Minden Ct",1,0,0,0,1,N/A
-3011187,"August 31, 2024",Mississippi,Jackson,"1200 Mississippi St",0,1,0,0,0,N/A
-3012056,"August 31, 2024",Texas,"Corpus Christi","1500 block of Howard St",0,1,0,0,1,N/A
-3010113,"August 30, 2024",Alabama,Huntsville,"John Wright Dr NW",0,1,0,0,0,N/A
-3010792,"August 30, 2024",Pennsylvania,Pittsburgh,"4400 Forbes Ave",0,1,0,0,0,N/A
-3011506,"August 30, 2024",Texas,"Royse City","6100 block of Co Rd 2597",1,0,0,0,1,N/A
-3013948,"August 30, 2024","North Carolina",Hamlet,"201 Main St",0,1,0,0,0,N/A
-3010821,"August 30, 2024",California,"San Francisco","66 Chicago Way",0,1,0,0,0,N/A
-3015009,"August 30, 2024",Georgia,Hiram,"152 Village Dr",1,0,0,0,0,N/A
-3010981,"August 30, 2024",Virginia,Hopewell,"800 block of Texas St",0,1,0,0,0,N/A
-3008887,"August 29, 2024",Florida,Okeechobee,"7055 48th St NE",0,1,0,0,0,N/A
-3016680,"August 29, 2024",Tennessee,Crossville,"1329 Sparta Hwy",0,1,0,0,0,N/A
-3009073,"August 28, 2024","South Carolina",Spartanburg,"201 Powell Mill Rd",0,1,0,0,0,N/A
-3008313,"August 28, 2024","District of Columbia",Washington,"DC-295 and Eastern Ave NE",1,0,0,0,0,N/A
-3009653,"August 28, 2024",Louisiana,"Lake Charles","E Prien Lake Rd and Gerstner Memorial Dr",0,1,0,0,0,N/A
-3008664,"August 28, 2024",Tennessee,Memphis,"1300 block of S Lexington Cir",0,1,0,0,0,N/A
-3015497,"August 27, 2024",Mississippi,Decatur,"275 W Broad St",0,0,0,0,1,N/A
-3007392,"August 27, 2024",Indiana,Indianapolis,"2567 S Belmont Ave",0,1,0,0,0,N/A
-3009662,"August 27, 2024",Texas,"Spring (Shenandoah)","19099 I-45",0,1,0,0,0,N/A
-3009139,"August 26, 2024","North Carolina",Salisbury,"Lakeview Dr",0,1,0,0,0,N/A
-3007657,"August 26, 2024","New Jersey","Gloucester City","627 Hunter St",0,1,0,0,1,N/A
-3007400,"August 26, 2024",Missouri,"Poplar Bluff","1800 block of Broadway",0,1,0,0,0,N/A
-3007676,"August 26, 2024",Mississippi,Greenville,"1343 Causey Dr",1,0,0,0,1,N/A
-3005913,"August 25, 2024",Kansas,Wichita,"E Kinkaid St and S Mosley Ave",0,1,0,0,0,N/A
-3004600,"August 24, 2024",Minnesota,Minneapolis,"3400 block of N Logan Ave",1,0,0,0,0,N/A
-3005460,"August 24, 2024",Michigan,Detroit,"Greenfield Rd and Schoolcraft Rd",0,1,0,0,0,N/A
-3005977,"August 24, 2024",Missouri,"Saint Louis","3400 block of Selber Ct",0,1,0,0,1,N/A
-3005736,"August 24, 2024",Arkansas,Lonsdale,"100 block of Applewood Trail",0,1,0,0,0,N/A
-3004848,"August 24, 2024",Texas,Laredo,"5000 block of El Sabinal Ln",0,1,0,0,1,N/A
-3004430,"August 23, 2024","South Carolina",Sumter,"226 N Washington St",2,0,0,0,0,N/A
-3004008,"August 23, 2024",Michigan,"Madison Heights","30000 block of Palmer St",0,1,0,0,0,N/A
-3004222,"August 23, 2024",Pennsylvania,"Drexel Hill","233 Burmont Rd",0,1,0,0,0,N/A
-3004140,"August 23, 2024",Tennessee,Memphis,"2945 Millbranch Rd",0,1,0,0,0,N/A
-3002961,"August 22, 2024",Minnesota,Fosston,"35097 420th Ave SE",0,1,0,0,0,N/A
-3003666,"August 22, 2024",Texas,Laredo,"5700 block of Gillian Dr",0,1,0,0,0,N/A
-3003609,"August 22, 2024",Georgia,Camilla,"5000 block of Lori Ln",0,2,0,0,0,N/A
-3002951,"August 22, 2024","North Carolina",Charlotte,"1525 W Arrowood Rd",0,1,0,0,0,N/A
-3003085,"August 22, 2024",Utah,Santaquin,"66 E 780 S",1,0,0,0,0,N/A
-3011461,"August 21, 2024","New Jersey",Wayne,N/A,0,1,0,0,0,N/A
-3002424,"August 21, 2024",Alaska,Hope,"Resurrection Pass Trail",0,1,0,0,0,N/A
-3000895,"August 20, 2024",Missouri,Springfield,"1 Bass Pro Dr",0,1,0,0,0,N/A
-3001453,"August 20, 2024",Arizona,Tucson,"S 7th Ave and W Oklahoma St",0,0,0,0,1,N/A
-3002062,"August 20, 2024",Louisiana,"Baton Rouge","1 Smart Wy",0,1,0,0,0,N/A
-3003096,"August 20, 2024","South Dakota","Sioux Falls","800 block of W 7th St",1,0,0,0,1,N/A
-2999403,"August 19, 2024",Virginia,"Petersburg (Matoaca)","4400 block of Butler Ln",0,1,0,0,0,N/A
-3000771,"August 19, 2024","South Carolina",Beaufort,"297 Midtown Dr",0,1,0,0,1,N/A
-3000400,"August 19, 2024",Arizona,Phoenix,"S 28th Ln and W Jessica Ln",0,1,0,0,0,N/A
-3000222,"August 19, 2024",Tennessee,Cordova,"405 N Germantown Pkwy",0,1,0,0,0,N/A
-2999758,"August 18, 2024","West Virginia","Charleston (South Charleston)","4992 Richland Dr",0,1,0,0,0,N/A
-2997999,"August 18, 2024",Ohio,Cleveland,"10524 Clifton Blvd",0,1,0,0,0,N/A
-2998871,"August 18, 2024",Indiana,Indianapolis,"4500 block of Golden Meadow Dr",1,0,0,0,0,N/A
-2998531,"August 18, 2024",Indiana,Indianapolis,"3600 block of N Dearborn St",1,0,0,0,0,N/A
-3000897,"August 17, 2024",Virginia,Manassas,"8200 block of Wycliffe Ct",0,1,0,0,1,N/A
-2998536,"August 17, 2024",Arkansas,Russellville,"400 block of Ashford Dr",1,0,0,0,0,N/A
-2997711,"August 17, 2024","South Carolina",Belton,"Glenwood St Ext",0,1,0,0,0,N/A
-2999344,"August 17, 2024",Oklahoma,Norman,"OK-9 and 108th Ave",0,1,0,0,0,N/A
-3000483,"August 17, 2024",Florida,"Spring Hill","4564 Commercial Way",1,0,0,1,0,N/A
-3018442,"August 17, 2024",Texas,"San Antonio","1500 block of Marbach Oaks",0,1,0,0,1,N/A
-2997715,"August 17, 2024","South Carolina",Columbia,"1200 block of King St",1,0,0,0,1,N/A
-2997216,"August 16, 2024",Michigan,Kalamazoo,"1000 block of Interfaith Blvd",0,1,0,0,0,N/A
-2997605,"August 16, 2024",Louisiana,Shreveport,N/A,0,1,0,0,0,N/A
-2996470,"August 15, 2024",Ohio,Cleveland,"E 13th St and Chester Ave",0,1,0,0,0,N/A
-2996093,"August 15, 2024","North Carolina",Charlotte,"Jonquil St and Marvin Rd",0,1,0,0,0,N/A
-2996409,"August 15, 2024","New Jersey",Newark,"86 Wainwright St",0,1,0,0,0,N/A
-2996130,"August 14, 2024",Kentucky,Owensboro,"4300 block of Gateway",1,0,0,0,1,N/A
-2995282,"August 14, 2024",Florida,Hialeah,"800 block of W 29th St",0,1,0,0,0,N/A
-2995814,"August 14, 2024",Florida,Orlando,"5218 Silver Star Rd",0,1,0,1,0,N/A
-2995040,"August 13, 2024",Georgia,Lagrange,"1513 Lafayette Pkwy",0,1,0,0,1,N/A
-2995483,"August 13, 2024",Mississippi,Tunica,"2661 Old Highway 61",1,0,0,0,0,N/A
-2994601,"August 13, 2024",Pennsylvania,Darby,"400 block of Darby Terrace",1,0,0,0,0,N/A
-2993393,"August 12, 2024",Mississippi,"Moss Point","Kevin Dr",1,0,0,0,0,N/A
-2993358,"August 12, 2024",Indiana,Indianapolis,"3600 block of Luewan Dr",0,2,0,0,0,N/A
-2994339,"August 12, 2024","New York",Syracuse,"200 block of Westmoreland Ave",1,0,0,0,3,N/A
-2994195,"August 12, 2024",Georgia,Gainesville,"112 Bradford St NE",0,1,0,0,0,N/A
-2992928,"August 12, 2024",Illinois,Chicago,"4600 block of S Evans Ave",1,0,0,0,0,N/A
-2993439,"August 11, 2024",Virginia,Galax,"200 Maroon Tide Dr",0,1,0,0,0,N/A
-2993532,"August 11, 2024",Alabama,"Mobile (Prichard)","500 block of Snyder Dr",1,0,0,0,1,N/A
-2992946,"August 11, 2024",Illinois,Chicago,"700 block of E 92nd Pl",0,1,0,0,0,N/A
-2994327,"August 10, 2024","North Carolina","Carolina Beach","305 S Lake Park Blvd",1,0,0,0,0,N/A
-3060865,"August 9, 2024",Kansas,Salina,"Leland Way",0,1,0,0,0,N/A
-2990258,"August 7, 2024",Texas,Dallas,"200 block of W Overton Rd",0,1,0,0,0,N/A
-2989967,"August 7, 2024",Texas,Houston,"6869 Arto St",2,0,0,0,0,N/A
-2990974,"August 7, 2024","South Carolina",Eutawville,"269 Fountain Lake Dr",1,0,0,0,0,N/A
-2988694,"August 6, 2024",Illinois,Evanston,"1700 block of Dodge Ave",0,1,0,0,0,N/A
-2988385,"August 6, 2024",Texas,"San Antonio","12324 Starcrest Dr",1,0,0,0,0,N/A
-2989245,"August 6, 2024","South Carolina",Anderson,"Fox Creek Rd",1,0,0,0,0,N/A
-2989016,"August 6, 2024",California,Stockton,"1227 N Commerce St",0,1,0,0,0,N/A
-2988105,"August 5, 2024",Illinois,Chicago,"4500 block of S Drexel Blvd",0,1,0,0,1,N/A
-2988141,"August 5, 2024",Louisiana,Opelousas,"500 block of Sapphire St",0,1,0,0,1,N/A
-2988408,"August 5, 2024",Utah,"Salt Lake City","1616 W Snow Queen Pl",1,0,0,0,1,N/A
-2987296,"August 4, 2024",Illinois,Chicago,"S Blue Island Ave and W 18th St",0,1,0,0,0,N/A
-2988144,"August 4, 2024",Louisiana,"Baton Rouge","1700 block of Sora St",1,0,0,0,0,N/A
-2987920,"August 4, 2024",Ohio,Cincinnati,"3000 block of Laverne Dr",1,0,0,0,1,N/A
-2986090,"August 3, 2024",Michigan,Warren,"11000 block of Edgemont Ave",0,1,0,0,0,N/A
-3010517,"August 2, 2024",Utah,Magna,N/A,0,1,0,0,0,N/A
-2989114,"August 2, 2024",Arizona,"Casa Grande","700 E Rodeo Rd",1,0,0,0,1,N/A
-2988441,"August 2, 2024",Utah,"Cedar City",N/A,0,1,0,0,0,N/A
-2986358,"August 2, 2024",California,Palmdale,"Town Center Dr and 30th St W",0,1,0,0,0,N/A
-2985717,"August 2, 2024",Maryland,"Montgomery Village","Ravensdale Ct",0,2,0,0,0,N/A
-2993376,"July 31, 2024",Virginia,"Virginia Beach","2400 block of Brush Creek Ln",0,1,0,0,0,N/A
-2984060,"July 30, 2024",Indiana,Indianapolis,"W 46th St",1,0,0,0,0,N/A
-2982939,"July 30, 2024",Florida,Orlando,"1100 block of Easton St",1,0,0,0,1,N/A
-3059051,"July 30, 2024",Nevada,"Las Vegas",N/A,0,1,0,0,0,N/A
-2982763,"July 30, 2024",Indiana,Indianapolis,"4400 block of Braemar Dr",1,0,0,0,1,N/A
-2983014,"July 29, 2024",Georgia,Atlanta,"925 Peachtree St",0,1,0,0,1,N/A
-2981718,"July 29, 2024",Georgia,Stockbridge,"1247 Eagles Landing Pkwy",0,1,0,0,1,N/A
-2982625,"July 29, 2024",Texas,Sherman,"303 S FM 1417",0,1,0,0,0,N/A
-2982304,"July 29, 2024",Mississippi,Byhalia,"Thornton Cove and Christopher Cir",0,1,0,0,1,N/A
-2982723,"July 29, 2024",Louisiana,"Baton Rouge","2100 block of Thomas Rd",0,1,0,0,0,N/A
-2988753,"July 28, 2024",Ohio,Middletown,"2500 Atco Ave",0,1,0,0,0,N/A
-2982901,"July 28, 2024",Florida,Jacksonville,"510 Fairground Pl",0,1,0,0,0,N/A
-2980804,"July 28, 2024",Florida,"Fort Pierce","1166 Bayshore Dr",0,1,1,0,0,N/A
-2981940,"July 28, 2024",Idaho,Gooding,N/A,1,0,0,0,0,N/A
-2981251,"July 28, 2024",Ohio,Cleveland,"Nela Ct and Greyton Rd",0,1,0,0,0,N/A
-2983906,"July 27, 2024",Michigan,Fenton,"Hartwood Dr",1,0,0,0,0,N/A
-2981075,"July 27, 2024",Pennsylvania,Greencastle,"Dresden Cir and Wedgewood Dr",0,0,0,1,1,N/A
-2980119,"July 27, 2024",Florida,"Port Orange","1900 block of Creekwater Blvd",0,1,0,0,0,N/A
-2979799,"July 26, 2024",Kansas,Parsons,"3600 block of Gabriel Ave",0,1,0,0,1,N/A
-2979925,"July 26, 2024","New Jersey",Garfield,N/A,0,1,0,0,0,N/A
-2985677,"July 26, 2024",Arizona,Prescott,"1400 Paradise Valley Rd",1,0,0,0,0,N/A
-2979881,"July 26, 2024",Arizona,Surprise,"N Bullard Ave and W Old Oak Ln",1,0,0,0,0,N/A
-3004766,"July 25, 2024",Tennessee,Covington,"100 block of Shelton St",0,1,0,0,0,N/A
+3096143,"December 17, 2024",Maryland,Towson,"8521 Loch Raven Blvd",1,9,0,0,0,N/A
+3096566,"December 17, 2024",Utah,"Salt Lake City (West Valley City)","3761 S Oxford Way",5,1,0,0,0,N/A
+3094796,"December 16, 2024",Wisconsin,Madison,"4901 E Buckeye Rd",2,6,1,0,0,N/A
+3094534,"December 15, 2024",Louisiana,"New Orleans","6100 Franklin Ave",2,2,0,0,0,N/A
+3094383,"December 15, 2024",Pennsylvania,Philadelphia,"400 block of E Wyoming Ave",1,4,0,0,0,N/A
+3094239,"December 14, 2024","New Mexico",Belen,"5 Cam Escondido",4,0,0,0,1,N/A
+3094496,"December 14, 2024",Texas,Houston,"10126 Jensen Dr",2,4,0,0,0,N/A
+3094604,"December 14, 2024",Louisiana,Shreveport,"199 Pierremont Rd",1,3,0,0,0,N/A
+3096263,"December 13, 2024",Georgia,Valdosta,"1785 W Hill Ave",0,4,0,0,1,N/A
+3091264,"December 10, 2024",Florida,"Lake Worth (Lake Worth Beach)","614 Lake Ave",2,2,0,0,1,N/A
+3089791,"December 8, 2024",Illinois,Cicero,"W Roosevelt Rd and S Cicero Ave",1,3,0,0,0,N/A
+3089589,"December 7, 2024",Georgia,Atlanta,"200 Vineyard Walk",4,0,1,0,0,N/A
+3089440,"December 7, 2024",Washington,Seattle,"814 S Lane St",0,5,0,0,0,N/A
+3088976,"December 6, 2024",Alabama,Theodore,"5375 Laurendine Rd",1,6,0,0,0,N/A
+3086267,"December 3, 2024",Michigan,Kalamazoo,"4250 W Main St",0,4,0,0,0,N/A
+3085310,"December 2, 2024",Illinois,Chicago,"3511 W 59th St",3,5,0,0,0,N/A
+3084726,"December 1, 2024",Louisiana,"New Orleans","700 block of Canal St",0,4,0,0,0,N/A
+3084870,"December 1, 2024",Florida,Hollywood,"2930 Hollywood Blvd",2,2,0,0,0,N/A
+3084917,"December 1, 2024","North Carolina","Red Springs","114 S Main St",0,5,0,0,0,N/A
+3084397,"November 29, 2024",Florida,Bradenton,"5012 15th St E",0,5,0,0,1,N/A
+3083179,"November 28, 2024",Texas,"San Antonio","600 block of Potomac St",2,2,0,0,1,N/A
+3081839,"November 26, 2024",Tennessee,Jackson,"Wallace Rd and Fairmeadow Cove",1,4,0,0,2,N/A
+3081420,"November 25, 2024",Florida,Miami,"1600 block of NW 59th St",0,4,0,0,0,N/A
+3080319,"November 24, 2024",Missouri,"Saint Louis","700 block of Carr St",2,3,0,0,0,N/A
+3080239,"November 24, 2024",Colorado,Denver,"Montview Blvd and Quebec St",0,4,0,0,0,N/A
+3077345,"November 21, 2024",Louisiana,"New Orleans","716 Iberville St",1,3,0,0,1,N/A
+3074550,"November 18, 2024",Colorado,Denver,"7150 Leetsdale Dr",0,4,0,0,1,N/A
+3074150,"November 17, 2024",Louisiana,"New Orleans","1841 Almonaster Ave",0,10,0,0,1,N/A
+3074162,"November 17, 2024",Mississippi,"Sandy Hook","50 block of Sunlight Church Rd",1,3,0,0,1,N/A
+3074461,"November 17, 2024",Ohio,Columbus,"1700 block of Parsons Ave",0,4,0,0,0,N/A
+3073211,"November 16, 2024",California,Lancaster,"44502 N Tabler Ave",4,0,0,0,1,N/A
+3073900,"November 16, 2024",California,Riverside,"11240 Town and Country Dr",0,4,0,0,1,N/A
+3073377,"November 15, 2024",California,"National City","1003 N Ave",1,4,0,0,0,N/A
+3068250,"November 10, 2024",Alabama,Tuskegee,"1200 W Montgomery Rd",1,12,0,0,2,N/A
+3069059,"November 10, 2024",Kansas,Wichita,"1918 S. Laura St",4,0,1,0,0,N/A
+3068792,"November 10, 2024",Georgia,Atlanta,"807 Conley Rd SE",0,4,0,0,0,N/A
+3070076,"November 10, 2024",Mississippi,Laurel,"711 N 10th Ave",0,5,0,0,1,N/A
+3068207,"November 9, 2024",Louisiana,Lafayette,"405 E University Dr",2,2,0,0,6,N/A
+3066982,"November 8, 2024",Pennsylvania,"Mount Joy","330 E Main St",2,2,1,0,0,N/A
+3067777,"November 8, 2024",Virginia,Lynchburg,"6113 Fort Ave",0,5,0,0,0,N/A
+3066653,"November 7, 2024",Pennsylvania,Pittsburgh,"800 block of Mt Pleasant Rd",1,3,0,0,1,N/A
+3066278,"November 7, 2024",Minnesota,Duluth,"6009 Tacony St",4,0,1,0,0,N/A
+3063083,"November 3, 2024",Oklahoma,Stillwater,"2020 E Lakeview Rd",0,4,0,0,0,N/A
+3063027,"November 3, 2024",Michigan,Detroit,"6300 block of Devereaux St",2,5,0,0,3,N/A
+3062297,"November 2, 2024",Maryland,Elkton,"50 block of Chestnut Dr",2,2,0,0,1,N/A
+3062444,"November 2, 2024",Nevada,Reno,"715 S Virginia St",1,3,0,0,1,N/A
+3061364,"November 1, 2024",Florida,Orlando,"E Central Blvd and N Orange Ave",2,7,0,0,1,N/A
+3061376,"November 1, 2024",Colorado,"Denver (Northglenn)","248 Belford Dr",3,3,0,0,0,N/A
+3061407,"November 1, 2024",Connecticut,"New Haven","Church St and Center St",0,4,0,1,1,N/A
+3061008,"October 31, 2024",Delaware,Wilmington,"1300 block of E 28th St",1,3,0,0,0,N/A
+3060963,"October 30, 2024",Florida,"Dade City","Starline Dr",0,4,0,0,0,N/A
+3058359,"October 28, 2024",Tennessee,Memphis,"3717 Robin Park Cir",0,5,0,0,0,N/A
+3057385,"October 27, 2024",Michigan,Kalamazoo,"1100 block of W Paterson St",0,6,0,0,0,N/A
+3059425,"October 27, 2024",Mississippi,Clarksdale,"1400 block of Choctaw St",1,3,0,0,0,N/A
+3057339,"October 27, 2024",California,Redding,"21199 CA-299",1,5,0,0,1,N/A
+3057226,"October 27, 2024",Texas,"Corpus Christi","5400 block of S Staples St",2,2,0,0,0,N/A
+3057212,"October 27, 2024",Texas,"Corpus Christi","1000 block of Winnebago St",0,5,0,0,0,N/A
+3056901,"October 26, 2024",Pennsylvania,"Mc Kees Rocks","Meyers St and Ridge Way",2,2,0,0,0,N/A
+3057141,"October 26, 2024","North Carolina",Durham,"231 Eagle Campus Dr",0,4,0,0,1,N/A
+3057300,"October 26, 2024",California,Fresno,"L St and Amador St",0,6,0,0,0,N/A
+3059693,"October 26, 2024",Alabama,"Union Springs","300 block of Waugh St",2,3,0,0,0,N/A
+3056266,"October 24, 2024",Texas,Waco,"1700 block of N 7th St",0,4,0,0,0,N/A
+3054690,"October 23, 2024",Alabama,Montgomery,"1000 block of Liberty Square Dr",1,4,0,0,0,N/A
+3052758,"October 21, 2024",Washington,"Fall City","7715 Lake Alice Rd SE",5,1,0,0,1,N/A
+3052028,"October 20, 2024",Tennessee,Jackson,"2310 N Highland Ave",1,8,0,0,1,N/A
+3051984,"October 20, 2024",Louisiana,"Baton Rouge","9702 Greenwell Springs Rd",1,5,0,0,1,N/A
+3051041,"October 19, 2024",Pennsylvania,Philadelphia,"2517 N Jessup St",0,7,0,0,0,N/A
+3051689,"October 19, 2024",Indiana,"Fort Wayne","4911 Manistee Dr",0,10,1,0,0,N/A
+3051717,"October 19, 2024",Georgia,Albany,"504 College Dr",1,4,0,0,1,N/A
+3050940,"October 19, 2024",Mississippi,Lexington,"24904 MS-17",3,8,0,0,0,N/A
+3047186,"October 14, 2024",Michigan,Detroit,"Haverhill St and Southampton St",1,3,0,0,0,N/A
+3047310,"October 12, 2024",Georgia,Elberton,"Evergreen Dr",1,7,0,0,8,N/A
+3045998,"October 12, 2024",Tennessee,Nashville,"Jefferson St and 27th Ave",0,7,1,2,4,N/A
+3045675,"October 12, 2024",Oklahoma,"Oklahoma City","5878 S Agnew Ave",1,11,0,3,3,N/A
+3046124,"October 12, 2024",Ohio,"Cleveland (East Cleveland)","15449 Euclid Ave",1,4,0,0,0,N/A
+3046477,"October 11, 2024","South Carolina",Newberry,"1400 block of Martin St",0,4,0,0,0,N/A
+3044413,"October 9, 2024",Missouri,"Kansas City","315 Westport Rd",0,4,0,1,1,N/A
+3041753,"October 6, 2024",Texas,"Fort Worth","100 block of NW 24th St",1,5,0,0,1,N/A
+3041259,"October 5, 2024",Oklahoma,"Oklahoma City","208 Johnny Bench Dr",0,4,0,0,3,N/A
+3040192,"October 4, 2024",California,Redding,"6438 Westside Rd",2,3,0,0,1,N/A
+3037386,"September 29, 2024",Georgia,Atlanta,"2500 block of Gresham Rd",1,3,0,0,0,N/A
+3036427,"September 29, 2024",Virginia,Danville,"510 Spring St",1,3,0,0,1,N/A
+3037002,"September 28, 2024","North Carolina",Henderson,"1110 S Garnett St",0,5,0,0,0,N/A
+3036055,"September 28, 2024","District of Columbia",Washington,"2700 block of Langston Pl SE",1,3,0,0,0,N/A
+3037040,"September 27, 2024","South Carolina",Woodruff,"115 Griffin Rd",3,1,0,0,0,N/A
+3034398,"September 26, 2024",Illinois,Chicago,"4255 N Knox Ave",0,4,0,0,0,N/A
+3033981,"September 25, 2024",California,"Los Angeles","449 W 74th St",0,6,0,0,4,N/A
+3029992,"September 21, 2024",Minnesota,Minneapolis,"10 S 5th St",2,3,0,0,0,N/A
+3030531,"September 21, 2024",Alabama,Birmingham,"2012 Magnolia Ave",4,17,0,0,1,N/A
+3030144,"September 21, 2024","New York",Brooklyn,"Cherry St and Stewart Ave",0,6,0,0,0,N/A
+3030222,"September 21, 2024",Arizona,Phoenix,"N 16th St and E Van Buren St",1,3,0,0,1,N/A
+3030761,"September 21, 2024",Illinois,Chicago,"2500 block of S Spaulding Ave",1,6,0,0,0,N/A
+3029865,"September 20, 2024",Pennsylvania,Philadelphia,"6527 Woodland Ave",1,3,0,0,0,N/A
+3027605,"September 18, 2024",Missouri,"Saint Louis","5000 block of Kensington Ave",3,1,0,0,0,N/A
+3026197,"September 16, 2024",Illinois,Chicago,"1500 W 51st St",0,4,0,0,0,N/A
+3025439,"September 15, 2024",Missouri,Florissant,"2200 block of Windsor Dr",0,4,0,0,0,N/A
+3026772,"September 14, 2024",Alabama,Selma,"201 N Race St",0,4,0,0,0,N/A
+3024100,"September 14, 2024",Kentucky,Louisville,"521 N 22nd St",0,4,0,0,0,N/A
+3034497,"September 14, 2024",Louisiana,Monroe,N/A,0,6,0,0,0,N/A
+3024007,"September 14, 2024",Texas,Houston,"4901 Laura Koppe Rd",3,8,0,0,3,N/A
+3024089,"September 13, 2024",Tennessee,Antioch,"223 Bart Dr",3,1,0,0,0,N/A
+3022787,"September 12, 2024",Virginia,Suffolk,"822 E Washington St",2,3,0,0,0,N/A
+3017817,"September 7, 2024",Kentucky,"East Bernstadt","I-75 and KY-909",0,5,1,0,0,N/A
+3018370,"September 7, 2024",Florida,"Opa Locka","15600 NW 42nd Ave",0,5,0,0,0,N/A
+3018252,"September 7, 2024",Pennsylvania,"Ellwood City","183 Portersville Rd",1,4,0,0,1,N/A
+3017295,"September 6, 2024","District of Columbia",Washington,"900 block of Varney St SE",0,5,0,0,0,N/A
+3014703,"September 4, 2024",Georgia,Winder,"940 Haymon Morris Rd",4,7,0,0,1,N/A
+3012631,"September 2, 2024",Illinois,"Forest Park","711 Desplaines Ave",4,0,0,0,1,N/A
+3012888,"September 2, 2024","New York",Brooklyn,"Eastern Pkwy and Classon Ave",1,4,0,0,0,N/A
+3013319,"September 2, 2024",Alabama,Bessemer,"200 Fourth Ave N",0,4,0,0,0,N/A
+3013744,"September 2, 2024",Washington,"Federal Way","I-5 and S 320th St",0,5,0,0,1,N/A
+3020008,"September 2, 2024","New Jersey",Newark,"500 block of Clinton Ave",0,4,0,0,0,N/A
+3012738,"September 2, 2024",Tennessee,Antioch,"825 Hamilton Crossings",0,6,0,0,1,N/A
+3012204,"September 1, 2024",Ohio,Dayton,"1100 block of Gettysburg Ave",0,5,0,0,0,N/A
+3012525,"September 1, 2024",Ohio,Cleveland,"14800 block of Lawndale Ave",0,4,0,0,1,N/A
+3012688,"September 1, 2024",Delaware,Milford,"200 block of North St",0,4,0,0,0,N/A
+3011930,"August 31, 2024",Hawaii,Waianae,"85-1300 Waianae Valley Rd",3,2,1,0,0,N/A
+3010531,"August 30, 2024",Minnesota,Burnsville,"12100 River Hills Dr",0,5,0,0,0,N/A
+3011296,"August 30, 2024",Ohio,Euclid,"Nicholas Ave and E 222nd St",1,4,0,0,1,N/A
+3009565,"August 29, 2024",Texas,Dallas,"907 E Ledbetter Dr",1,3,1,0,0,N/A
+3009463,"August 29, 2024",California,Tulare,"Martin Luther King Jr Ave and S St",0,4,0,0,0,N/A
+3007365,"August 27, 2024",Pennsylvania,Philadelphia,"G St and Allegheny Ave",0,4,0,0,0,N/A
+3005280,"August 25, 2024","New York",Syosset,"76 Wyoming Ct",4,0,1,0,0,N/A
+3005251,"August 25, 2024",Texas,Lubbock,"9200 block of US-87 Frontage Rd",1,5,0,0,5,N/A
+3006116,"August 25, 2024",Georgia,"Warner Robins","308 Shirley Dr",0,4,0,0,0,N/A
+3005079,"August 25, 2024",Alabama,Mobile,"Paper Mill Rd and Mckinley St",0,6,0,0,0,N/A
+3005802,"August 25, 2024",Pennsylvania,Allentown,"112 N 7th St",0,6,0,0,2,N/A
+3005607,"August 25, 2024","South Dakota","Sioux Falls","1301 S Marion Rd",1,3,0,0,2,N/A
+3005100,"August 24, 2024",Georgia,Dalton,"1800 Pleasant Grove Dr NE",4,0,0,0,1,N/A
+3005346,"August 24, 2024",Pennsylvania,Chester,"Butler St and Concord Ave",1,3,0,0,0,N/A
+3003576,"August 22, 2024",Texas,Houston,"2266 Collier St",0,4,0,0,1,N/A
+3002869,"August 22, 2024",Wisconsin,Milwaukee,"4001 W North Ave",1,3,0,0,1,N/A
+3002622,"August 21, 2024",Pennsylvania,Philadelphia,"4000 block of Lancaster Ave",0,4,0,0,0,N/A
+3001529,"August 20, 2024",Mississippi,Jackson,"300 block of Maple St",0,6,0,0,0,N/A
+3001570,"August 20, 2024",Washington,Everett,"805 W Casino Rd",0,4,0,0,0,N/A
+3000990,"August 20, 2024",Illinois,Chicago,"51st St and Ashland Ave",1,5,0,0,0,N/A
+2998510,"August 18, 2024",Minnesota,Minneapolis,"1200 block of W Broadway Ave",0,4,0,0,0,N/A
+2998845,"August 18, 2024",Maryland,Baltimore,"1300 block of N Spring St",1,7,0,0,1,N/A
+2998743,"August 18, 2024",Massachusetts,Boston,"1 Franklin Park Rd",0,5,0,0,0,N/A
+2999346,"August 18, 2024",Oklahoma,"Oklahoma City","Oklahoma Ave and E Sheridan Ave",0,4,0,1,1,N/A
+2997932,"August 17, 2024",California,Oakland,"1618 83rd Ave",2,2,0,0,1,N/A
+2997679,"August 17, 2024",Mississippi,Jackson,"208 W Capitol St",1,5,0,0,1,N/A
+2997856,"August 16, 2024",Tennessee,Memphis,"2166 Central Ave",0,4,0,0,1,N/A
+2995981,"August 14, 2024",Colorado,"Colorado Springs","332 Ellers Grove",1,3,0,0,0,N/A
+2994803,"August 14, 2024",Virginia,Petersburg,"200 block of Boisseau St",0,4,0,0,2,N/A
+2993727,"August 13, 2024",Massachusetts,Lawrence,"91 Bennington St",1,3,0,0,0,N/A
+2992918,"August 12, 2024",Illinois,Chicago,"750 S Clinton St",0,4,0,0,0,N/A
+2992225,"August 11, 2024","North Carolina",Sharpsburg,"141 Weavers Cir",2,2,1,0,0,N/A
+2993537,"August 10, 2024",Ohio,Cleveland,"4071 Lee Rd",0,4,0,0,0,N/A
+2992571,"August 10, 2024",Florida,Jacksonville,"3100 N Main St",0,6,0,0,0,N/A
+2992248,"August 10, 2024",Georgia,Atlanta,"540 Windsor St SW",0,5,0,0,0,N/A
+2991694,"August 9, 2024","North Carolina",Charlotte,"7837 Nations Ford Rd",0,4,0,0,0,N/A
+2991600,"August 9, 2024",Texas,Dallas,"4000 block of Cedarview Rd",0,4,0,0,0,N/A
+2990695,"August 9, 2024",Kentucky,Lexington,"701 National Ave",1,5,0,0,0,N/A
+2990446,"August 8, 2024",Alabama,Birmingham,"1600 block of Dennison Ave",2,2,0,0,1,N/A
+2989678,"August 7, 2024","New York",Bronx,"E 190th St and Morris Ave",0,6,0,0,0,N/A
+2988723,"August 6, 2024","West Virginia","Hedgesville (Cherry Run)","Householder Rd",0,4,0,0,1,N/A
+2987351,"August 5, 2024",Missouri,"Kansas City","Prospect Ave and E 70th St",1,5,0,0,1,N/A
+2987657,"August 5, 2024",Washington,Seattle,"Broadway and E Pike St",0,4,0,0,0,N/A
+2988109,"August 4, 2024",Mississippi,Vicksburg,"118 Abraham Dr",1,3,0,0,1,N/A
+2986409,"August 4, 2024",California,Oakland,"Fruitvale Ave and MacArthur Blvd",0,5,0,0,0,N/A
+2986309,"August 4, 2024",Illinois,Chicago,"2100 block of S Canal St",1,3,0,0,0,N/A
+2986352,"August 4, 2024",Illinois,Chicago,"5100 block of S Calumet Ave",0,5,0,0,0,N/A
+2986327,"August 4, 2024",Oklahoma,Tulsa,"2605 MLK Jr Blvd",0,8,0,0,0,N/A
+2986864,"August 4, 2024",Tennessee,Memphis,"5560 Shelby Oaks Dr",0,4,0,0,1,N/A
+2986196,"August 3, 2024","District of Columbia",Washington,"22 M St NE",2,2,0,0,0,N/A
+2986051,"August 3, 2024",Wisconsin,Milwaukee,"3853 N Richards St",0,5,0,0,0,N/A
+2984628,"August 1, 2024",Colorado,Aurora,"1472 Ironton St",1,3,0,0,0,N/A
+2983770,"July 30, 2024",Georgia,Fairburn,"2275 GA-138",1,3,0,0,2,N/A
+2981150,"July 28, 2024",Wisconsin,Milwaukee,"9200 block of W Silver Spring Dr",0,5,0,0,0,N/A
+2981386,"July 28, 2024",Florida,Pensacola,"6405 Wagner Rd",2,5,0,0,0,N/A
+2981004,"July 28, 2024",Illinois,Champaign,"2000 block of Cynthia Dr",2,2,0,0,0,N/A
+2980988,"July 28, 2024",Indiana,"South Bend","1300 block of Bissell St",0,4,0,0,0,N/A
+2981511,"July 28, 2024",Missouri,"Saint Louis","3505 Gravois Ave",1,3,0,0,2,N/A
+2982349,"July 28, 2024",Washington,Auburn,"2900 block of M St SE",0,4,0,0,0,N/A
+2981325,"July 28, 2024",California,"Los Angeles","E 51st St and Avalon Blvd",0,4,0,0,0,N/A
+2981128,"July 28, 2024","New York",Rochester,"1 Maplewood Dr",2,5,0,0,0,N/A
+2980166,"July 27, 2024",Texas,Dallas,"6008 S R L Thornton Fwy",1,4,0,0,1,N/A
+2980200,"July 26, 2024",Illinois,Kankakee,"700 block of N Hobbie Ave",0,6,0,0,0,N/A
 2978744,"July 25, 2024",Louisiana,Jeanerette,"2519 Martin Luther King Dr",1,3,0,1,1,N/A
-3023618,"July 25, 2024",Arizona,Kingman,"4200 block of Bond St",1,0,0,0,0,N/A
-2983791,"July 24, 2024","North Dakota",Wahpeton,"7525 Red River Rd W",0,1,0,0,0,N/A
-2977898,"July 24, 2024",Tennessee,Nashville,"2071 Oakwood Ave",1,0,0,0,0,N/A
-2976628,"July 23, 2024",California,Salinas,N/A,0,2,0,0,1,N/A
-2976836,"July 23, 2024",Alabama,"Birmingham (Center Point)","700 block of Country View Ter",0,1,0,0,0,N/A
-2976815,"July 23, 2024",Massachusetts,"West Barnstable",N/A,0,1,0,0,0,N/A
-2979392,"July 23, 2024",Texas,Austin,"2608 Gonzales St",0,0,0,1,1,N/A
-2975396,"July 22, 2024",Texas,Pasadena,"Pasadena Blvd and Raspberry Ln",0,1,0,0,0,N/A
-2975093,"July 22, 2024",Florida,"Port Charlotte","2400 block of Lakeshore Cir",0,2,0,0,0,N/A
-2974958,"July 22, 2024",Massachusetts,Boston,"Kensington Pk",0,1,0,0,0,N/A
-2976953,"July 21, 2024","New Mexico",Portales,"300 block of S Ave E",1,0,0,0,1,N/A
-2975113,"July 21, 2024",Florida,"Saint Petersburg","8198 49th Ave N",1,0,0,0,0,N/A
-2974720,"July 21, 2024","New York",Bronx,"2010 Bruckner Blvd",1,0,0,1,1,N/A
-2975767,"July 21, 2024",Tennessee,Knoxville,"2100 block of Cornelia Cartwright Ave",0,1,0,0,0,N/A
-2975691,"July 20, 2024",Ohio,"Dayton (Moraine)","I-75 and Dryden Rd",0,1,0,0,0,N/A
-2973763,"July 20, 2024",Tennessee,Knoxville,"411 E Summit Hill Dr SE",0,0,0,1,1,N/A
-2973669,"July 20, 2024",Arizona,Chandler,"900 block of W Hemlock Way",0,2,0,0,0,N/A
-2974955,"July 20, 2024","Rhode Island",Cranston,"39 Phenix Ave",0,0,0,1,1,N/A
-2975734,"July 19, 2024",Ohio,Forest,N/A,0,1,0,0,0,N/A
-3024289,"July 18, 2024",Virginia,Linden,"288 Apple Jack Cir",1,0,0,0,1,N/A
-2971970,"July 18, 2024",Wisconsin,Milwaukee,"1300 block of W North Ave",0,1,0,0,1,N/A
-2971929,"July 18, 2024","North Carolina",Charlotte,"6001 Craftsbury Dr",0,1,0,0,0,N/A
-2971582,"July 18, 2024",Louisiana,Lafayette,"100 block of Bryan St",1,0,0,0,0,N/A
-2972383,"July 18, 2024",Indiana,"West Lafayette","3900 block of Chenango Pl",0,1,0,0,0,N/A
-2970948,"July 17, 2024",Louisiana,Hammond,"48000 block of Red Fox Dr",1,0,0,0,0,N/A
-2972226,"July 17, 2024",Ohio,Toledo,"3800 block of Watson St",0,1,0,0,0,N/A
-2971534,"July 17, 2024",California,Madera,"300 block of Washington Ct",1,0,0,0,1,N/A
-2970748,"July 16, 2024",Louisiana,Covington,"100 block of Eagle Landing Dr",1,0,0,0,0,N/A
-2970672,"July 16, 2024",Mississippi,Meridian,"200 block of Dees Rd",0,1,0,0,0,N/A
-2969795,"July 16, 2024",Ohio,Cincinnati,"9700 block of Arvin Ave",1,0,0,0,0,N/A
-2968886,"July 15, 2024",Michigan,Inkster,"572 Tobin Dr",0,1,0,0,1,N/A
-2969281,"July 15, 2024",Ohio,Springfield,"1900 block of Primm Dr",0,1,0,0,1,N/A
-2969612,"July 15, 2024","South Carolina",Simpsonville,"5001 Ballantyne Dr",1,0,0,0,0,N/A
-2968860,"July 15, 2024",Missouri,"Kansas City","10600 block of College Ave",0,1,0,0,0,N/A
-2968281,"July 14, 2024",Louisiana,"Baton Rouge","Jefferson Hwy",0,1,0,0,0,N/A
-2968078,"July 14, 2024",Illinois,Chicago,"10500 S Green St",0,1,0,0,0,N/A
-2968704,"July 14, 2024",Florida,"Pinellas Park","11600 block of 59th St",0,1,0,0,1,N/A
-2968520,"July 14, 2024",Ohio,Cleveland,"Mohican Ave",0,1,0,0,0,N/A
-2968509,"July 14, 2024",Ohio,Cleveland,"3300 block of E 134th St",0,1,0,0,0,N/A
-2968472,"July 13, 2024",Ohio,Columbus,"1300 block of Eldorn Dr",0,1,0,0,0,N/A
-2967535,"July 12, 2024",Kentucky,Irvine,"Clark Rd",1,0,0,0,0,N/A
-2970550,"July 12, 2024",Alabama,Auburn,"900 block of N Donahue Dr",0,1,0,0,0,N/A
-2967278,"July 12, 2024",Oklahoma,"Oklahoma City","N Council Rd and W Britton Rd",0,1,0,0,0,N/A
-2966606,"July 11, 2024",Pennsylvania,"Bryn Mawr","Landover Rd and E Haverford Rd",0,1,0,0,0,N/A
-2965166,"July 10, 2024",Mississippi,Meridian,"107 71st Pl",0,1,0,0,0,N/A
-2965150,"July 10, 2024",Louisiana,Shreveport,"W 77th St",0,1,0,0,0,N/A
-2965032,"July 10, 2024",Florida,Middleburg,"2410 Clover Ave",0,1,0,0,0,N/A
-2964645,"July 9, 2024",Missouri,"Kansas City","2400 block of College Ave",1,0,0,0,1,N/A
-2964049,"July 9, 2024",Washington,Clarkston,"1400 block of Maple St",0,1,0,1,1,N/A
-2964558,"July 9, 2024",California,"Los Angeles","Vanowen St and Laurel Canyon Blvd",0,1,0,0,0,N/A
-2965171,"July 9, 2024",Mississippi,Meridian,"I-20 and MS-45",0,0,0,1,1,N/A
-2963595,"July 8, 2024",Utah,Richfield,"10 E 1300 S",0,1,0,0,0,N/A
-2968640,"July 8, 2024","New Jersey","Atlantic City","300 block of Rosemont Pl",0,1,0,0,0,N/A
-2963628,"July 8, 2024",Arizona,"Sierra Vista","1525 E Busby Dr",0,1,0,0,1,N/A
-2961826,"July 7, 2024","New Mexico","Santa Fe","3299 Cerrillos Rd",0,1,0,0,1,N/A
-2961611,"July 7, 2024",Alabama,Birmingham,"9248 Parkway E",1,0,0,0,1,N/A
-2961630,"July 7, 2024",Louisiana,Shreveport,"200 block of W 77th St",0,1,0,0,0,N/A
-2962402,"July 7, 2024",Illinois,Chicago,"2944 N Clybourn Ave",0,1,0,0,0,N/A
-2962084,"July 6, 2024",Tennessee,Memphis,"4000 block of W Gadwell Dr",1,0,0,0,1,N/A
-2961028,"July 6, 2024",Minnesota,Minneapolis,"2200 block of 29th Ave N",0,1,0,0,0,N/A
-2961168,"July 5, 2024",Michigan,Detroit,"Freud St and Kitchener St",0,1,0,0,0,N/A
-2961277,"July 5, 2024","South Carolina",Charleston,"104 N Romney St",1,2,0,0,1,N/A
-2963772,"July 5, 2024",Idaho,Nampa,"16802 Nash Rd",1,0,0,0,0,N/A
-2961407,"July 5, 2024","New Mexico",Albuquerque,"100 Deputy Dean Miera Dr SW",0,1,0,0,0,N/A
-2960699,"July 5, 2024",Ohio,"Maple Heights","Oakwood Ave",0,1,0,0,0,N/A
+2977073,"July 23, 2024","South Carolina",Burton,"County Shed Rd and Jennings Rd",0,4,0,0,0,N/A
+2974973,"July 22, 2024",Wisconsin,Milwaukee,"6901 W Vienna Ave",1,8,0,0,1,N/A
+2974593,"July 21, 2024",Mississippi,Indianola,"200 Church Ave",1,15,2,0,0,N/A
+2974777,"July 21, 2024",Indiana,Anderson,"2200 block of Arrow Ave",0,7,0,1,6,N/A
+2974135,"July 21, 2024",Pennsylvania,Philadelphia,"2100 block of N Alden St",3,5,0,1,1,N/A
+2974697,"July 21, 2024",Mississippi,Jackson,"2899 McDowell Rd Ext",2,4,0,0,0,N/A
+2973281,"July 20, 2024",California,Vista,"Civic Center Dr",1,3,0,0,0,N/A
+2972255,"July 18, 2024",Alabama,"West Blocton","1073 Greentree Dr",5,0,0,0,1,N/A
+2971655,"July 18, 2024","District of Columbia",Washington,"22nd St and Alabama Ave SE",2,2,0,0,1,N/A
+2971382,"July 18, 2024",California,"Los Angeles","Wilshire Blvd and S Alvarado St",0,4,0,0,3,N/A
+2969835,"July 15, 2024",Minnesota,Minneapolis,"16th Ave S and E Franklin Ave",1,5,0,0,0,N/A
+2969569,"July 15, 2024",Texas,Orange,"200 block of Morrell Blvd",0,4,0,0,0,N/A
+2968565,"July 14, 2024",Indiana,Indianapolis,"3340 Teakwood Dr",0,5,0,0,0,N/A
+2967936,"July 14, 2024",Illinois,Chicago,"9500 block of S Merrill Ave",0,4,0,0,0,N/A
+2967889,"July 13, 2024",Alabama,Birmingham,"3427 27th St N",4,10,0,0,2,N/A
+2967459,"July 13, 2024",Pennsylvania,Butler,"625 Evans City Rd",1,3,1,0,0,N/A
+2968616,"July 13, 2024",Connecticut,"New Haven","Ivy St and Shelton Ave",0,4,0,0,0,N/A
+2967464,"July 12, 2024",Kentucky,Louisville,"900 block of Esquire Alley",0,5,0,0,0,N/A
+2967371,"July 12, 2024",Kansas,Wichita,"4800 block of S Gordon St",1,4,0,0,0,N/A
+2966300,"July 12, 2024",Illinois,Chicago,"1300 block of S Lawndale Ave",0,5,0,0,0,N/A
+2965650,"July 11, 2024",Kansas,Wichita,"2300 block of E Murdock St",0,4,0,0,1,N/A
+2965394,"July 10, 2024",California,Alameda,"417 Kitty Hawk Rd",5,0,0,0,1,N/A
+2965207,"July 10, 2024",Massachusetts,Boston,"10 Greenwood St",0,5,0,0,2,N/A
+2963309,"July 8, 2024","District of Columbia",Washington,"1200 block of Potomac Ave SE",0,4,0,0,0,N/A
+2962488,"July 8, 2024",Massachusetts,"New Bedford","Russell St and Acushnet Ave",0,6,0,0,0,N/A
+2963285,"July 8, 2024","North Carolina",Charlotte,"1523 Parker Dr",1,3,0,0,0,N/A
+2963980,"July 8, 2024",Florida,"Fort Lauderdale","700 block of NW 10th Terrace",2,3,0,0,0,N/A
+2961716,"July 7, 2024",Michigan,Detroit,"Reno St and Rossini Dr",2,19,0,1,0,N/A
+2963018,"July 7, 2024","North Carolina",Roper,"12256 NC-32",1,3,0,0,0,N/A
+2962371,"July 6, 2024",Ohio,Akron,"800 block of Morningview Ave",0,4,0,0,1,N/A
+2961005,"July 6, 2024",Wisconsin,Milwaukee,"Doctor Martin Luther King Jr Dr and 6th St",0,4,0,0,0,N/A
+2960811,"July 6, 2024",Kentucky,Florence,"2673 Ridgecrest Dr",4,3,1,0,0,N/A
+2967044,"July 5, 2024",Mississippi,Clarksdale,"300 block of Madison Ave",1,3,0,0,0,N/A
+2960205,"July 5, 2024","New York",Poughkeepsie,"380 Main St",0,4,0,0,1,N/A
+2960079,"July 5, 2024",Georgia,Albany,"312 Thornton Dr",1,3,0,0,2,N/A
+2960126,"July 5, 2024",Michigan,Pontiac,"300 block of S Jessie St",0,5,0,0,0,N/A
+2959241,"July 5, 2024",Illinois,Chicago,"1300 block of W Hastings St",0,8,0,0,0,N/A
+2959290,"July 5, 2024",Illinois,Chicago,"100 block of S Menard Ave",1,6,0,0,0,N/A
+2959377,"July 5, 2024","New York",Albany,"Myrtle Ave and Quail St",0,6,0,0,0,N/A
+2959329,"July 5, 2024",Florida,Tampa,"10924 N Nebraska Ave",0,4,0,0,1,N/A
+2958345,"July 4, 2024",Illinois,Chicago,"7100 block of S Woodlawn Ave",3,2,0,0,0,N/A
 2960159,"July 4, 2024",Tennessee,Nashville,"200 1st Ave S",0,4,0,0,0,N/A
-2958976,"July 4, 2024",Minnesota,Duluth,"N 1st Ave E and E 2nd St",0,1,0,0,1,N/A
-2960225,"July 4, 2024",Florida,Homestead,"NW 9th Ave and NW 4th St",0,1,0,0,0,N/A
-2960164,"July 4, 2024",Tennessee,Nashville,"Neill Ave and Ramsey St",0,1,0,0,0,N/A
-2960219,"July 4, 2024",Florida,Miami,"NW 72nd St and NW 14th Ave",0,1,0,0,0,N/A
-2960629,"July 4, 2024",California,Stockton,"70 block of Weber Ave",0,1,0,0,0,N/A
-2959087,"July 4, 2024",Florida,"Miami (West Miami)","6320 SW 8th St",0,0,0,1,1,N/A
-2959107,"July 4, 2024",Arkansas,"Little Rock","12614 Saint Charles Blvd",1,0,0,0,0,N/A
-2959993,"July 4, 2024",Tennessee,Hartsville,"245 Marlene St",0,1,0,0,0,N/A
-2967300,"July 4, 2024",Arkansas,"Little Rock","Eagle Dr",0,1,0,0,0,N/A
-2971208,"July 4, 2024",Georgia,"Powder Springs","3670 Hopkins Rd",0,1,0,0,1,N/A
-2958955,"July 4, 2024",Wisconsin,Milwaukee,"3923 W Capitol Dr",0,0,0,1,1,N/A
-2960136,"July 4, 2024",Indiana,Indianapolis,"1100 block of N Tuxedo St",0,1,0,0,0,N/A
-2958925,"July 3, 2024",Georgia,Douglas,"1450 Bowens Mill Rd SE",1,0,0,0,0,N/A
-2958835,"July 3, 2024",Missouri,"Saint Louis","11100 block of Pritchard Dr",0,1,0,0,1,N/A
-2957780,"July 3, 2024","New York",Rochester,"28 Rialto St",1,0,0,0,1,N/A
-2958685,"July 3, 2024",Georgia,Rossville,"Neal Dr",1,0,0,0,0,N/A
-2960580,"July 3, 2024",Texas,Houston,"6353 Richmond Ave",1,0,0,0,0,N/A
-2957842,"July 2, 2024",Arkansas,Jonesboro,"Richsmith Ln",0,1,0,0,0,N/A
-2957199,"July 2, 2024",Florida,"Winter Haven","218 Ave F SE",1,0,0,0,1,N/A
-2956989,"July 2, 2024",Maine,Sanford,"13 Shaw Rd",0,1,0,0,0,N/A
-2956175,"July 1, 2024",Maryland,Columbia,"Harpers Farm Rd",1,0,0,0,0,N/A
-2960314,"July 1, 2024",Virginia,Lawrenceville,"312 Brunswick Village Dr",0,1,0,0,0,N/A
-2955732,"July 1, 2024",Tennessee,Memphis,"800 block of Pawnee Ave",0,1,0,0,1,N/A
-2955441,"July 1, 2024",Texas,Lubbock,"2500 block of Cornell St",1,0,0,0,1,N/A
-2956200,"July 1, 2024",Maryland,Baltimore,"2400 block of Brentwood Ave",0,1,0,0,0,N/A
-2956139,"July 1, 2024",Arizona,Phoenix,"400 W Southern Ave",0,1,0,0,0,N/A
-2956985,"July 1, 2024",Pennsylvania,Easton,"2200 block of Forest St",0,1,0,0,0,N/A
-2957616,"July 1, 2024",Oklahoma,"Oklahoma City","NE 15th St and Martin Luther King Ave",0,1,0,0,0,N/A
-2954990,"June 30, 2024",Iowa,Waterloo,"1900 Lafayette St",0,1,0,0,0,N/A
-2954036,"June 30, 2024",Texas,Houston,"9109 Fondren Rd",1,0,0,0,1,N/A
-2954719,"June 30, 2024",Texas,Houston,"400 block of W Parker Rd",0,2,0,0,0,N/A
-2953279,"June 29, 2024",Utah,"Salt Lake City","5650 W 700 S",0,0,0,1,2,N/A
-2954254,"June 29, 2024",Virginia,Martinsville,"101 Preston Scales Rd",0,1,0,0,0,N/A
-2955663,"June 29, 2024",Kentucky,Carrollton,"1496 Whites Run Rd",1,0,0,0,0,N/A
-2954483,"June 29, 2024","South Carolina",Florence,"Wrenfield Rd",1,1,0,0,0,N/A
-2953725,"June 29, 2024",Arizona,Maricopa,"20600 block of N Wilford Ave",1,0,0,0,0,N/A
-2956736,"June 28, 2024","North Carolina","Scotland Neck","18000 block of NC-125",0,0,0,1,0,N/A
-2957601,"June 28, 2024",Georgia,Athens,"Herman St",0,1,0,0,0,N/A
-2953565,"June 28, 2024","North Carolina","Roanoke Rapids","100 block of Madison St",0,1,0,0,0,N/A
-2955420,"June 28, 2024",Oklahoma,"Oklahoma City","1237 SE 29th St",1,0,0,0,0,N/A
-2952160,"June 27, 2024",Tennessee,Memphis,"2800 block of Spring Hill Dr",0,1,0,0,0,N/A
-2957614,"June 27, 2024",Georgia,Rossville,"Neal Dr",0,1,0,0,0,N/A
-2952721,"June 27, 2024",Florida,Miami,"7900 block of NW 18th Ave",0,1,0,0,0,N/A
-2952685,"June 27, 2024",California,Chico,"Nord Ave",0,1,0,0,0,N/A
-2952232,"June 26, 2024",Arizona,Tucson,"5255 S Park Ave",1,0,0,1,1,N/A
-2952680,"June 26, 2024",Louisiana,"Jackson (county)",N/A,1,0,0,0,0,N/A
-2951244,"June 25, 2024",Ohio,Toledo,"600 block of Platt St",0,1,0,0,1,N/A
-2979388,"June 25, 2024",Texas,Austin,"12200 block of Kelton Dr",1,0,0,0,1,N/A
-2950160,"June 25, 2024","New York",Bronx,"892 Home St",0,1,0,0,0,N/A
-3038534,"June 25, 2024",Mississippi,"Mc Cool (Mccool)","2076 Attala Rd 2131",0,1,0,0,0,N/A
-2951024,"June 25, 2024",Minnesota,Elgin,N/A,0,1,0,0,0,N/A
-2950290,"June 24, 2024",Minnesota,Hibbing,"3500 block of MN-73",0,1,0,0,0,N/A
-2948829,"June 24, 2024",Pennsylvania,Philadelphia,"1800 block of Gillingham St",0,1,0,0,0,N/A
-2950104,"June 24, 2024",Michigan,Hesperia,"8000 block of E Filmore Rd",0,1,0,0,0,N/A
-2949848,"June 24, 2024",Florida,Gainesville,N/A,0,1,0,0,0,N/A
-2969494,"June 24, 2024",Utah,Stockton,N/A,0,1,0,0,0,N/A
-2948966,"June 24, 2024",Texas,Mcallen,"4200 block of W Zinnia Ave",0,1,0,0,2,N/A
-2950109,"June 23, 2024",Georgia,Shannon,"E Second St Ext",1,0,0,1,1,N/A
-2949238,"June 22, 2024",Tennessee,Nashville,"1501 Lebanon Pike",0,0,0,1,0,N/A
-2948700,"June 22, 2024",Arizona,Phoenix,"4010 N 63rd Ave",0,1,0,0,0,N/A
-2946771,"June 22, 2024",Illinois,Chicago,"400 block of W Evergreen Ave",0,1,0,0,0,N/A
-2946156,"June 21, 2024",Maryland,Leonardtown,"22000 block of Bluebird Ct",0,1,0,0,0,N/A
-2945800,"June 21, 2024",Ohio,Canton,"3950 Convenience Dr",1,0,0,0,1,N/A
-2946060,"June 21, 2024",Missouri,Springfield,"2800 block of E Linwood St",1,0,0,0,1,N/A
-2949930,"June 21, 2024",Washington,Bellingham,"Bennett Dr and Airport Way",0,1,0,0,0,N/A
-2949165,"June 21, 2024",Tennessee,Kingsport,"400 block of Barnett Dr",1,0,0,0,1,N/A
-2945373,"June 20, 2024",Mississippi,Meridian,N/A,0,1,0,0,0,N/A
-2948281,"June 20, 2024","New York",Ogdensburg,"800 Park St",0,1,0,0,0,N/A
-2944511,"June 19, 2024",Louisiana,Shreveport,"4223 Lakeshore Dr",0,1,0,0,0,N/A
-2947874,"June 19, 2024",Nevada,Reno,"1350 N Wls Ave",0,0,0,0,0,N/A
-2942975,"June 18, 2024",Minnesota,Minneapolis,"1200 block of Hawthorne Ave",0,1,0,0,0,N/A
-2943644,"June 18, 2024",Connecticut,Southington,"1573 Meriden-Waterbury Turnpike",0,1,0,0,0,N/A
-2944615,"June 18, 2024",Kentucky,Lewisburg,"600 block of Stacker St",0,1,0,0,0,N/A
-2943503,"June 17, 2024",Missouri,Kirksville,"Sugar Creek Shooting Range",0,1,0,0,0,N/A
-2942338,"June 17, 2024",Illinois,Peoria,"700 block of E Kansas St",0,1,0,0,0,N/A
-2955582,"June 16, 2024",Pennsylvania,Springboro,"20000 block of Creek Rd N",0,1,0,0,0,N/A
-2941501,"June 16, 2024",Texas,Dallas,"Commerce St",0,1,0,0,0,N/A
-2942403,"June 16, 2024",Texas,Killeen,"1700 block of Kylie Cir",0,1,0,0,0,N/A
-2943695,"June 16, 2024","New Jersey","Atlantic City","Chelsea Ave and Boardwalk",0,1,0,0,0,N/A
-2942089,"June 16, 2024",Kansas,Wichita,"1120 N Market St",0,1,0,0,0,N/A
-2943220,"June 16, 2024",Utah,"Cedar City","5405 N Shooting Range Rd",0,1,0,0,0,N/A
-2942779,"June 16, 2024",Virginia,Petersburg,"800 block of E Bank St",0,1,0,0,0,N/A
-2942549,"June 15, 2024",Michigan,Eastpointe,"21000 block of Nevada Ave",0,1,0,0,0,N/A
-2941369,"June 15, 2024",Wisconsin,Milwaukee,"N 57th St and W Center St",0,1,0,0,0,N/A
-2940783,"June 15, 2024",Michigan,Pullman,"105th Ave",0,1,0,0,1,N/A
-2942219,"June 15, 2024",Michigan,"Bay City","945 N Euclid Ave",0,1,0,0,0,N/A
-2940035,"June 15, 2024",California,"Panorama City","9404 Van Nuys Blvd",0,0,1,0,0,N/A
-2940540,"June 15, 2024",Pennsylvania,Whitehall,"4128 Springmill Rd",0,1,0,0,0,N/A
-2943365,"June 14, 2024",Georgia,Gainesville,N/A,0,1,0,0,0,N/A
-2942710,"June 14, 2024",Mississippi,"Attala county (county)",N/A,1,0,0,0,0,N/A
-2947460,"June 14, 2024",Ohio,Warren,N/A,0,1,0,0,0,N/A
-2939107,"June 13, 2024",Alabama,Birmingham,"2802 Potts Hollow Rd",0,1,0,0,0,N/A
-2938765,"June 13, 2024",Virginia,Leesburg,"41450 Shreve Mill Rd",0,1,0,0,0,N/A
-2942982,"June 13, 2024",Massachusetts,"New Bedford","68 North St",0,1,0,0,0,N/A
-2940216,"June 13, 2024",Arizona,Scottsdale,"N 76th St and N Greenway Hayden Loop",1,0,0,0,0,N/A
-2939988,"June 13, 2024",Alabama,Trinity,"100 block of Co Rd 390",0,1,0,0,0,N/A
-2939249,"June 12, 2024",Oregon,Beaverton,"15000 SW Farmington Rd",0,1,0,0,1,N/A
-2938807,"June 12, 2024",Virginia,"Newport News","12646 Nettles Dr",0,1,0,0,0,N/A
-2939487,"June 12, 2024",Florida,Rockledge,"3843 DeQuattro Dr",1,0,0,0,0,N/A
-2938138,"June 12, 2024",Georgia,Athens,"100 block of Nowhere Rd",1,0,0,0,1,N/A
-2938150,"June 12, 2024",Louisiana,Alexandria,"209 Sunset Dr",1,0,0,0,1,N/A
-2938879,"June 11, 2024",Wisconsin,Madison,"3300 block of Milwaukee St",0,1,0,0,0,N/A
-2937709,"June 11, 2024",Ohio,"Stone Creek","Township Rd 154",0,1,0,0,0,N/A
-2937701,"June 11, 2024",Arkansas,Jonesboro,"1815 E Highland Dr",0,0,0,1,1,N/A
-2938745,"June 11, 2024",Maryland,"Linthicum Heights","816 Nursery Rd",0,1,0,0,0,N/A
-2936934,"June 11, 2024",Illinois,Chicago,"2637 W Greenleaf Ave",0,1,0,0,0,N/A
-2938369,"June 11, 2024",Indiana,Evansville,"Bellemeade Ave and S Kentucky Ave",0,0,0,1,1,N/A
-2936839,"June 10, 2024",Louisiana,"New Orleans","Annette St and N Johnson St",0,0,0,1,1,N/A
-2936261,"June 10, 2024",Florida,Loxahatchee,"21500 FL-80",0,1,0,0,0,N/A
-2936346,"June 10, 2024","North Carolina","Oak Ridge","7504 Skippers Trace",0,1,0,1,1,N/A
-2936905,"June 10, 2024",Arizona,Yuma,"S 3rd Ave and E 20th St",1,0,0,0,1,N/A
-2936868,"June 10, 2024",Virginia,Chesapeake,"3302 S Military Hwy",0,1,0,0,1,N/A
-2935736,"June 9, 2024",Mississippi,Meridian,"2150 Russell Mount Gilead Rd",0,1,0,0,0,N/A
-2936301,"June 9, 2024",Texas,"Fort Worth","4451 South Fwy",1,0,0,0,1,N/A
-2936987,"June 9, 2024",Alabama,"Birmingham (Midfield)",N/A,0,1,0,0,0,N/A
-2936580,"June 9, 2024",Oregon,"Cottage Grove","2100 block of E Main St",1,0,0,0,0,N/A
-2935627,"June 8, 2024",Alabama,"Birmingham (Midfield)","Rayfield Dr",0,1,0,0,0,N/A
-2935024,"June 8, 2024",California,Escondido,"321 N Broadway",0,1,0,0,0,N/A
-2937049,"June 7, 2024",California,Carson,"22328 Main St",0,0,0,0,0,N/A
-2933983,"June 7, 2024",Utah,Randolph,"165 W Canyon St",1,0,0,0,0,N/A
-2934755,"June 7, 2024","West Virginia",Bluefield,"Chicory Rd",1,0,0,0,1,N/A
-2933483,"June 6, 2024",Louisiana,"Baton Rouge","N 26th St and Duke St",0,1,0,0,0,N/A
-2932898,"June 5, 2024",Maryland,Cumberland,"Glenn St",1,0,0,0,0,N/A
-2933255,"June 5, 2024",Florida,Middleburg,"100 block of Aster Ave",1,0,0,0,1,N/A
-2932217,"June 4, 2024",Georgia,Lagrange,"1600 block of Bartley Rd",0,1,0,1,0,N/A
-2931172,"June 4, 2024","West Virginia",Huntington,"1092 7th. Ave",0,1,0,0,0,N/A
-2930912,"June 4, 2024",Maryland,"Montgomery Village","18724 Walkers Choice Rd",0,1,0,0,0,N/A
-2931680,"June 4, 2024",Louisiana,"Baton Rouge","1900 block of Kansas St",1,0,0,0,1,N/A
-2931158,"June 3, 2024",Florida,Pensacola,"4500 block of Montclair Rd",1,0,0,0,1,N/A
-2930489,"June 3, 2024",Alabama,Huntsville,"Binford Dr",0,1,0,0,0,N/A
-2929400,"June 2, 2024",Ohio,Dayton,"4700 block of Germantown Pike",0,0,0,0,0,N/A
-2929355,"June 2, 2024",Wisconsin,Milwaukee,"N 91st St and W Congress St",0,1,0,0,0,N/A
-2928880,"June 2, 2024","New York",Brooklyn,"80 Osborn St",1,0,0,0,1,N/A
-2929456,"June 2, 2024","North Carolina",Raleigh,"3501 Spring Forest Rd",0,1,0,0,0,N/A
-2932011,"June 2, 2024",Texas,Irving,N/A,1,0,0,0,1,N/A
-2929810,"June 2, 2024",Colorado,Lyons,"300 block of Bunce School Rd",0,1,0,0,0,N/A
-2929858,"June 2, 2024",Maryland,"Hyattsville (Cheverly)","6400 block of Landover Rd",0,1,0,0,0,N/A
-2929499,"June 2, 2024",Pennsylvania,Columbia,"500 block of Locust St",0,1,0,0,1,N/A
-2930530,"June 2, 2024","North Dakota",Horace,N/A,0,1,0,0,0,N/A
-2931460,"June 1, 2024",Ohio,"Dayton (Trotwood)","400 block of Outer Belle Dr",0,1,0,0,0,N/A
-2928015,"June 1, 2024",Colorado,"Colorado Springs","1600 block of S Academy Blvd",0,1,0,0,0,N/A
-2932178,"June 1, 2024","North Carolina",Salisbury,"600 block of S Main St",0,1,0,0,0,N/A
-2933649,"June 1, 2024",Florida,Miami,"7358 SW 8th St",0,1,0,0,0,N/A
-2928852,"June 1, 2024",Missouri,"Kansas City",N/A,0,1,0,0,0,N/A
-2929485,"June 1, 2024","New Jersey","North Brunswick","N Oaks Blvd",1,0,0,0,1,N/A
-2926936,"May 31, 2024",Wisconsin,Milwaukee,"2100 block of W Orchard St",1,0,0,0,1,N/A
-2927182,"May 31, 2024",Georgia,Decatur,"6117 Covington Hwy",0,0,1,0,1,N/A
-2928276,"May 31, 2024",Michigan,Brighton,"9299 Goble Dr",0,1,0,0,0,N/A
-2925923,"May 30, 2024",Tennessee,Nashville,"6817 Charlotte Pike",0,1,0,0,0,N/A
-2926546,"May 30, 2024",Illinois,Chicago,"6700 block of S Prairie Ave",0,1,0,0,0,N/A
-2926537,"May 30, 2024",Alaska,Anchorage,"2800 block of Snug Harbor Cir",0,1,0,0,0,N/A
-2925881,"May 29, 2024",Georgia,Norcross,"5985 Oakbrook Pkwy",1,0,0,0,0,N/A
-2924888,"May 29, 2024",Delaware,Wilmington,"200 block of W 26th St",0,1,0,0,0,N/A
-2924716,"May 29, 2024",Illinois,Chicago,N/A,0,1,0,0,0,N/A
-2927687,"May 29, 2024",Missouri,"Saint Louis","2100 block of Gasconde St",0,1,0,0,0,N/A
-2925461,"May 29, 2024",Louisiana,Shreveport,"Lancaster St",0,1,0,0,0,N/A
-2926555,"May 29, 2024",Illinois,Chicago,"6400 block of S Martin Luther King Dr",0,0,0,1,2,N/A
-2924066,"May 28, 2024",Colorado,Denver,"E 1st Ave and Quebec St",0,1,0,0,1,N/A
-2923245,"May 28, 2024",Virginia,Hampton,"100 block of Clyde St",0,1,0,0,0,N/A
-2925448,"May 28, 2024",Mississippi,Meridian,"State St",0,1,0,0,0,N/A
-2925099,"May 28, 2024",Arizona,Phoenix,"5150 W Baseline Rd",0,1,0,0,0,N/A
-2922836,"May 27, 2024",Wisconsin,Milwaukee,"E Center St and N Humboldt Blvd",1,0,0,0,1,N/A
-2922350,"May 27, 2024",Tennessee,Memphis,"3950 Camelot Ln",0,1,0,0,1,N/A
-2922619,"May 27, 2024","New York",Rochester,"100 block of Avenue E",0,0,0,1,1,N/A
-2925554,"May 27, 2024",Texas,"Lake Jackson","400 block of Southern Oaks Dr",0,1,0,0,0,N/A
-2923163,"May 27, 2024",Michigan,Dearborn,"7000 block of Kendal St",0,1,0,0,0,N/A
-2924785,"May 26, 2024",Georgia,Waycross,"3400 block of Albany Hwy",1,0,0,0,1,N/A
-2921762,"May 26, 2024",Tennessee,Chattanooga,"1000 block of Passenger St",0,1,0,0,0,N/A
-2922481,"May 26, 2024",Michigan,"Green Charter Township",N/A,0,1,0,0,0,N/A
-2921704,"May 25, 2024",Tennessee,Franklin,"1417 Hanson Dr",1,0,0,0,1,N/A
-2921715,"May 25, 2024",Tennessee,Madison,"300 block of Garner Ave",0,0,0,1,0,N/A
-2921811,"May 25, 2024",Minnesota,"Saint Paul","1000 block of Fuller Ave N",0,1,0,0,0,N/A
-2921403,"May 25, 2024",Alaska,Sutton,"N Jonesville Rd",0,1,0,0,0,N/A
-2920587,"May 25, 2024",California,Davis,"350 Mrak Hall Dr",0,0,0,0,0,N/A
-2920537,"May 25, 2024",Florida,"Port Charlotte","Pulaski St",0,1,0,0,0,N/A
-2921342,"May 25, 2024",Louisiana,Opelousas,"100 block of Willard Ln",1,0,0,0,1,N/A
-2927511,"May 25, 2024",Mississippi,Louisville,"Metts St",0,1,0,0,0,N/A
-2919689,"May 24, 2024",Iowa,Waterloo,"1015 Grant Ave",0,1,0,0,0,N/A
-2920193,"May 23, 2024",Texas,"San Antonio","3000 block of Perrin Central Blvd",0,1,0,0,0,N/A
-2922231,"May 23, 2024",Washington,Tacoma,"3811 E Arlington Dr",0,1,0,0,0,N/A
-2920726,"May 23, 2024",Wisconsin,Milwaukee,"3000 N Sherman Blvd",0,0,0,0,3,N/A
-2918696,"May 23, 2024",Illinois,Chicago,"2945 E 80th St",0,1,0,0,0,N/A
-2923330,"May 23, 2024",Ohio,Warren,N/A,0,1,0,0,0,N/A
-2967573,"May 22, 2024",Alabama,Shorter,N/A,1,0,0,0,0,N/A
-2918852,"May 22, 2024",Connecticut,Stratford,"Bates St",0,2,0,0,1,N/A
-2917955,"May 22, 2024",Michigan,Detroit,"3100 block of S Ethel St",0,1,0,0,0,N/A
-2918417,"May 22, 2024",Iowa,"Fort Dodge","106 N 10th St",0,1,0,0,0,N/A
-2919415,"May 22, 2024",Pennsylvania,Philadelphia,"6400 block of N Broad St",0,1,0,0,0,N/A
-2917257,"May 21, 2024",Louisiana,"Saint Gabriel","1800 block of Bayou Paul Ln",0,1,0,0,0,N/A
-2916681,"May 21, 2024",Michigan,"Grand Rapids","921 Alger St SE",0,1,0,0,1,N/A
-2916389,"May 21, 2024",Iowa,Marshalltown,"2700 block of W Main St",0,2,0,0,0,N/A
-2917276,"May 20, 2024","New York","Corona (Queens)","785 Wyckoff Ave",0,0,0,1,1,N/A
-2916050,"May 20, 2024","New Mexico",Albuquerque,"2401 12th St NW",0,1,0,0,0,N/A
-2918730,"May 19, 2024",Ohio,Beachwood,"Cedar Rd",0,1,0,0,0,N/A
-2919798,"May 19, 2024",Georgia,"Monroe (county)",N/A,0,1,0,0,0,N/A
-2914285,"May 19, 2024",Ohio,Columbus,"1740 Lonsdale Pl E",0,1,0,0,0,N/A
-2916784,"May 19, 2024",Mississippi,Jackson,"3800 block of Meadow Ln",0,1,0,0,0,N/A
-2916690,"May 18, 2024",Indiana,Salem,"1500 Rc Morris Dr",0,1,0,0,2,N/A
-2915510,"May 18, 2024",Kentucky,Owensboro,"2200 block of E 18th. St",0,1,0,0,0,N/A
-2918891,"May 18, 2024",Virginia,Alexandria,"4800 block of Kenmore Ave",0,1,0,0,0,N/A
-2926203,"May 18, 2024",Washington,"Seattle (Shoreline)","2201 NE 201st Ct",1,1,0,1,1,N/A
-2914655,"May 18, 2024",Washington,Spokane,"402 W Sprague Ave",0,0,0,2,1,N/A
-2914469,"May 18, 2024",Indiana,Evansville,"2000 block of E Gum St",0,1,0,0,0,N/A
-2913530,"May 18, 2024",Indiana,Indianapolis,"N Pennsylvania St and E Washington St",0,1,0,0,0,N/A
-2913262,"May 18, 2024",Texas,"Fort Worth","300 block of E Seminary Dr",1,0,0,0,0,N/A
-2919026,"May 18, 2024",Virginia,Woodbridge,"Prince William Pkwy and Marblestone Dr",0,1,0,0,0,N/A
-2913580,"May 18, 2024",Illinois,Chicago,"6800 block of S Wabash Ave",0,1,0,0,0,N/A
-2911807,"May 16, 2024",Arizona,Mesa,"9913 E Main St",0,1,0,0,0,N/A
-2923452,"May 16, 2024",Washington,Yakima,"1400 block of S 18th St",0,0,0,1,0,N/A
-3082338,"May 16, 2024",Florida,"West Palm Beach","840 Avon Rd",1,0,0,0,1,N/A
-2910645,"May 15, 2024",Michigan,Flint,"700 block of E Philadelphia Blvd",1,0,0,0,0,N/A
-2918670,"May 15, 2024",Virginia,Suffolk,"White Marsh Rd",1,0,0,0,0,N/A
-3034487,"May 15, 2024",Pennsylvania,Pottstown,"400 block of West St",0,1,0,0,0,N/A
-2912318,"May 15, 2024",Missouri,Mexico,"500 block of N Abat St",0,1,0,0,0,N/A
-2911459,"May 15, 2024",Alabama,Birmingham,N/A,0,1,0,0,0,N/A
-2910852,"May 14, 2024",Texas,Houston,"12800 block of Shannon Hills Dr",0,1,0,0,0,N/A
-2916447,"May 14, 2024",Texas,Weatherford,"1000 block of Grindstone Rd",0,1,0,0,1,N/A
-2912194,"May 14, 2024",Oregon,Enterprise,"68000 block of Elk Mountain Rd",1,0,0,0,0,N/A
-2910136,"May 14, 2024",Indiana,Indianapolis,"W Vermont St and N White River Pkwy Dr W",1,0,0,0,0,N/A
-2908962,"May 13, 2024",Ohio,Cleveland,"Lakeview Rd and Scottwood Ave",0,1,0,0,0,N/A
-2908353,"May 13, 2024",Indiana,Evansville,"100 Cross Pointe Blvd",0,1,0,0,0,N/A
-2908551,"May 12, 2024",Montana,Missoula,"600 block of Michigan Ave",0,1,0,0,0,N/A
-2908494,"May 12, 2024",Alabama,"Birmingham (Center Point)","2400 block of 5th St NW",0,1,0,0,0,N/A
-2907392,"May 12, 2024",Indiana,Indianapolis,"1800 block of N Layman Ave",0,1,0,0,0,N/A
-2907202,"May 12, 2024",Pennsylvania,Philadelphia,"1900 block of Croskey St",0,1,0,0,0,N/A
-2907672,"May 12, 2024","District of Columbia",Washington,"3600 block of Jay St NE",0,1,0,0,0,N/A
-2906822,"May 11, 2024",Illinois,Chicago,"1600 block of E 84th St",0,1,0,0,0,N/A
-2907724,"May 11, 2024",Tennessee,Knoxville,"957 E Hill Ave",0,1,0,0,2,N/A
-2943152,"May 11, 2024","South Carolina",Seneca,"Curtis Dr",0,0,0,1,1,N/A
-2916148,"May 11, 2024",Alabama,Montgomery,"Molton St",0,1,0,0,0,N/A
-2908561,"May 11, 2024",Ohio,"Youngstown (Boardman)","South Ave",0,1,0,0,0,N/A
-2910119,"May 11, 2024",Pennsylvania,"Lansdowne (Yeadon)","1100 block of Church Ln",0,1,0,0,1,N/A
-2905771,"May 10, 2024",Texas,Houston,"4410 Cook Rd",0,1,0,0,0,N/A
-2906610,"May 10, 2024",Maryland,Reisterstown,"100 block of Shetland Cir",0,1,0,0,0,N/A
-2916146,"May 10, 2024",Alabama,Montgomery,"N Belt Dr",0,1,0,0,0,N/A
-2906477,"May 10, 2024",Florida,Miami,"15200 block of SW 167th St",0,1,0,0,0,N/A
-2919683,"May 9, 2024",Georgia,Augusta,"1814 Fayetteville Dr",0,1,0,1,1,N/A
-2905833,"May 9, 2024",Kentucky,Glasgow,"Arnett Grove Rd",0,1,0,0,0,N/A
-2912760,"May 9, 2024",Texas,"La Grange",N/A,0,1,0,0,0,N/A
-2905128,"May 9, 2024",Louisiana,"Bossier City","4814 Shed Rd",0,0,0,0,1,N/A
-2905731,"May 8, 2024",Georgia,"Union City","6393 Shannon Pkwy",0,1,0,0,0,N/A
-2904013,"May 8, 2024",Tennessee,Nashville,"595 Hicks Rd",0,1,0,0,0,N/A
-2904925,"May 8, 2024","North Carolina","Rocky Mount","1401 Cardinal St",0,0,0,0,0,N/A
-2905343,"May 8, 2024",Florida,"Lake Worth (Lantana)","6300 Seminole Dr",0,0,0,1,1,N/A
-2907310,"May 8, 2024",Nevada,Reno,"2000 block of Wedekind Rd",0,1,0,0,1,N/A
-2904093,"May 7, 2024","North Carolina","Winston Salem (Winston-salem)","1600 Brewer Rd",0,1,0,0,1,N/A
-2904041,"May 7, 2024",Florida,"Wesley Chapel","Stengal Loop",0,1,0,0,0,N/A
-2904709,"May 7, 2024",Texas,Spring,"21200 block of Shadow River Ln",0,1,0,0,0,N/A
-2955478,"May 6, 2024",Florida,Sebring,"Vicki Terrace",0,0,0,1,1,N/A
-2901179,"May 6, 2024",Tennessee,Memphis,"3900 block of Bertram Cove",0,1,0,0,0,N/A
-2900969,"May 5, 2024",Ohio,Euclid,"800 block of E 236th St",1,0,0,0,0,N/A
-2900662,"May 5, 2024",Tennessee,Nashville,"914 16th Ave N",1,0,0,0,0,N/A
-2901136,"May 5, 2024",Arkansas,Fayetteville,"4201 N Shiloh Dr",0,0,0,1,1,N/A
-2900856,"May 4, 2024",Washington,"Moses Lake","2822 W Driggs Dr",0,1,0,1,1,N/A
-2901002,"May 4, 2024",Illinois,Chicago,"9800 block of S Hoxie Ave",1,0,0,0,1,N/A
-2900360,"May 4, 2024",Illinois,Chicago,"6900 block of S Rockwell St",0,1,0,0,0,N/A
-2900283,"May 4, 2024",Louisiana,Shreveport,N/A,0,1,0,0,0,N/A
-2902131,"May 3, 2024",Alabama,Madison,"115 Graphics Dr",0,1,0,0,0,N/A
-2900062,"May 3, 2024","New York",Syracuse,"1521 S State St",1,0,0,0,1,N/A
-2899602,"May 3, 2024",Pennsylvania,Harrisburg,"2200 N 6th St",1,0,0,1,1,N/A
-2899772,"May 3, 2024",Mississippi,Meridian,"1300 block of B St",0,1,0,0,0,N/A
-2902306,"May 3, 2024",Texas,Odessa,"2021 E 2nd St",0,1,0,0,1,N/A
-2912411,"May 2, 2024","South Carolina",Buffalo,N/A,0,1,0,0,1,N/A
-2896868,"May 1, 2024","North Carolina",Charlotte,"811 E Trade St",0,1,0,0,0,N/A
-2898042,"May 1, 2024",Wisconsin,Milwaukee,"N 28th St and W Concordia Ave",1,0,0,0,1,N/A
-2898146,"May 1, 2024",Florida,Miami,"9535 W Flagler St",0,1,0,0,0,N/A
-2897626,"May 1, 2024","North Carolina",Pembroke,"Roberts Ave",1,0,0,0,1,N/A
-2897172,"May 1, 2024","New Hampshire",Franklin,"Plains Ct",0,1,0,0,1,N/A
-2897263,"May 1, 2024",Mississippi,"Lauderdale County (county)",N/A,0,1,0,0,0,N/A
-2895653,"April 30, 2024","North Carolina","Roanoke Rapids","5501 NC-903",0,1,0,0,0,N/A
-2899999,"April 30, 2024","New York","New York (Manhattan)","1130 Amsterdam Ave",0,0,0,0,0,N/A
-2897838,"April 30, 2024",Virginia,Stafford,"512 Graceview Ln",0,1,0,0,1,N/A
-2896101,"April 30, 2024",Indiana,Lafayette,"1855 Shoshone Dr",0,1,0,0,0,N/A
-2895266,"April 29, 2024","North Carolina",Tarboro,"500 Benson Dr",0,1,0,0,1,N/A
-2896313,"April 29, 2024",Virginia,Luray,"400 block of Pass Run Rd",1,0,0,0,0,N/A
-2894067,"April 29, 2024",Tennessee,Clarksville,"1123 Hazel Dr",1,0,0,0,0,N/A
-2894704,"April 29, 2024",Indiana,"South Bend","600 block of S 30th St",0,1,0,0,0,N/A
-2894385,"April 28, 2024",Georgia,Atlanta,"1114 Oak Knoll Terrace SE",0,1,0,0,0,N/A
-2894369,"April 28, 2024",Georgia,Leesburg,"100 block of Alder Dr",0,1,0,0,0,N/A
-2894005,"April 28, 2024","North Carolina",Charlotte,"10300 block of Wheatside Dr",0,1,0,0,2,N/A
-2894374,"April 28, 2024",Delaware,Wilmington,"3314 Wilson St",1,0,0,0,0,N/A
-2893064,"April 28, 2024",Tennessee,"Knoxville (Farragut)","917 McFee Rd",0,1,0,0,0,N/A
-2893814,"April 28, 2024",Florida,Homestead,"2592 SE 15th Ct",0,1,0,0,0,N/A
-2893348,"April 28, 2024",Alabama,Huntsville,"196 Jeff Rd NW",1,0,0,0,0,N/A
-2893377,"April 28, 2024","New York","New York (Manhattan)","50th Street and 12th Avenue",0,0,0,1,1,N/A
-2897117,"April 28, 2024",Pennsylvania,Luthersburg,"Bearfield Rd",1,0,0,0,1,N/A
-2893282,"April 27, 2024",Kentucky,Elizabethtown,"622 Stewart St",0,1,0,0,1,N/A
-2893273,"April 27, 2024",Michigan,Detroit,"1100 block of Broadway St",0,1,0,0,0,N/A
-2892368,"April 27, 2024","New York","Rockville Centre","30 Old Mill Ct",0,1,0,0,0,N/A
-2895875,"April 27, 2024",Nebraska,"South Sioux City","2701 Flatwater Dr",1,0,0,0,1,N/A
-2891756,"April 26, 2024",Tennessee,Munford,"Wordon Way and Munford Ave",0,1,0,0,0,N/A
-2898156,"April 26, 2024",Illinois,Waukegan,"800 block of S McAlister Ave",0,1,0,0,0,N/A
-2891492,"April 26, 2024",Michigan,Detroit,"2035 Michigan Ave",0,2,0,0,0,N/A
-2892163,"April 26, 2024",California,"Long Beach","400 block of W Willow St",0,1,0,0,0,N/A
-2891674,"April 26, 2024",Florida,"Saint Petersburg","1421 43rd St S",1,0,0,0,1,N/A
-2892075,"April 26, 2024",Florida,"Bonita Springs","Shriver Ave",0,1,0,0,0,N/A
-2891803,"April 26, 2024",Louisiana,Shreveport,"6777 Rasberry Ln",0,1,0,0,0,N/A
-2895863,"April 26, 2024",Iowa,Waterloo,N/A,0,1,0,0,0,N/A
-2890959,"April 25, 2024",Florida,"Hollywood (Miramar)","10767 N Preserve Way",1,0,0,0,0,N/A
-2892632,"April 25, 2024",Texas,Alamo,"423 N Tower Rd",0,1,0,0,0,N/A
-2891781,"April 25, 2024",Tennessee,Memphis,"1335 S Bellevue Blvd",0,1,0,0,1,N/A
-2891333,"April 24, 2024",Arkansas,Texarkana,"1400 E 35th St",0,1,0,0,0,N/A
-2888339,"April 23, 2024","West Virginia",Genoa,"Joels Branch Rd",0,1,0,0,1,N/A
-2888832,"April 23, 2024",Ohio,Cincinnati,"600 block of Straight St",0,1,0,0,0,N/A
-2887297,"April 22, 2024",Ohio,Toledo,"1700 block of Nevada St",0,1,0,0,0,N/A
-2887399,"April 21, 2024",Utah,"West Jordan","3283 W Jordan Line Pkwy",0,1,0,0,1,N/A
-2886491,"April 20, 2024",Arizona,Surprise,"12701 W Bell Rd",0,1,0,0,1,N/A
-2886930,"April 20, 2024",Virginia,Richmond,"5316 Hull Street Rd N",0,1,0,0,0,N/A
-2887177,"April 20, 2024",Michigan,Jackson,"900 block of Maple Ave",1,0,0,0,0,N/A
-2885631,"April 19, 2024","North Carolina",Hickory,"1000 block of Finger Bridge Rd",1,0,0,0,0,N/A
-2885068,"April 19, 2024",Ohio,"West Chester","9316 Minuteman Way",0,1,0,0,0,N/A
-2891466,"April 19, 2024",Nevada,Sparks,"1125 Avenue of the Oaks Dr",0,1,0,0,1,N/A
-2884849,"April 19, 2024",Michigan,Warren,"25108 Hoover Rd",0,1,0,0,0,N/A
-2885365,"April 19, 2024",Missouri,"Saint Louis","10100 block of Green Valley Dr",0,1,0,0,0,N/A
-2885129,"April 18, 2024",Tennessee,Mohawk,"3800 block of Fish Hatchery Rd",0,1,0,0,0,N/A
-2884823,"April 18, 2024","North Carolina",Kinston,"2600 block of Dean Dr",1,0,0,0,0,N/A
-2884899,"April 18, 2024",Ohio,Chillicothe,"Oak Ln",0,1,0,0,0,N/A
-2883886,"April 18, 2024",Kentucky,Lexington,"Kirklevington Dr",0,1,0,0,0,N/A
-2910127,"April 18, 2024",Illinois,Frankfort,"7500 W Lincoln Hwy",0,1,0,0,0,N/A
-2904215,"April 17, 2024",Texas,"Fort Worth","2700 block of NW 26th St",0,1,0,0,0,N/A
-2882721,"April 17, 2024",Nebraska,Lincoln,"58th St and J St",0,1,0,0,0,N/A
-2883625,"April 17, 2024","South Carolina",Scranton,"1100 block of Clover Hill Rd",1,0,0,0,0,N/A
-2883953,"April 16, 2024",Louisiana,"New Orleans","3200 block of General De Gaulle Dr",0,1,0,0,0,N/A
-2887262,"April 16, 2024",Oklahoma,"Woods (county)",N/A,0,1,0,0,0,N/A
-2883574,"April 16, 2024",Missouri,"Kansas City","7400 block of E 51st St",1,0,0,0,0,N/A
-2881312,"April 16, 2024",Arizona,Tucson,"300 block of N Indian House Rd",1,0,0,0,1,N/A
-2880801,"April 14, 2024",Tennessee,Jackson,N/A,0,1,0,0,0,N/A
-2880367,"April 14, 2024",Iowa,Eldora,"800 block of 12th St",1,0,0,0,1,N/A
-2880139,"April 14, 2024","New York",Rochester,"Daus Alley",0,0,0,1,1,N/A
-2880498,"April 14, 2024",Missouri,Rushville,"13460 US-59",0,1,0,0,0,N/A
-2880840,"April 14, 2024",Indiana,Evansville,"1900 block of Burdette Ave",0,1,0,0,0,N/A
-2880997,"April 14, 2024",Ohio,Fairborn,"2580 Colonel Glenn Hwy",0,1,0,0,1,N/A
-2879104,"April 13, 2024",Washington,Renton,"Camas Ave NE and Edmonds Ave NE",1,0,0,0,1,N/A
-2879215,"April 13, 2024",Georgia,Atlanta,"659 Hutchens Rd SE",0,1,0,0,0,N/A
-2879610,"April 13, 2024","North Carolina",Wendell,"6200 block of Turnipseed Rd",0,1,0,0,0,N/A
-2883545,"April 13, 2024",Ohio,Columbus,"2100 Block of Argyle Dr",0,1,0,0,0,N/A
-2878085,"April 12, 2024",Florida,"Cocoa (Port Saint John)","Balfern St",1,0,0,0,0,N/A
-2878774,"April 12, 2024",Florida,Cantonment,"1300 block of Wishbone Rd",1,0,0,0,1,N/A
-2878023,"April 12, 2024",Minnesota,"Saint Paul (Woodbury)","2500 block of Cobble Hill Ct",0,1,0,0,0,N/A
-2887702,"April 12, 2024","North Carolina","Rocky Mount","100 block of Boyd Ct",0,1,0,0,0,N/A
-2877736,"April 11, 2024","South Carolina",Columbia,"100 block of Angel Garden Way",2,0,0,1,4,N/A
-2877687,"April 11, 2024",Illinois,Chicago,"10440 S Calumet Ave",0,1,0,0,0,N/A
-2878520,"April 11, 2024",Pennsylvania,Lebanon,"700 block of Lehman St",1,0,0,0,1,N/A
-2878092,"April 10, 2024",Florida,Homestead,"11700 SW 304th St",0,1,0,0,0,N/A
-2876956,"April 10, 2024","South Carolina",Greenwood,"1401 Phoenix St",1,0,0,0,1,N/A
-2875522,"April 10, 2024",Connecticut,Enfield,"Lincoln St",0,1,0,0,0,N/A
-2876326,"April 10, 2024",Pennsylvania,Philadelphia,"3137 N Broad St",0,1,0,0,1,N/A
-2876553,"April 10, 2024",Ohio,"Valley City","900 block of Marks Rd",1,0,0,0,0,N/A
-2875227,"April 9, 2024",Ohio,Orient,"11781 State Rte 762",1,0,0,0,1,N/A
-2874926,"April 9, 2024",Minnesota,"Minneapolis (Coon Rapids)","10400 block of Osage St NW",0,1,0,0,0,N/A
-2876007,"April 9, 2024",Florida,Jacksonville,"Manotak Point Dr",0,1,0,0,0,N/A
-2878518,"April 9, 2024",Virginia,Petersburg,"100 block of University Blvd",0,1,0,0,0,N/A
-2874170,"April 8, 2024",Illinois,Chicago,N/A,0,1,0,0,0,N/A
-2874741,"April 8, 2024","New York",Brooklyn,"324 Howard Ave",0,1,0,0,1,N/A
-2878545,"April 8, 2024",Utah,Vernal,N/A,0,1,0,1,0,N/A
-2873788,"April 7, 2024",Ohio,Youngstown,"300 block of Hilton Ave",0,1,0,0,0,N/A
-2873514,"April 7, 2024",Wisconsin,Milwaukee,"N 36th St and W Villard Ave",0,1,0,0,0,N/A
-2874165,"April 7, 2024",Tennessee,Memphis,"1900 block of Frisco Ave",1,0,0,0,0,N/A
-2873979,"April 7, 2024","North Carolina",Charlotte,"3000 Nobles Ave",0,1,0,0,1,N/A
-2874524,"April 7, 2024",Arizona,Phoenix,"N 7th Ave and E Mountain View Rd",1,0,0,0,1,N/A
-2874201,"April 7, 2024",Washington,"Port Angeles","W 15th St and S C St",0,1,0,0,1,N/A
-2874354,"April 7, 2024",Texas,Brownwood,"Co Rd 234",0,1,0,0,0,N/A
-2874316,"April 7, 2024",Virginia,Norfolk,"3100 block of Bapaume Ave",0,1,0,0,1,N/A
-2873244,"April 6, 2024",Illinois,Mundelein,"18900 block of W Rose Ave",0,1,0,0,0,N/A
-3047548,"April 6, 2024",Louisiana,Gretna,"Theard St",0,1,0,1,1,N/A
-2877277,"April 6, 2024",Louisiana,Monroe,N/A,0,1,0,0,0,N/A
-2872920,"April 6, 2024",Pennsylvania,Philadelphia,"500 block of E Chelten Ave",1,0,0,0,0,N/A
-2872770,"April 6, 2024",Illinois,Decatur,"600 block of W William St",1,0,0,0,1,N/A
-2875589,"April 5, 2024","New Jersey",Edison,"Glencourt Ave",1,0,0,0,0,N/A
-2872179,"April 4, 2024",Kentucky,Ary,KY-476,1,0,0,0,0,N/A
-2870898,"April 3, 2024",Kansas,Wichita,"1100 block of S Dodge Ave",0,1,0,0,0,N/A
-2871471,"April 3, 2024",Florida,"North Miami Beach","17200 block of NE 2nd Ave",0,1,0,0,0,N/A
-2875680,"April 3, 2024",Arizona,Scottsdale,"10137 E Osborn Rd",0,4,0,0,0,N/A
-2869692,"April 3, 2024",Illinois,Chicago,"6840 S Green St",0,1,0,0,0,N/A
-2871528,"April 3, 2024",Virginia,Richmond,"1900 block of Idlewood Ave",0,1,0,0,0,N/A
-2869058,"April 2, 2024",Tennessee,Nashville,"814 17th Ave N",0,1,0,0,1,N/A
-2874846,"April 2, 2024",Georgia,Savannah,"500 block of Treat Ave",0,1,0,0,0,N/A
-2870106,"April 2, 2024",Texas,"San Antonio","Compton Ave and S Flores St",0,1,0,0,0,N/A
-2869595,"April 2, 2024",Maine,Bangor,"Highland Ave",1,0,0,0,1,N/A
-2869099,"April 2, 2024",Louisiana,"Saint Martinville (St Martinvlle)","1381 Francois Rd",0,1,0,0,0,N/A
-2869777,"April 2, 2024",Texas,"San Antonio","200 block of E Sonterra Blvd",0,1,0,0,0,N/A
-2872655,"April 2, 2024",Iowa,Waterloo,N/A,0,1,0,0,0,N/A
-2869603,"April 2, 2024",Missouri,"Saint Louis","4100 block of S Grand Blvd",0,1,0,0,0,N/A
-2870809,"April 2, 2024",Ohio,Cleveland,"800 block of E 141st St",0,1,0,1,0,N/A
-2869592,"April 2, 2024",Massachusetts,Cambridge,"459 Broadway Ct",0,0,0,0,0,N/A
-2868954,"April 1, 2024",Minnesota,"Saint Paul","1940 Marshall Ave",1,0,0,0,1,N/A
-2868216,"April 1, 2024",Michigan,Newaygo,"W 68th St and Bingham Ave",1,0,0,0,0,N/A
-2868099,"March 31, 2024","New York",Watertown,"1 Public Sq",0,1,0,1,1,N/A
-2868211,"March 31, 2024",Michigan,Saginaw,"2100 block of Avon St",1,0,0,0,1,N/A
+2960026,"July 4, 2024",Texas,"Fort Worth","3700 block of Castleman St",2,2,0,0,1,N/A
+2959184,"July 4, 2024",Pennsylvania,Philadelphia,"1900 block of Salford St",1,8,0,0,0,N/A
+2960055,"July 4, 2024",Texas,"Fort Worth","7524 W Cleburne Rd",3,2,0,1,1,N/A
+2959928,"July 4, 2024",Missouri,"Saint Louis (Spanish Lake)","1200 block of Lakeview Dr",1,5,0,0,0,N/A
+2959943,"July 4, 2024",Missouri,"Saint Louis","8th St and Pine St",0,7,0,0,0,N/A
+2959734,"July 4, 2024",Mississippi,"Ocean Springs","Cumberland Rd",0,16,0,0,1,N/A
+2955181,"July 1, 2024",Missouri,Charleston,"700 South St",0,5,0,0,1,N/A
+2956748,"July 1, 2024",Pennsylvania,Philadelphia,"2700 Dickinson St",1,3,0,1,1,N/A
+2954458,"June 29, 2024",Georgia,Sylvania,"Lawton Place Dr",0,6,0,0,0,N/A
+2952812,"June 28, 2024","New York","Niagara Falls","11th St and La Salle Ave",0,4,0,0,0,N/A
+2952577,"June 28, 2024",Texas,"Corpus Christi","2600 block of Buford St",2,3,0,0,0,N/A
+2953462,"June 28, 2024",Nebraska,Crete,"1200 block of Crestline Dr",0,7,1,0,0,N/A
+2951432,"June 26, 2024",California,Lancaster,"800 block of E Ave J-12",2,5,0,0,2,N/A
+2950871,"June 26, 2024",Wisconsin,Milwaukee,"5912 W Oklahoma Ave",0,4,0,0,2,N/A
+2949852,"June 24, 2024",Nevada,"North Las Vegas","370 Casa Norte Dr",5,1,1,0,0,N/A
+2948840,"June 24, 2024",Ohio,Dayton,"1530 Home Ave",2,5,0,0,0,N/A
+2950074,"June 24, 2024",Ohio,Dayton,"4900 block of Genesee Ave",0,4,1,0,0,N/A
+2949287,"June 24, 2024",Pennsylvania,York,"600 block of W Market St",0,4,0,0,0,N/A
+2947726,"June 23, 2024",Ohio,Columbus,"1100 block of N High St",0,10,0,0,0,N/A
+2948227,"June 23, 2024",California,Vallejo,"Spring Rd and Monterey St",1,3,0,0,0,N/A
+2948042,"June 23, 2024","North Carolina","Winston Salem (Winston-salem)","2915 Starlight Dr",1,3,0,1,1,N/A
+2947750,"June 23, 2024","New York",Rochester,"353 Court St",0,6,0,0,1,N/A
+2947743,"June 23, 2024",Missouri,"Saint Louis","N 11th St and Market St",1,5,0,0,1,N/A
+2947774,"June 23, 2024",Florida,Tampa,"11606 McKinley Dr",1,3,0,0,4,N/A
+2948220,"June 23, 2024","New Jersey",Trenton,"101 Walnut Ave",1,3,0,0,1,N/A
+2947849,"June 23, 2024",Alabama,Montgomery,"N Pass Rd and Coliseum Blvd",0,9,0,0,0,N/A
+2947249,"June 22, 2024",Mississippi,Canton,"Hickory St",1,5,0,0,1,N/A
+2947842,"June 22, 2024",Virginia,"Glen Allen","11690 Old Washington Hwy",0,6,0,0,0,N/A
+2946903,"June 22, 2024",Kentucky,Louisville,"2523 West Broadway",1,7,0,0,0,N/A
+2945819,"June 21, 2024",Arkansas,Fordyce,"920 W 4th St",4,9,0,1,1,N/A
+2947288,"June 21, 2024",Mississippi,Meridian,"500 block of 53rd Ave",1,3,0,0,1,N/A
+2946833,"June 21, 2024","District of Columbia",Washington,"14th Pl and Savannah St SE",0,4,0,0,0,N/A
+2944778,"June 19, 2024",California,Oakland,"400 block of Grand Ave",0,13,0,1,1,N/A
+2944267,"June 19, 2024",Pennsylvania,Philadelphia,"2800 block of N Bambrey St",0,7,0,0,2,N/A
+2943875,"June 18, 2024",California,Richmond,"700 Pennsylvania Ave",2,2,0,0,0,N/A
+2943300,"June 17, 2024",Georgia,Macon,"3700 block of Napier Ave",1,3,0,0,0,N/A
+2941749,"June 17, 2024",Illinois,Chicago,"6000 block of S Winchester Ave",0,7,0,0,0,N/A
+2941737,"June 17, 2024",Illinois,Chicago,"900 block of N Pulaski Rd",0,5,0,0,0,N/A
+2940961,"June 16, 2024",Arkansas,"Pine Bluff","200 Lake Saracen Dr",1,3,0,0,0,N/A
+2941065,"June 16, 2024",Massachusetts,Methuen,"100 Lindberg Ave",0,7,0,0,0,N/A
+2941392,"June 16, 2024",Indiana,"South Bend","1623 Lincoln Way W",0,4,0,0,0,N/A
+2940418,"June 15, 2024",Ohio,Cincinnati,"6300 Bramble Ave",0,5,0,0,0,N/A
+2940302,"June 15, 2024",Michigan,"Rochester (Rochester Hills)","1585 E Auburn Rd",0,9,1,0,0,N/A
+2940337,"June 15, 2024",Michigan,Southfield,"17587 Margate Ave",0,6,0,0,0,N/A
+2940598,"June 15, 2024",Texas,"Round Rock","1371 Harrell Pkwy",2,14,0,0,3,N/A
+2940762,"June 15, 2024",Michigan,Detroit,"17800 block of Albion Ave",1,4,0,0,0,N/A
+2940313,"June 15, 2024",Alabama,Tuskegee,"207 E Martin Luther King Hwy",1,3,0,0,0,N/A
+2939783,"June 14, 2024","West Virginia",Princeton,"347 Meadowfield Ln",0,5,0,0,1,N/A
+2940564,"June 14, 2024",Pennsylvania,Philadelphia,"3301 W York St",1,4,0,0,1,N/A
+2939734,"June 14, 2024",Florida,"Fort Lauderdale","2300 block of NW Eighth St",1,4,0,0,0,N/A
+2939289,"June 14, 2024",Illinois,Chicago,"9100 block of S Harper Ave",0,4,0,0,0,N/A
+2939657,"June 14, 2024",Ohio,Columbus,"205 N 5th St",2,2,0,0,1,N/A
+2939030,"June 13, 2024",Illinois,Chicago,"11910 S Michigan Ave",0,4,0,0,0,N/A
+2943126,"June 12, 2024",Florida,Hudson,"Nottingham Trail",4,0,0,0,1,N/A
+2937456,"June 11, 2024",Tennessee,Memphis,"I-240 and Poplar Ave",0,5,0,0,4,N/A
+2935591,"June 9, 2024","District of Columbia",Washington,"2200 block of Minnesota Ave SE",0,6,0,0,0,N/A
+2935280,"June 9, 2024",Nevada,Sparks,"300 block of Howard Dr",0,4,0,0,1,N/A
+2935430,"June 9, 2024",Texas,Dallas,"Elm St and N Crowdus St",0,4,0,0,0,N/A
+2935144,"June 9, 2024",Wisconsin,Madison,"433 W Johnson St",0,12,0,0,1,N/A
+2936012,"June 9, 2024",Virginia,Richmond,"200 block of N 2nd St",0,4,0,0,0,N/A
+2936435,"June 8, 2024",Alabama,Eufaula,"900 block of Jackson St",0,4,0,0,0,N/A
+2934578,"June 8, 2024","South Dakota","Sioux Falls","5105 S Drexel Ave",3,2,0,0,1,N/A
+2934537,"June 8, 2024","North Carolina",Charlotte,"616 N Tryon St",1,3,0,0,1,N/A
+2934048,"June 7, 2024",Missouri,"Saint Louis (Jennings)","2600 block of Shannon Ave",1,4,0,0,0,N/A
+2934417,"June 7, 2024","South Carolina",Seabrook,"Horace Dawson Ln",0,4,0,0,0,N/A
+2934007,"June 7, 2024",California,Compton,"E Greenleaf Blvd and S Mayo Ave",1,5,0,0,0,N/A
+2933578,"June 6, 2024",Missouri,"Kansas City","3200 block of Bellefontaine Ave",2,2,0,0,0,N/A
+2930393,"June 3, 2024",Tennessee,Memphis,"3600 block of Powers Rd",0,4,0,0,0,N/A
+2930818,"June 3, 2024",Virginia,Triangle,"3700 block of Masthead Trail",1,3,0,0,1,N/A
+2931572,"June 3, 2024",Pennsylvania,Philadelphia,"N Philip St and W Westmoreland St",0,4,0,0,0,N/A
+2928604,"June 2, 2024",Pennsylvania,Pittsburgh,"3534 Laketon Rd",2,7,0,0,1,N/A
+2928765,"June 2, 2024",Florida,Pensacola,"Palafox St and W Intendencia St",0,4,0,0,1,N/A
+2928754,"June 2, 2024",Virginia,"Newport News","26th St and Parish Ave",0,4,0,0,0,N/A
+2929682,"June 2, 2024",Missouri,"Saint Louis","3775 Kossuth Ave",0,6,0,0,0,N/A
+2928614,"June 2, 2024",Kentucky,Louisville,"7015 Raggard Rd",0,7,0,0,0,N/A
+2928467,"June 2, 2024",Ohio,Akron,"Kelly Ave and 8th Ave",1,28,0,0,0,N/A
+2929504,"June 1, 2024",Pennsylvania,Philadelphia,"900 block of S 58th St",1,3,0,0,0,N/A
+2928378,"June 1, 2024",Michigan,Detroit,"W Grand Blvd and W Warren Ave",0,5,0,0,0,N/A
+2928808,"June 1, 2024","South Carolina","Rock Hill","900 block of Southland Dr",2,2,0,0,1,N/A
+2928214,"June 1, 2024",Ohio,Columbus,"500 block of N Ohio Ave",1,3,0,0,0,N/A
+2927825,"June 1, 2024",Arizona,Sacaton,"629 W Moffett Rd",2,4,0,2,2,N/A
+2925929,"May 30, 2024",Minnesota,Minneapolis,"2221 Blaisdell Ave",3,3,1,0,0,N/A
+2926808,"May 30, 2024",Maryland,Elkridge,"6900 block of Norwood Ferry",3,1,1,0,0,N/A
+2926373,"May 30, 2024",Georgia,Decatur,"2300 block of Greenway Dr",0,5,0,1,1,N/A
+2927030,"May 30, 2024",Utah,"Salt Lake City (Murray)","W Fireclay Ave and Birkhill Blvd",1,3,0,0,1,N/A
+2923547,"May 28, 2024",Connecticut,Waterbury,"50 Mitchell Ave",0,4,0,0,0,N/A
+2922097,"May 27, 2024",Michigan,Lansing,"325 Riverfront Dr",1,6,0,0,0,N/A
+2923055,"May 27, 2024",California,Sacramento,"2701 Meadowview Rd",0,4,0,1,3,N/A
+2923261,"May 27, 2024",Virginia,Richmond,"1900 block of Raven Ct",2,2,0,0,0,N/A
+2938698,"May 27, 2024",Mississippi,Jackson,"Northside Dr",0,4,0,0,4,N/A
+2921217,"May 26, 2024",Illinois,Chicago,"1300 block of S Christiana Ave",1,3,0,0,0,N/A
+2921717,"May 26, 2024",Ohio,Cleveland,"1437 St Clair Ave",2,2,0,0,3,N/A
+2921394,"May 26, 2024",Missouri,"Kansas City","Westport Road and Broadway",0,5,1,0,0,N/A
+2921251,"May 25, 2024",California,"San Fernando","925 Orange Grove Ave",0,5,0,0,1,N/A
+2921097,"May 25, 2024",Minnesota,"Saint Paul (North Saint Paul)","2039 17th Ave E",0,4,0,0,0,N/A
+2920512,"May 25, 2024",Florida,"Fort Pierce","1800 block of Ave G",0,5,0,0,0,N/A
+2920544,"May 24, 2024",Illinois,"Pembroke Township","13100 E Central St",2,3,0,0,0,N/A
+2919460,"May 23, 2024","New Jersey",Newark,"121 Shephard Ave",0,4,0,0,0,N/A
+2917331,"May 22, 2024",Pennsylvania,Chester,"2626 W 4th St",2,3,0,0,1,N/A
+2916464,"May 21, 2024",Illinois,Chicago,"1100 block of S Whipple St",0,4,0,0,0,N/A
+2916825,"May 21, 2024",Pennsylvania,Harrisburg,"Chestnut St and S 15th St",1,3,1,0,2,N/A
+2918843,"May 20, 2024",Michigan,Detroit,"17000 block of Ohio St",1,4,0,0,1,N/A
+2913404,"May 18, 2024",Florida,Sarasota,"3474 17th St",1,4,0,1,1,N/A
+2914188,"May 18, 2024",Missouri,"Saint Louis","3000 block of Olive St",1,3,0,0,2,N/A
+2914190,"May 18, 2024",Missouri,Bridgeton,"MO-141 and Corporate Woods Dr",1,4,0,0,2,N/A
+2914713,"May 18, 2024","North Carolina",Reidsville,"8110 Cherry Grove Rd",2,2,1,0,0,N/A
+2913794,"May 18, 2024",Illinois,Chicago,"700 block of S Albany Ave",0,6,0,0,0,N/A
+2913782,"May 18, 2024",Georgia,Savannah,"W Congress Ln and Barnard St",0,9,0,2,7,N/A
+2913052,"May 18, 2024",Ohio,Columbus,"132 E 5th Ave",3,3,0,0,0,N/A
+2908173,"May 12, 2024",Missouri,"Saint Louis","10000 block of Toelle Ln",1,3,0,0,0,N/A
+2907387,"May 12, 2024",Florida,Tallahassee,"1147 Apalachee Pkwy",2,2,0,0,0,N/A
+2916101,"May 12, 2024",Alabama,Montgomery,"2400 block of Eastern Blvd",0,6,0,0,0,N/A
+2907162,"May 12, 2024",Georgia,Atlanta,"2110 Peachtree Rd NW",2,4,0,0,1,N/A
+2907598,"May 12, 2024",Massachusetts,Northborough,"333 Howard St",1,4,0,0,3,N/A
+2906715,"May 11, 2024",Kentucky,Louisville,"282 Evangeline Ave",2,2,0,0,0,N/A
+2907355,"May 11, 2024",Alabama,Stockton,"9400 block of Bryants Landing Rd",3,15,0,0,3,N/A
+2904508,"May 8, 2024",Texas,"San Antonio","6708 Windsor Hollow Dr",1,4,0,0,1,N/A
+2904816,"May 8, 2024","North Carolina",Durham,"311 S Lasalle St",1,3,0,0,2,N/A
+2902327,"May 6, 2024",Indiana,"Fort Wayne","Hanna St and E Rudisill Blvd",0,4,0,0,1,N/A
+2900406,"May 5, 2024",Alabama,Birmingham,"800 3rd Ave W",1,6,0,0,2,N/A
+2900481,"May 5, 2024",Alabama,Tuscaloosa,"1300 block of 58th St E",1,3,0,0,1,N/A
+2901278,"May 5, 2024",Alabama,Huntsville,"708 Poplar Ave NW",0,5,0,0,1,N/A
+2902726,"May 5, 2024","New Mexico",Gallup,"1500 block of S 2nd St",2,2,0,0,0,N/A
+2899844,"May 4, 2024","New York","Corona (Queens)","108-11 Atlantic Avenue",1,3,0,0,0,N/A
+2900308,"May 4, 2024",California,"Long Beach","2688 E South St",0,7,0,0,0,N/A
+2900165,"May 4, 2024","New York",Buffalo,"1490 Jefferson Ave",1,5,0,0,0,N/A
+2899989,"May 4, 2024",Tennessee,Memphis,"3562 Kirby Pkwy",1,3,0,0,0,N/A
+2900213,"May 4, 2024",Pennsylvania,Philadelphia,"1007 S 51st St",1,3,0,0,0,N/A
+2899834,"May 3, 2024","New York",Westbury,"Pepperidge Rd and Eastfield Rd",0,6,0,0,0,N/A
+2931805,"May 3, 2024",Texas,Houston,"6800 block of Cullen Blvd",0,4,0,0,6,N/A
+2899180,"May 2, 2024",Virginia,Richmond,"3800 Delmont St",1,3,0,0,0,N/A
+2898126,"May 1, 2024",Michigan,Detroit,"Faust Ave and Westfield Ave",0,4,0,0,1,N/A
+2896893,"May 1, 2024",Texas,"Fort Worth","3096 Las Vegas Trl",0,6,0,0,5,N/A
+2893900,"April 29, 2024","North Carolina",Charlotte,"5525 Galway Dr",4,4,1,0,0,N/A
+2895203,"April 29, 2024",Florida,"Miami Gardens","1400 NW 197th St",0,5,0,0,0,N/A
+2892877,"April 28, 2024",Florida,Sanford,"4380 Carraway Pl",0,10,0,0,1,N/A
+2893298,"April 28, 2024",Georgia,Fitzgerald,"300 block of E Pine St",1,3,0,0,1,N/A
+2892937,"April 28, 2024",Arizona,Tucson,"3200 block of E 5th St",1,3,0,0,4,N/A
+2892952,"April 28, 2024",Louisiana,Kenner,"700 block of Farm Ave",0,5,1,0,0,N/A
+2893705,"April 28, 2024",Mississippi,Utica,"1022 Lee Davis Cir",1,3,0,1,3,N/A
+2892069,"April 27, 2024",Florida,"Daytona Beach","600 block of N Grandview Ave",0,4,0,0,1,N/A
+2892374,"April 27, 2024","South Carolina",Santee,"800 block of Antioch Rd",1,3,0,0,3,N/A
+2892008,"April 26, 2024","District of Columbia",Washington,"1219 Connecticut Ave NW",0,6,0,0,1,N/A
+2888610,"April 22, 2024",Virginia,Petersburg,"5900 block of Sentry Hill Ct",0,5,0,0,0,N/A
+2887313,"April 22, 2024",Oklahoma,Yukon,"2804 Mirage St",4,0,1,0,0,N/A
+2886674,"April 21, 2024",Illinois,"Oak Forest","5500 block of Babette Ct",1,3,0,0,1,N/A
+2885854,"April 20, 2024",Tennessee,Memphis,"2410 Carnes Ave",2,7,0,0,0,N/A
+2884585,"April 19, 2024","District of Columbia",Washington,"1211 Mount Olivet Rd NE",0,4,0,0,0,N/A
+2884570,"April 19, 2024",Maryland,Greenbelt,"6915 Hanover Pkwy",0,5,0,0,1,N/A
+2884446,"April 18, 2024",Louisiana,Thibodaux,"1400 block of Orange Grove Sq",0,4,0,0,0,N/A
+2881822,"April 16, 2024","New York",Bronx,"E Mount Eden Ave and Townsend Ave",1,3,0,0,2,N/A
+2881676,"April 16, 2024","North Carolina",Clinton,"Boykin Rd and Shaun Ln",1,3,0,0,0,N/A
+2879450,"April 14, 2024",Texas,Dallas,"4530 Collins Ave",1,8,0,0,1,N/A
+2880126,"April 14, 2024",Kentucky,Hopkinsville,"1700 Canton St",0,4,0,0,2,N/A
+2879964,"April 14, 2024",Virginia,Richmond,"1300 block of Jennie Scher Rd",1,4,0,0,0,N/A
+2879792,"April 14, 2024",Tennessee,Nashville,"480 Bell Rd",0,6,0,0,1,N/A
+2880226,"April 14, 2024",Louisiana,"New Orleans","828 S Peters St",1,11,0,0,0,N/A
+2879659,"April 13, 2024",Arkansas,Wynne,"Williams Ave and Martin Luther King St",1,9,0,0,3,N/A
+2879189,"April 13, 2024",Illinois,Chicago,"2021 W 52nd St",1,10,0,0,1,N/A
+2880895,"April 13, 2024",Georgia,Albany,"300 E Broad Ave",0,4,0,0,6,N/A
+2880957,"April 13, 2024",Mississippi,Coldwater,"W Central St",1,3,0,0,0,N/A
+2877499,"April 11, 2024",Florida,Orlando,"2800 block of Gamma Dr",1,3,0,0,0,N/A
+2876444,"April 10, 2024","District of Columbia",Washington,"1100 block of 21st Street NE",1,5,0,0,0,N/A
+2873416,"April 7, 2024",Texas,"San Antonio","11135 Wye Dr",0,6,0,0,0,N/A
+2873450,"April 7, 2024",Oklahoma,"Oklahoma City","3034 N Portland Ave",1,3,0,0,0,N/A
+2872613,"April 6, 2024",Florida,"Miami (Doral)","3450 NW 83rd Ave",1,7,1,0,0,N/A
+2872340,"April 5, 2024",Arkansas,"North Little Rock","116 Curtis Sykes Dr",1,3,0,0,1,N/A
+2872754,"April 5, 2024",Florida,"West Palm Beach","1170 W 27th St",1,3,0,0,1,N/A
+2872358,"April 1, 2024",Louisiana,"New Iberia","600 block of Breaux Alley",0,4,0,1,2,N/A
+2868907,"April 1, 2024",Michigan,Eastpointe,"19000 block of Dijon Ave",0,4,0,0,0,N/A
+2867279,"March 31, 2024",Tennessee,Nashville,"614 Garfield St",1,5,0,0,1,N/A
+2966990,"March 31, 2024",Mississippi,Greenwood,US-49E,1,3,0,0,1,N/A
+2867514,"March 31, 2024",Illinois,Chicago,"400 block of N Lavergne Ave",1,3,0,0,3,N/A
+2866851,"March 31, 2024",Illinois,Chicago,"5333 W Madison St",1,4,0,0,0,N/A
 2867670,"March 31, 2024",Mississippi,Jackson,"2050 Martin Luther King Jr Dr",0,4,0,1,0,N/A
-2867491,"March 31, 2024",Kentucky,Louisville,"5400 block of Ripple Ln",0,1,0,0,0,N/A
-2867080,"March 30, 2024",Florida,Ruskin,"900 block of Seminole Sky Dr",1,0,0,0,1,N/A
-2866458,"March 30, 2024",Michigan,Detroit,"15000 block of Sussex St",0,1,0,0,0,N/A
-2866810,"March 30, 2024",Ohio,"New Carlisle","800 block of Bayberry Dr",0,1,0,0,0,N/A
-2870537,"March 29, 2024","New Jersey",Hammonton,"840 Piney Hollow Rd",0,3,0,0,0,N/A
-2866518,"March 29, 2024",Minnesota,"Saint Paul","846 Pierce Butler Rte",0,1,0,0,1,N/A
-2870193,"March 29, 2024",Texas,"San Angelo","4418 Southwest Blvd",0,1,0,0,0,N/A
-2866247,"March 29, 2024",Massachusetts,Ipswich,"116 County Rd",0,2,0,1,1,N/A
-2868226,"March 29, 2024",Kentucky,Owensboro,"4700 block of Towne Square Ct",0,1,0,0,1,N/A
-2864562,"March 28, 2024",Pennsylvania,Allentown,"939 E Hamilton St",1,0,0,0,0,N/A
-2865523,"March 28, 2024",Texas,"Knox City","SE 2nd St and S Ave E",1,0,0,0,0,N/A
-2865096,"March 28, 2024",Pennsylvania,Philadelphia,"2467 79th Ave",0,1,0,0,0,N/A
-2865755,"March 27, 2024",Georgia,Athens,"Kathwood Dr and Jefferson Rd",1,0,0,0,0,N/A
-2863707,"March 27, 2024","South Carolina",Georgetown,"606 Black River Rd",0,1,0,0,0,N/A
-2865532,"March 27, 2024",Mississippi,Vicksburg,"1900 Baldwin Ferry Rd",0,1,0,0,0,N/A
-2864371,"March 27, 2024",Mississippi,Meridian,N/A,0,1,0,0,0,N/A
-2862972,"March 26, 2024","New York",Albany,"7 Lark St",0,1,0,0,0,N/A
-2863818,"March 26, 2024",Utah,"West Jordan","6900 block of W Jackling Way",1,0,0,0,1,N/A
-2863037,"March 26, 2024",Delaware,Dover,"2000 block of Ash Ct",0,2,0,0,0,N/A
-2865941,"March 25, 2024",Illinois,Waukegan,"1000 block of Lakehurst Dr",0,1,0,0,0,N/A
-2862933,"March 25, 2024",Florida,Tallahassee,"2600 block of Peachtree Dr",1,0,0,0,1,N/A
-2862641,"March 25, 2024",Georgia,Atlanta,"1976 Tiger Flowers Dr NW",0,1,0,0,0,N/A
-2864145,"March 24, 2024",Pennsylvania,"Wilkes Barre","Scott St and Mundy St",0,1,0,0,0,N/A
-2869296,"March 24, 2024",Florida,Gainesville,"4121 NE 15th St",1,0,0,0,0,N/A
-2866420,"March 24, 2024",Texas,"North Zulch","4300 block of Shepherd Hill",0,1,0,0,0,N/A
-2866148,"March 24, 2024",Michigan,"Ann Arbor","800 block of S Maple Rd",0,1,0,0,0,N/A
-2862936,"March 23, 2024",Georgia,Arlington,N/A,1,0,0,0,0,N/A
-2978825,"March 23, 2024",Georgia,Douglasville,"4188 E Shore Ct",0,2,0,0,0,N/A
-2861000,"March 23, 2024",California,Berkeley,"1198 University Ave",0,1,0,0,0,N/A
-2867037,"March 23, 2024",Mississippi,Mccomb,"Marley Ln",0,1,0,0,0,N/A
-2863596,"March 23, 2024",Oklahoma,Norman,"SE 108th Ave and E Imhoff Rd",0,1,0,0,0,N/A
-2867023,"March 23, 2024",Oklahoma,Muskogee,"920 Louisiana Ave",1,0,0,0,0,N/A
-2861087,"March 23, 2024",Tennessee,Nashville,"1203 Edgehill Ave",1,0,0,0,0,N/A
-2860317,"March 23, 2024",Wisconsin,Mcfarland,"4700 block of Siggelkow Rd",0,1,0,0,0,N/A
-2865047,"March 22, 2024",Florida,Hialeah,"950 SE 12th St",0,1,0,0,1,N/A
-2859970,"March 22, 2024",Tennessee,Kingsport,"600 block of Lovedale Dr",1,0,0,0,0,N/A
-2862540,"March 22, 2024","New Jersey","Cedar Grove","2 Village Park Road",0,1,0,0,0,N/A
-2860449,"March 22, 2024",Florida,Riverview,"Rhodine Rd",0,1,0,0,0,N/A
-2860211,"March 21, 2024","New York",Rochester,"Charlotte St",0,0,0,1,1,N/A
-2870554,"March 20, 2024",Florida,"Orange City","Sixth St",0,1,0,0,0,N/A
-2859040,"March 20, 2024","New York",Syracuse,"304 Court St",1,0,0,0,0,N/A
-2857996,"March 20, 2024",Arizona,Glendale,"W Camelback Rd and N 67th Ave",0,1,0,0,0,N/A
-2858451,"March 20, 2024",Louisiana,"Baton Rouge","2212 69th Ave",1,0,0,0,0,N/A
-2857830,"March 20, 2024",Idaho,Boise,"1055 N Curtis Rd",0,3,0,0,1,N/A
-2857193,"March 19, 2024",Michigan,Detroit,"St Clair St and E Warren Ave",0,1,0,0,0,N/A
-2858162,"March 19, 2024",Florida,"Miami Beach","865 Collins Ave",0,2,0,0,1,N/A
-2858100,"March 19, 2024",Wyoming,Rozet,"13646 WY-51",0,1,0,0,0,N/A
-2858084,"March 19, 2024",Georgia,Savannah,"1325 Exley St",0,1,0,0,0,N/A
-2857646,"March 19, 2024",Kentucky,Louisville,"413 E Muhammad Ali Blvd",0,1,0,0,0,N/A
-2858440,"March 19, 2024",Indiana,Whitestown,"6007 Perry Worth Rd",0,1,0,0,0,N/A
-2857439,"March 18, 2024",Tennessee,Rockwood,"Roane State Hwy",0,1,0,0,0,N/A
-2863099,"March 18, 2024",Oklahoma,Tishomingo,"D1854 Rd",0,1,0,0,0,N/A
-2856282,"March 18, 2024",Missouri,"Saint Louis","5800 block of Maffitt Ave",0,1,0,0,1,N/A
-2860825,"March 18, 2024",Idaho,"Idaho Falls (Ammon)","Wanda St and Ross Ave",0,1,0,0,0,N/A
-2856264,"March 17, 2024",Florida,Bunnell,"775 Old Haw Creek Rd",0,1,0,0,0,N/A
-2857565,"March 17, 2024","North Carolina",Wilkesboro,"189 Abbington Ct",0,1,0,0,0,N/A
-2855948,"March 17, 2024",Mississippi,Meridian,"1318 19th St",0,1,0,0,0,N/A
-2887040,"March 17, 2024","New Mexico",Albuquerque,N/A,0,0,0,0,0,N/A
-2855953,"March 17, 2024",Florida,Homestead,"SE 13th St",0,1,0,0,0,N/A
-2856817,"March 16, 2024",Tennessee,Kingston,"Patton Ferry Rd",1,0,0,0,0,N/A
-2856481,"March 16, 2024","North Carolina","Rocky Mount","1000 block of Manor Dr",0,1,0,0,0,N/A
-2855102,"March 16, 2024",Mississippi,Gulfport,"16303 MS-53",0,1,0,0,0,N/A
-2858858,"March 16, 2024",Missouri,"Saint Louis (Ferguson)","3582 Pershall Rd",0,1,0,0,0,N/A
-2854646,"March 16, 2024","New York","Staten Island","701 Bay St",0,0,0,1,0,N/A
-2855465,"March 16, 2024","New York",Newburgh,"40 Walsh Rd",0,2,0,0,0,N/A
-2855620,"March 16, 2024",Tennessee,Covington,"Wooten St",0,1,0,0,0,N/A
-2855467,"March 16, 2024",California,Redding,"3500 block of Ricardo Ln",1,0,0,0,1,N/A
-2858555,"March 16, 2024",Ohio,Cleveland,N/A,0,1,0,0,0,N/A
-2857570,"March 15, 2024",Indiana,Bloomington,"3201 IN-45",0,1,0,0,0,N/A
-2857228,"March 15, 2024",Virginia,Waynesboro,"1100 block of East Side Hwy",0,1,0,0,2,N/A
-2853953,"March 15, 2024",Pennsylvania,"Sharon Hill","800 block of Felton Ave",0,1,0,0,0,N/A
-2859294,"March 15, 2024",Mississippi,Lyon,"449 Amber Cove",1,0,0,0,1,N/A
-2854497,"March 15, 2024",Louisiana,Shreveport,"W Canal St",0,1,0,0,1,N/A
-2853275,"March 13, 2024",Tennessee,Memphis,"3300 block of Castleman St",1,0,0,0,0,N/A
-2852329,"March 13, 2024",Florida,Miami,"11000 block of SW 30th St",1,1,0,0,0,N/A
-2852601,"March 13, 2024",Texas,Tyler,"2601 N Broadway Ave",0,1,0,0,1,N/A
-2852967,"March 12, 2024",Florida,Tampa,"9201 W Waters Ave",1,0,0,0,0,N/A
-2851883,"March 11, 2024",Arkansas,Decatur,N/A,1,0,0,0,0,N/A
-2852467,"March 11, 2024",California,"Rancho Cucamonga","8200 block of Vineyard Ave",0,1,0,0,0,N/A
-2849704,"March 10, 2024",Georgia,Atlanta,"Lisbon Dr SW",0,1,0,0,0,N/A
-2883908,"March 10, 2024",Texas,Beaumont,"795 Colorado Ave",0,0,0,0,1,N/A
-2850663,"March 10, 2024",Wisconsin,"Eau Claire","411 Galloway St",0,1,0,0,0,N/A
-2851244,"March 10, 2024","North Carolina",Fairmont,McDaniel,1,0,0,0,0,N/A
-2849579,"March 9, 2024",Indiana,Evansville,"Washington Ave and S Evans Ave",0,0,0,1,1,N/A
-2849860,"March 9, 2024",Idaho,"Idaho Falls","100 block of 4th St",1,1,0,1,1,N/A
-2848965,"March 8, 2024",Florida,Bradenton,"5900 block of 8th Ave Dr W",1,0,0,0,1,N/A
-2848224,"March 7, 2024",Illinois,Chicago,"6900 block of North Ave",0,1,0,0,1,N/A
-2847473,"March 7, 2024",Missouri,"Saint Louis (Olivette)","9600 block of Huron Dr",1,0,0,0,1,N/A
-2848182,"March 7, 2024",Virginia,"Virginia Beach","4900 block of Almandine Ave",1,0,0,0,1,N/A
-2860687,"March 6, 2024",Alabama,Marion,"11422 AL-183",1,0,0,0,0,N/A
-2847204,"March 6, 2024",Alabama,Mobile,"Macks St",1,0,0,0,1,N/A
-2846127,"March 5, 2024",Oklahoma,Tulsa,"9120 E 31st St",0,0,0,1,1,N/A
-2846071,"March 4, 2024",Oklahoma,Tishomingo,"Airport Rd",0,1,0,0,0,N/A
-2846893,"March 4, 2024",Montana,Libby,US-2,0,1,0,0,0,N/A
-2846202,"March 4, 2024",Pennsylvania,"Jersey Shore",N/A,0,1,0,0,0,N/A
-2848471,"March 3, 2024",Ohio,Niles,"Niles Cortland Rd and Youngstown Warren Rd",0,1,0,0,0,N/A
-2937071,"March 3, 2024",Minnesota,Perham,N/A,0,1,0,0,0,N/A
-2843902,"March 3, 2024",Virginia,"Virginia Beach","2200 block of Atlantic Ave",0,1,0,0,0,N/A
-2844790,"March 3, 2024","South Carolina",Beaufort,"325 Ambrose Run",1,0,0,0,1,N/A
-2844546,"March 3, 2024",Florida,Miami,"SW 208th St and SW 120th Pl",0,1,0,0,0,N/A
-2845111,"March 3, 2024",Wyoming,Casper,"3845 E 2nd St",0,1,0,0,0,N/A
-2845261,"March 3, 2024",Tennessee,Nashville,"7200 block of Hwy 70 S",0,1,0,0,0,N/A
-2844303,"March 3, 2024",Mississippi,Meridian,"1300 block of 47th Ave",0,1,0,0,0,N/A
-2843530,"March 2, 2024",Utah,"Salt Lake City (Murray)","4452 S 300 W",1,0,0,0,1,N/A
-2843671,"March 2, 2024",Ohio,"Columbus (Obetz)","4250 Alum Creek Dr",0,1,0,0,0,N/A
-2843300,"March 2, 2024",Indiana,Rochester,"1645 S Park Rd",0,0,0,0,1,N/A
-2843628,"March 2, 2024",Florida,"Miami Beach","126 Venetian Way",0,1,0,0,0,N/A
-2843951,"March 2, 2024","North Carolina","Roanoke Rapids","Premier Blvd",0,1,0,0,1,N/A
-2843237,"March 2, 2024","North Carolina","Rocky Mount","600 block of N Wesleyan Blvd",1,0,0,0,0,N/A
-2843831,"March 2, 2024",Kansas,Wichita,"1700 block E English St",0,1,0,1,0,N/A
-2843189,"March 1, 2024",Florida,Bradenton,"3500 block of 5th St E",1,0,0,0,1,N/A
-2844885,"March 1, 2024",Virginia,Radford,"3200 block of Peppers Ferry Rd NW",0,1,0,0,0,N/A
-2895833,"March 1, 2024",Missouri,Sullivan,N/A,0,1,0,0,0,N/A
-2888489,"February 29, 2024","North Carolina","North Wilkesboro","E Magnolia Rd",0,1,0,0,0,N/A
-2843164,"February 29, 2024",Georgia,Louisville,N/A,1,0,0,0,0,N/A
-2841001,"February 28, 2024","South Carolina","Gray Court","Georgia Acres Rd",1,0,0,0,0,N/A
-2840939,"February 28, 2024",Ohio,Columbus,"750 block of Doulton Ct",1,0,0,0,0,N/A
-2840181,"February 27, 2024",Indiana,Indianapolis,"3700 block of N Dearborn St",1,0,0,0,0,N/A
-2839951,"February 26, 2024","North Carolina","Rocky Mount","1012 Star St",0,2,0,0,0,N/A
-2840596,"February 26, 2024",Louisiana,"Greenwell Springs","5000 block of Fryers Ave",1,0,0,0,1,N/A
-3008780,"February 26, 2024",Pennsylvania,"New Castle","435 S Cascade St",0,1,0,0,0,N/A
-2838116,"February 25, 2024",Pennsylvania,"Nanty Glo","4009 William Penn Ave",0,1,0,0,0,N/A
-2838752,"February 25, 2024","North Carolina","Tabor City","106 Forest Glen Dr",0,2,0,0,0,N/A
-2837805,"February 25, 2024",Texas,Waco,"3900 block of S Jack Kultgen Expy",1,0,0,0,1,N/A
-2837834,"February 25, 2024",Texas,"San Antonio","913 Ripford St",1,0,0,0,0,N/A
-2840930,"February 25, 2024",Illinois,Waukegan,"2300 block of Greenwood Ave",0,1,0,0,0,N/A
-2839958,"February 24, 2024","North Carolina","Rocky Mount","1954 Stone Rose Dr",0,1,0,0,0,N/A
-2840620,"February 24, 2024",Minnesota,Mankato,"MN-22 and Christa View Dr",0,1,0,0,0,N/A
-2837873,"February 24, 2024",Kansas,Wichita,"E 19th St N and N Estelle St",0,1,0,0,0,N/A
-2837224,"February 23, 2024",Florida,Jacksonville,"1502 W 2nd St",1,0,0,0,1,N/A
-2837301,"February 23, 2024","North Carolina",Lowgap,"Old Lowgap Rd",1,0,0,0,0,N/A
-2843829,"February 23, 2024","North Dakota",Fargo,"1040 35th St N",0,1,0,0,0,N/A
-2838853,"February 22, 2024",Michigan,Holly,"E Maple St",0,1,0,0,1,N/A
-2835787,"February 22, 2024",Florida,"Fort Lauderdale","1100 block of NW 24th Ave",0,1,0,0,0,N/A
-2843958,"February 22, 2024","North Carolina","Moravian Falls","Spring Meadows Ln",1,0,0,0,0,N/A
-2836307,"February 22, 2024",Illinois,Chicago,"2600 block of N Racine Ave",0,1,0,0,1,N/A
-2836849,"February 22, 2024",Kansas,Manhattan,"100 block of Bluemont Ave",0,1,0,0,0,N/A
-2835777,"February 21, 2024","North Carolina",Charlotte,"2347 Eastway Dr",1,0,0,0,0,N/A
-2872380,"February 21, 2024",Montana,Billings,"936 Terry Ave",1,0,0,0,1,N/A
-2835471,"February 21, 2024",Ohio,Overpeck,"2400 block of Jackson Rd",0,1,0,0,0,N/A
-2834045,"February 20, 2024",Michigan,Holland,"2629 N Park Dr",0,1,0,0,0,N/A
-2834367,"February 20, 2024",Maryland,Baltimore,"1300 block of Hollins St",0,1,0,0,0,N/A
-2834818,"February 20, 2024",Wisconsin,Milwaukee,"3000 block of N 45th St",0,1,0,0,0,N/A
-2833972,"February 19, 2024",Texas,"Corpus Christi","Lucinda Ln and Treyway Ln",0,1,0,0,1,N/A
-2833361,"February 19, 2024",Louisiana,Shreveport,"1600 block of Oakdale St",0,1,0,0,1,N/A
-2834119,"February 19, 2024",Ohio,Cleveland,"5107 Gifford Ave",0,1,0,0,1,N/A
-2833400,"February 19, 2024",Alabama,Mobile,"12251 Tanner Williams Rd",0,1,0,0,0,N/A
-2833792,"February 19, 2024",Tennessee,Memphis,"3960 New Covington Pike",0,1,0,0,0,N/A
-2834505,"February 18, 2024",Nebraska,Omaha,N/A,0,1,0,0,0,N/A
-2832891,"February 18, 2024",Wisconsin,Milwaukee,"7900 N 64th Ct",1,0,0,0,0,N/A
-2851841,"February 18, 2024",Oklahoma,Fairview,N/A,0,1,0,0,0,N/A
-2832988,"February 17, 2024",Colorado,"La Junta","Co Rd 27 and Hillside Rd",0,2,0,0,0,N/A
-2830830,"February 16, 2024","South Carolina","Myrtle Beach","685 Burcale Rd",0,2,0,0,0,N/A
-2831690,"February 15, 2024",Colorado,Pueblo,"Castle Royal Dr",1,0,0,0,0,N/A
-2831133,"February 14, 2024",Michigan,Flint,"6000 block of Cloverlawn Dr",0,1,0,0,0,N/A
-2829124,"February 14, 2024",Illinois,Chicago,"4329 W Monroe St",0,0,0,1,0,N/A
-2829880,"February 14, 2024",Tennessee,Kingston,"900 block of N Kentucky St",1,0,0,0,0,N/A
-2831093,"February 14, 2024","North Carolina",Mooresville,"8575 W NC-152",1,0,0,0,0,N/A
-2834556,"February 14, 2024",Oklahoma,Chouteau,N/A,1,0,0,0,0,N/A
-2830667,"February 14, 2024",Missouri,"Saint Louis","5900 block of Ferris Ave",1,0,0,0,1,N/A
-2829559,"February 14, 2024",Washington,"Sedro Woolley","E Alder Dr",0,1,0,0,0,N/A
-2827847,"February 12, 2024",Pennsylvania,"Wilkes Barre","95 Maffett St",0,1,0,0,0,N/A
-2827627,"February 12, 2024",Missouri,"Saint Louis","200 block of E Marceau St",0,0,0,1,0,N/A
-2826150,"February 11, 2024",Mississippi,"Bogue Chitto",N/A,1,0,0,0,0,N/A
-2827064,"February 11, 2024",Ohio,Dayton,"1950 Republic Dr",0,1,0,0,0,N/A
-2827221,"February 11, 2024",Ohio,Cleveland,"W 105th St and Lorain Ave",0,1,0,0,0,N/A
-2825365,"February 10, 2024",Maryland,"Temple Hills (Hillcrest Heights)","Iverson St and 24th Ave",1,0,0,1,1,N/A
-2826874,"February 10, 2024",Georgia,Decatur,"2600 block of Habersham Dr",1,0,0,0,0,N/A
-2825846,"February 10, 2024","North Carolina","Newton Grove","600 block of Mount Olive Dr",0,1,0,0,0,N/A
-2824446,"February 9, 2024",Pennsylvania,Nanticoke,"Line St and W Noble St",0,1,0,0,0,N/A
-2824318,"February 9, 2024","North Carolina","Willow Spring","Morehead Dr",0,1,0,0,0,N/A
-2825172,"February 9, 2024",California,"Temple City","8838 E Las Tunas Dr",0,1,0,0,0,N/A
-2825613,"February 9, 2024",Illinois,"East Saint Louis","3500 block of Bond Ave",0,0,0,1,0,N/A
-2825065,"February 9, 2024",Washington,Seattle,"4000 block of 8th Ave NE",0,1,0,0,0,N/A
-2823381,"February 8, 2024",Ohio,Proctorville,"Gary Dr",0,1,0,0,1,N/A
-2832071,"February 8, 2024",Missouri,Carthage,"527 S Main St",1,0,0,0,0,N/A
-2823956,"February 8, 2024",Maryland,"Halethorpe (Lansdowne)","50 block of Twin Circle Way",0,1,0,0,0,N/A
-2823097,"February 8, 2024",Nebraska,Lincoln,"S 10th St and South St",0,0,0,1,0,N/A
-2824110,"February 8, 2024",Wisconsin,Waupaca,"809 W Fulton St",0,0,0,1,0,N/A
-2822911,"February 7, 2024",Tennessee,Nashville,"2027 Ed Temple Blvd",0,1,0,0,0,N/A
-2822747,"February 7, 2024",Mississippi,Elliott,N/A,0,1,0,0,0,N/A
-2822163,"February 6, 2024",Iowa,Waterloo,"6025 Donegal Cir",0,1,0,0,0,N/A
-2821867,"February 6, 2024","North Carolina","Rocky Mount","1211 E Raleigh Blvd",0,1,0,0,0,N/A
-2824158,"February 6, 2024",California,"San Diego",N/A,0,1,0,0,1,N/A
-2822755,"February 6, 2024",Indiana,Evansville,"800 block of W Virginia St",0,1,0,0,0,N/A
-2821818,"February 6, 2024",Tennessee,Memphis,"7989 US-64",1,0,0,0,0,N/A
-2821797,"February 5, 2024",Ohio,Toledo,"1432 Darrel Rd",0,1,0,0,0,N/A
-2820511,"February 5, 2024",Georgia,Augusta,"1339 Laney Walker Blvd",0,0,0,0,1,N/A
-2820549,"February 5, 2024","New York",Rochester,"East Ave",0,0,0,1,0,N/A
-2821925,"February 5, 2024",Louisiana,"Denham Springs","Benelli Dr",0,1,0,0,0,N/A
-2821751,"February 4, 2024",Oklahoma,"Oklahoma City","SW 66th St and S Western Ave",0,1,0,0,0,N/A
-2820030,"February 4, 2024",Mississippi,Columbus,"Hairston Bend Rd",0,1,0,0,0,N/A
-2820332,"February 4, 2024",Pennsylvania,Clearfield,"E Market St and S 4th St",0,1,0,0,0,N/A
-2820048,"February 4, 2024","New Jersey",Hillside,"100 block of Virginia St",0,1,0,0,0,N/A
-2820839,"February 3, 2024",Tennessee,Knoxville,"St Francis Way",1,0,0,0,0,N/A
-2820522,"February 3, 2024","New York",Buffalo,"100 block of Custer St",0,1,0,0,0,N/A
-2819361,"February 3, 2024",Texas,Houston,"90 Uvalde Rd",0,1,0,0,0,N/A
-2820704,"February 3, 2024",Oregon,Sandy,"Davis St and Gary St",0,1,0,0,0,N/A
-2822043,"February 3, 2024",Georgia,Gainesville,N/A,0,1,0,0,0,N/A
-2828252,"February 3, 2024",Nebraska,Omaha,"3801 Ames Ave",0,1,0,0,0,N/A
-2822719,"February 3, 2024",Texas,"San Antonio","3200 block of Northridge Dr",1,0,0,0,1,N/A
-2819377,"February 3, 2024",Ohio,"Cleveland (Garfield Heights)","12763 Rockside Rd",0,1,0,0,0,N/A
-2819371,"February 3, 2024",Mississippi,Meridian,N/A,0,1,0,0,0,N/A
-2818188,"February 2, 2024",Louisiana,Ruston,"659 N Service Rd E",1,0,0,0,1,N/A
-2838199,"February 2, 2024",Illinois,Decatur,"Spruce St and Nickey Ave",0,0,0,1,1,N/A
-2819211,"February 2, 2024","North Carolina",Greenville,"209 Beech St",1,0,0,0,0,N/A
-2817153,"February 1, 2024",Virginia,"Newport News","300 block of Heacox Ln",0,1,0,0,1,N/A
-2817793,"February 1, 2024",Pennsylvania,Pittsburgh,"3100 Liberty Ave",0,1,0,0,0,N/A
-2816128,"January 31, 2024",Florida,"Spring Hill","4253 Central Park Dr",0,1,0,0,0,N/A
-2816243,"January 31, 2024",Kentucky,Hardin,"196 Hilldale Ln",0,1,0,0,1,N/A
-2817850,"January 31, 2024",Kentucky,Louisville,N/A,1,0,0,0,0,N/A
-2815232,"January 30, 2024",Florida,"Cape Coral","1701 Old Pondella Rd",0,1,0,0,0,N/A
-2815674,"January 29, 2024",Ohio,Cleveland,"12000 block of Shaker Blvd",0,1,0,0,0,N/A
-2814212,"January 29, 2024",Indiana,Indianapolis,"9156 Granville Ct",0,1,0,0,0,N/A
-2814355,"January 29, 2024",Illinois,Chicago,"6600 block of S Wabash Ave",0,1,0,0,0,N/A
-2825355,"January 29, 2024",Louisiana,"West Monroe","1100 block of Jonesboro Rd",1,0,0,0,0,N/A
-2815181,"January 29, 2024",Indiana,Mishawaka,"800 block of W 6th St",0,1,0,0,0,N/A
-2815284,"January 29, 2024",Florida,Clearwater,"1200 block of Engman St",1,0,0,0,1,N/A
-2824878,"January 29, 2024",Illinois,Chicago,"4100 block of W Washington Rd",0,1,0,0,1,N/A
-2813808,"January 28, 2024",Oregon,Bend,"64900 Hunnell Rd",0,1,0,0,1,N/A
-2813201,"January 28, 2024",Illinois,Chicago,"4800 block of W Grace St",0,1,0,0,1,N/A
-2813184,"January 27, 2024",Georgia,Duluth,"4500 Satellite Blvd",1,0,0,0,1,N/A
-2812529,"January 27, 2024",Florida,"Fort Lauderdale (Lauderhill)","2017 NW 46th Ave",1,0,0,0,1,N/A
-2813408,"January 27, 2024",Indiana,"Fort Wayne","2900 block of Shawnee Dr",1,0,0,0,0,N/A
-2813615,"January 27, 2024",Texas,Burkeville,"200 block of Tall Timbers",0,1,0,0,0,N/A
-2812884,"January 26, 2024",Tennessee,Memphis,"3520 Jackson Ave",0,0,0,1,0,N/A
-2812154,"January 26, 2024",Pennsylvania,"Marcus Hook (Boothwyn)","3360 Chichester Ave",0,1,0,0,0,N/A
-2812445,"January 26, 2024",Connecticut,Watertown,"50 Capewell Ave",0,1,0,0,0,N/A
-2813475,"January 25, 2024",Pennsylvania,Titusville,"W Oak St",0,1,0,0,0,N/A
-2812360,"January 25, 2024",Missouri,"Saint Louis","3800 block of Missouri Ave",1,0,0,0,0,N/A
-2810989,"January 25, 2024",Michigan,"Grand Rapids (Cutlerville)","Eastern Ave SE and Woodfield Dr SE",0,1,0,0,0,N/A
-2812035,"January 25, 2024",Colorado,"Baca (county)",N/A,0,1,0,0,0,N/A
-2811687,"January 25, 2024",Georgia,Brunswick,N/A,0,1,0,0,0,N/A
-2811552,"January 25, 2024","District of Columbia",Washington,"2100 block of 4th St NW",0,1,0,0,0,N/A
-2810426,"January 24, 2024",Virginia,Covington,N/A,0,1,0,0,0,N/A
-2812051,"January 24, 2024",Virginia,Richmond,"Richmond Hwy",0,1,0,0,0,N/A
-2810910,"January 24, 2024",Missouri,"Saint Louis","Natural Bridge Ave and Grand Blvd",0,1,0,0,0,N/A
-2810912,"January 24, 2024",California,Dunnigan,"Yolo County Rd and Co Rd 99W",1,0,0,0,0,N/A
-2811538,"January 24, 2024",Ohio,Cincinnati,"Saffer St",0,1,0,0,0,N/A
-2810611,"January 24, 2024",Maryland,Baltimore,"5200 block of Fairlawn Ave",1,0,0,0,1,N/A
-2995879,"January 23, 2024",Florida,Brooksville,N/A,0,0,0,1,1,N/A
-2810088,"January 23, 2024",Illinois,Chicago,"11843 S La Salle St",1,0,0,0,0,N/A
-2809818,"January 23, 2024",Alabama,Birmingham,"3000 block of Five Mile Creek Rd",0,1,0,0,0,N/A
-2808945,"January 22, 2024","Rhode Island",Cranston,"18 Slate Hill Dr",0,1,0,0,0,N/A
-2808165,"January 22, 2024",Arizona,Phoenix,"24th St and Roosevelt St",0,1,0,0,0,N/A
-2809112,"January 22, 2024",Oregon,Bandon,"800 block of Michigan Ave",0,1,0,0,1,N/A
-2808694,"January 22, 2024",Kentucky,Covington,"2509 Warren St",1,0,0,0,0,N/A
-2807856,"January 21, 2024",California,"Los Angeles","Lincoln Blvd and Maxella Ave",0,0,0,1,0,N/A
-2807549,"January 21, 2024",Texas,"San Antonio","6700 block of Winterpath Dr",0,1,0,0,1,N/A
-2809889,"January 21, 2024","New Jersey",Brick,"465 NJ-70",0,1,0,0,0,N/A
-2808619,"January 21, 2024","South Carolina",Santee,"Bonner Ave",1,0,0,0,0,N/A
-2808091,"January 21, 2024",Illinois,Chicago,"3200 block of W Jackson Blvd",0,1,0,0,0,N/A
-2808632,"January 20, 2024","South Carolina",Dillon,"Ruby Ct",1,0,0,0,0,N/A
-2900391,"January 20, 2024",Wyoming,Torrington,"WY-156 and Rd 37",1,0,0,0,0,N/A
-2808070,"January 20, 2024","North Carolina",Morrisville,"1019 Morrisville Pkwy",0,1,0,0,0,N/A
-2807918,"January 20, 2024",Alabama,Montgomery,"6400 block of Atlanta Hwy",0,1,0,0,0,N/A
-2805215,"January 19, 2024","West Virginia",Dunlow,"100 block of Sheila Ln",0,1,0,0,0,N/A
-2805264,"January 19, 2024","District of Columbia",Washington,"1600 block of A St SE",0,1,0,1,1,N/A
-2805158,"January 19, 2024","New York",Albany,"New Hope Terrace",1,0,0,0,0,N/A
-2808080,"January 19, 2024",Alabama,Birmingham,"1700 block of 32nd St N",0,1,0,0,0,N/A
-2804700,"January 18, 2024",Tennessee,Memphis,"1400 block of Reata Pass",0,1,0,0,0,N/A
-2804574,"January 18, 2024",Florida,"Port Saint Lucie (Port St Lucie)","200 block of SW Ridgecrest Dr",0,2,0,0,0,N/A
-2804817,"January 18, 2024",Minnesota,"Saint Paul","780 W Wheelock Pkwy",0,0,0,1,1,N/A
-2806577,"January 18, 2024",Indiana,"South Bend","425 S 25th St",1,0,0,0,1,N/A
-2804337,"January 17, 2024",Indiana,Gary,N/A,0,1,0,0,0,N/A
-2806340,"January 17, 2024",Missouri,"Saint Louis","1000 block of Eiler St",0,2,0,0,0,N/A
-2804947,"January 17, 2024","North Carolina",Gastonia,"913 N Pryor St",0,0,0,1,1,N/A
-2803686,"January 17, 2024",Louisiana,Shreveport,"4100 block of Via St",1,0,0,0,1,N/A
-2804501,"January 17, 2024","North Carolina",Newton,"4468 Dublin Dr",1,0,0,0,0,N/A
-3084154,"January 17, 2024",Washington,Freeland,"Newman Rd",0,1,0,0,0,N/A
-2875115,"January 16, 2024",Florida,Century,"6000 block of Morton Rd",0,0,0,1,1,N/A
-2802728,"January 16, 2024",Florida,Pensacola,"2840 W Michigan Ave",0,1,0,0,0,N/A
-2806329,"January 16, 2024",Missouri,Stockton,N/A,1,0,0,0,1,N/A
-2803142,"January 16, 2024",California,Berkeley,"Fourth St and University Ave",0,1,0,0,0,N/A
-2806293,"January 16, 2024",Ohio,Cleveland,"15400 block of Plymouth Pl",0,1,0,0,0,N/A
-2803087,"January 16, 2024",Michigan,Lansing,"4500 block of Ballard Rd",0,1,0,0,0,N/A
-2805120,"January 15, 2024",Indiana,Griffith,"1900 block of Arborgast St",0,1,0,0,0,N/A
-2803235,"January 15, 2024",Iowa,Waterloo,"208 Eighmey St",1,0,0,0,1,N/A
-2803374,"January 15, 2024","South Carolina",Salley,"3000 block of Sandra Ln",0,1,0,0,1,N/A
-2802777,"January 15, 2024",Florida,Deltona,"3050 Riverhead Dr",0,1,0,0,1,N/A
-2801622,"January 14, 2024","North Carolina","Pink Hill","5500 block of Murphy Rd",1,0,0,0,0,N/A
-2802994,"January 14, 2024",Missouri,Eldon,"600 block of N Mill St",1,0,0,0,0,N/A
-2802592,"January 14, 2024",Oklahoma,Tulsa,"E 31st St and S 129th E Ave",1,0,0,0,1,N/A
-2804965,"January 14, 2024",Texas,Gonzales,US-183,1,0,0,0,0,N/A
-2804368,"January 14, 2024",Tennessee,Dayton,"Upper Fine Ln",1,0,0,0,1,N/A
-2804661,"January 13, 2024",Florida,Yulee,"85000 block of St John Ct",1,0,0,0,1,N/A
-2801700,"January 13, 2024",Georgia,Atlanta,"345 Springside Dr SE",0,1,0,0,0,N/A
-2810291,"January 13, 2024",Texas,"Port Lavaca",N/A,1,0,0,0,1,N/A
-2800814,"January 13, 2024",Kentucky,Louisville,"800 block of S 37th St",1,0,0,0,0,N/A
-2801383,"January 13, 2024",Florida,"Miami Gardens","NW 207th St and NW 37th Ave",1,0,0,0,0,N/A
-2802930,"January 13, 2024",Kansas,Oswego,"16500 Saline Rd",1,0,0,0,0,N/A
-2801339,"January 13, 2024",Mississippi,Magee,"647 Raleigh Dr NE",1,0,0,0,0,N/A
-2808624,"January 12, 2024",Virginia,Hillsville,"Meridian Ln",1,0,0,0,1,N/A
-2799872,"January 12, 2024",Tennessee,Memphis,"1300 block of Walnut Hall Ct",1,0,0,0,0,N/A
-2802747,"January 12, 2024","North Carolina","Lake Waccamaw","Sam Potts Hwy",0,1,0,0,0,N/A
-2799762,"January 12, 2024",California,Bakersfield,"6000 block of Provincetown Ave",1,0,0,1,0,N/A
-2868032,"January 12, 2024",Virginia,Moneta,"1203 Timberwood Ln",0,0,0,1,1,N/A
-2803978,"January 12, 2024",Ohio,Columbus,"Trevitt St and Atcheson St",0,1,0,0,0,N/A
-2800429,"January 12, 2024","New Jersey",Trenton,"802 Southard St",0,1,0,1,1,N/A
-2800288,"January 11, 2024",Texas,Weslaco,"6400 block of FM 88",1,0,0,0,1,N/A
-2801600,"January 11, 2024",Missouri,"Saint Louis","5900 block of Garesche Ave",0,1,0,0,0,N/A
-2802771,"January 11, 2024",Ohio,Mentor,N/A,0,1,0,0,0,N/A
-2798897,"January 10, 2024",Kentucky,Owensboro,"3101 Burlew Blvd",0,1,0,0,0,N/A
-2798204,"January 9, 2024",Connecticut,"New Haven","158 Ferry St",0,0,0,1,1,N/A
-2798283,"January 9, 2024",Mississippi,Zero,N/A,0,1,0,0,0,N/A
-2797396,"January 8, 2024","North Carolina","Rocky Mount","1900 Boone St",0,1,0,0,0,N/A
-2797255,"January 8, 2024",Kansas,Topeka,"1300 block of SW Tyler St",0,1,0,0,0,N/A
-2797548,"January 8, 2024",Ohio,Londonderry,"22 Allen Dr",0,1,0,0,0,N/A
-2938126,"January 7, 2024",Michigan,Flint,"Kingston Ave",0,1,0,0,0,N/A
-2796701,"January 7, 2024",Ohio,Wapakoneta,N/A,1,0,0,0,0,N/A
-2797901,"January 7, 2024",Ohio,"Columbus Grove","11000 block of Slabtown Rd",1,0,0,0,1,N/A
-2796862,"January 7, 2024",Pennsylvania,Philadelphia,"3514 Joyce St",0,1,0,0,0,N/A
-2796494,"January 7, 2024","New Mexico",Albuquerque,"1815 Central Ave NW",0,1,0,0,1,N/A
-2798925,"January 6, 2024",Louisiana,Arnaudville,"1000 block of Clarence Angelle Rd",0,1,0,0,1,N/A
-2796698,"January 6, 2024","South Carolina",Enoree,N/A,0,1,0,0,0,N/A
-2796667,"January 6, 2024",Georgia,Macon,"Sanders Rd",0,1,0,0,0,N/A
-2796672,"January 6, 2024",Georgia,Augusta,"2400 block of 3rd Ave",0,1,0,0,0,N/A
-2795521,"January 5, 2024",Illinois,Libertyville,"800 block of E Rockland Rd",0,0,0,1,0,N/A
-2796121,"January 5, 2024",Georgia,Atlanta,N/A,1,0,0,0,1,N/A
-2796613,"January 5, 2024",Alabama,Mobile,N/A,0,1,0,0,0,N/A
-2797125,"January 5, 2024",Michigan,Colfax,N/A,0,1,0,0,1,N/A
-2811973,"January 5, 2024","North Carolina",Kinston,"Rebecca Ln",0,1,0,0,0,N/A
-2794815,"January 4, 2024","New York",Rochester,"20 Murray St",1,0,0,0,1,N/A
-2794909,"January 4, 2024",Illinois,Chicago,"200 block of W 95th St",0,2,0,0,0,N/A
-2795928,"January 4, 2024",Missouri,Chillicothe,"600 block of E Business 36",0,1,0,0,0,N/A
-2794378,"January 3, 2024","North Carolina","Rocky Mount","600 block of Dexter St",0,1,0,0,0,N/A
-2794610,"January 3, 2024",California,"Santa Clarita","La Vita Ct",0,1,0,0,0,N/A
-2795158,"January 3, 2024",Wisconsin,Madison,N/A,0,1,0,0,0,N/A
-2794346,"January 3, 2024","South Carolina","Boiling Springs","3716 Boiling Springs Rd",0,1,0,0,0,N/A
-2794091,"January 3, 2024",Tennessee,Memphis,"778 Parkrose Rd",0,0,0,0,0,N/A
-2793213,"January 2, 2024",Tennessee,Rockwood,"Ramsey Ln",1,0,0,0,0,N/A
-2793551,"January 2, 2024",Texas,Amarillo,"1300 block of Aster St",0,1,0,0,0,N/A
-2793426,"January 2, 2024",Arizona,Tolleson,"91st Ave and Latham St",0,1,0,1,0,N/A
-2792579,"January 2, 2024",Texas,Stafford,"12114 Tambourine Dr",1,0,0,0,1,N/A
-2792195,"January 1, 2024",Texas,"Missouri City",N/A,0,1,0,0,0,N/A
-2792193,"January 1, 2024",Ohio,Cincinnati,"210 E 8th St",0,1,0,0,0,N/A
-2792272,"January 1, 2024",Tennessee,Memphis,"1000 block of New York St",0,1,0,0,0,N/A
-2795644,"January 1, 2024",Texas,Mission,"8600 block of El Cunado St",0,1,0,0,0,N/A
-2795635,"January 1, 2024",Texas,Pharr,N/A,0,1,0,0,0,N/A
-2795271,"January 1, 2024",Texas,Edinburg,"4200 block of N Salinas St",0,1,0,0,0,N/A
-2798454,"January 1, 2024",Montana,Marion,N/A,1,0,0,0,0,N/A
-2792063,"January 1, 2024",Texas,Lufkin,"2200 block of N Raguet St",0,1,0,0,0,N/A
-2792975,"January 1, 2024",Alabama,Birmingham,"1100 block of Dogwood Ln",0,1,0,0,0,N/A
-2792973,"January 1, 2024",Alabama,Birmingham,N/A,0,1,0,0,0,N/A
-2794468,"January 1, 2024",Florida,Hollywood,"2500 block of Pierce St",0,1,0,0,0,N/A
-2791368,"January 1, 2024",Minnesota,Minneapolis,"2300 block of N Bryant Ave",0,1,0,0,1,N/A
-2792032,"January 1, 2024",Texas,Houston,"10200 Shady Ln",0,1,0,0,0,N/A
-2795983,"January 1, 2024",Louisiana,Vacherie,"3870 Florian Ln",1,0,0,0,0,N/A
-2792471,"January 1, 2024",Florida,"West Palm Beach","2000 N Congress Ave",0,1,0,0,0,N/A
-2791448,"January 1, 2024",Michigan,"Grand Rapids","Henry Ave SE and Prince St SE",0,1,0,0,0,N/A
-2791433,"January 1, 2024",Arkansas,Springdale,"Memory Ln",0,1,0,0,1,N/A
-2792419,"January 1, 2024",Missouri,"Kansas City","Ruskin Way and Manchester Ave",0,1,0,0,0,N/A
-2791692,"January 1, 2024",Louisiana,Alexandria,"2500 block of Llewellyn Dr",0,1,0,0,0,N/A
-2791348,"January 1, 2024",Ohio,Columbus,"3431 Seabrook Ave",0,1,0,0,0,N/A
-2791654,"January 1, 2024",Texas,"Fort Worth","Hanna Ave",0,1,0,0,0,N/A
-2795708,"January 1, 2024",Texas,"Cedar Creek","Riddle Rd",0,1,0,0,0,N/A
+2867139,"March 31, 2024",Georgia,Dublin,"500 block of West Ave",2,5,0,0,2,N/A
+2867883,"March 31, 2024",Mississippi,Jackson,"3200 block of US-80",1,3,0,0,0,N/A
+2868697,"March 31, 2024",Texas,Paris,"1355 8th NE",0,4,0,0,0,N/A
+2868563,"March 31, 2024",Florida,"Saint Petersburg","400 49th St S",0,4,0,0,5,N/A
+2866832,"March 30, 2024",Indiana,Indianapolis,"49 W Maryland St",0,7,0,0,1,N/A
+2866920,"March 30, 2024",Connecticut,Bridgeport,"1542 Stratford Ave",2,1,0,1,2,N/A
+2865719,"March 29, 2024",Alabama,Mobile,"600 block of Euclid Ave",2,2,0,1,2,N/A
+2865779,"March 29, 2024",Michigan,Detroit,"8203 W Chicago St",0,5,0,0,1,N/A
+2864257,"March 27, 2024",Texas,Houston,"3403 Love St",1,3,0,0,0,N/A
+2862335,"March 25, 2024",Florida,"Pompano Beach","1750 Dr. Martin Luther King Jr. Blvd",1,3,0,0,3,N/A
+2860902,"March 24, 2024",Indiana,Indianapolis,"9439 E Washington St",0,5,1,0,0,N/A
+2859623,"March 22, 2024",Louisiana,"New Orleans","AP Tureau Ave and N Roman St",2,2,0,0,0,N/A
+2855294,"March 17, 2024","District of Columbia",Washington,"1541 7th St NW",2,5,0,0,0,N/A
+2854765,"March 16, 2024",Ohio,Euclid,"19500 block of St Clair Ave",0,5,0,0,0,N/A
+2854542,"March 16, 2024",Indiana,Indianapolis,"808 Broad Ripple Ave",1,5,0,0,1,N/A
+2855735,"March 16, 2024",California,Manteca,"955 E Yosemite Ave",0,4,0,0,0,N/A
+2855051,"March 16, 2024",Texas,"El Paso","2285 Trawood Dr",1,3,0,0,1,N/A
+2855474,"March 16, 2024",Alabama,Montgomery,"3700 block of Woodley Rd",1,3,0,0,0,N/A
+2853374,"March 14, 2024",Tennessee,Memphis,"1300 block of Quinn Ave",1,3,0,1,2,N/A
+2851205,"March 12, 2024",Florida,Lawtey,"21637 NE 17th Ave",3,1,0,0,1,N/A
+2849965,"March 10, 2024",Louisiana,Shreveport,"2755 Hollywood Ave",1,3,0,0,0,N/A
+2849245,"March 10, 2024",Arkansas,Jonesboro,"641 Burke Ave",2,5,1,0,0,N/A
+2846628,"March 6, 2024",Pennsylvania,Philadelphia,"Rising Sun Ave and Cottman Ave",0,8,0,0,4,N/A
+2844773,"March 4, 2024",Pennsylvania,Philadelphia,"Ogontz Ave and Godfrey Ave",1,4,0,0,0,N/A
+2844148,"March 3, 2024",Mississippi,"West Point","10514 US-45 ALT N",1,12,0,0,1,N/A
+2844405,"March 3, 2024",California,"King City","215 N 2nd St",4,7,0,0,3,N/A
+2843663,"March 2, 2024",Texas,Houston,"5101 Washington Ave",0,4,0,0,1,N/A
+2843303,"March 2, 2024","North Carolina",Pembroke,"408 W Railroad St",2,3,0,0,1,N/A
+2844305,"March 2, 2024",Louisiana,Natchez,"198 LA-119",1,3,0,0,0,N/A
+2841692,"February 29, 2024",Missouri,Independence,"1111 N Elsea Smith Rd",2,2,0,1,1,N/A
+2840946,"February 28, 2024",Florida,Orlando,"Ironwedge Dr and S Lake Orlando Pkwy",1,6,0,0,2,N/A
+2839362,"February 27, 2024",Minnesota,Minneapolis,"E Franklin Ave and Elliot Ave",1,3,0,0,3,N/A
+2839240,"February 26, 2024",Kentucky,Louisville,"5500 block of Overbrook Woods Pl",1,3,0,0,0,N/A
+2838132,"February 25, 2024",Illinois,Chicago,"7340 N Rogers Ave",1,3,0,0,1,N/A
+2838389,"February 25, 2024",Illinois,Chicago,"8033 S Vincennes Ave",3,1,0,0,1,N/A
+2838881,"February 25, 2024",Alaska,"Point Hope","309 Agviq St",2,2,0,0,1,N/A
+2834712,"February 20, 2024",Pennsylvania,Allentown,"1800 block of W Turner St",0,4,0,0,1,N/A
+2898968,"February 19, 2024",California,Oakland,"3841 West St",0,5,0,0,4,N/A
+2832971,"February 19, 2024",Indiana,Indianapolis,"2621 S Lynhurst Dr",1,5,0,0,0,N/A
+2832334,"February 18, 2024",Minnesota,Burnsville,"12605 33rd Ave",3,1,1,0,0,N/A
+2832590,"February 18, 2024",Alabama,Montgomery,"3500 block of McGehee Rd",1,3,0,0,1,N/A
+2832558,"February 18, 2024",California,Carson,"1155 E Dominguez St",0,4,0,0,0,N/A
+2831391,"February 16, 2024",Alabama,Birmingham,"828 Center Street N",4,0,0,0,1,N/A
+2830649,"February 15, 2024",Arkansas,Springdale,"599 E Lakeview Dr",1,4,0,0,3,N/A
+2828898,"February 14, 2024",Georgia,Atlanta,"3450 Benjamin E Mays Dr SW",0,4,0,0,1,N/A
+2828337,"February 14, 2024",Georgia,Claxton,"7903 US-301",2,2,0,0,1,N/A
+2828642,"February 14, 2024",Missouri,"Kansas City","30 W Pershing Rd",1,22,0,2,6,N/A
+2828159,"February 13, 2024",Maryland,Baltimore,"700 block of E Eager St",0,4,0,0,0,N/A
+2826683,"February 12, 2024","New York",Bronx,"Jerome Ave and W Mount Eden Ave",1,5,0,0,3,N/A
+2826220,"February 11, 2024",Tennessee,Jackson,"23 Heritage Square",0,4,1,0,0,N/A
+2826477,"February 11, 2024",California,"Huntington Park","6000 block of Bear Ave",4,1,0,0,3,N/A
+2825493,"February 11, 2024",Illinois,Chicago,"W 30th St and S St Louis Ave",0,7,0,0,0,N/A
+2824648,"February 9, 2024",Texas,Dallas,"220 Stoneport Dr",0,5,0,0,0,N/A
+2824579,"February 9, 2024","District of Columbia",Washington,"1200 block of Raum St NE",1,3,0,0,0,N/A
+2822404,"February 7, 2024",Pennsylvania,"Lansdowne (East Lansdowne)","58 Lewis Ave",4,2,1,0,0,N/A
+2819413,"February 4, 2024",Colorado,Denver,"5000 block of N Orleans Ct",2,4,0,0,0,N/A
+2815852,"January 31, 2024",Kentucky,Louisville,"S 12th St and W Muhammad Ali Blvd",2,2,0,0,1,N/A
+2815932,"January 31, 2024",Louisiana,"New Orleans","Wall Blvd and Murl St",1,3,0,0,0,N/A
+2815425,"January 29, 2024",Mississippi,Grenada,"N Lynch St",0,4,0,0,0,N/A
+2813433,"January 28, 2024",Florida,"Palm Bay","473 Forgal Ave",3,2,1,0,0,N/A
+2813845,"January 28, 2024",California,Compton,"S Central Ave and Alondra Blvd",0,4,0,0,0,N/A
+2814635,"January 28, 2024",Tennessee,Memphis,"2223 W River Trace Dr",2,2,0,0,1,N/A
+2813443,"January 28, 2024",Pennsylvania,Harrisburg,"600 block of Fillmore St",0,4,0,0,0,N/A
+2815416,"January 27, 2024",Mississippi,Grenada,"800 block of Martin Luther King Jr Dr",1,3,0,0,1,N/A
+2812487,"January 27, 2024","North Carolina",Charlotte,"8508 Lodge S Cir",3,1,0,0,0,N/A
+2812327,"January 25, 2024",Missouri,"Kansas City","3100 block of E Linwood Blvd",0,4,0,0,0,N/A
+2810693,"January 24, 2024",Louisiana,"New Orleans","3400 block of Wall Blvd",1,3,0,0,0,N/A
+2809998,"January 23, 2024",California,Adelanto,"Shadow Mountain Rd and Lessing Ave",6,0,0,0,5,N/A
+2807511,"January 21, 2024",Texas,Katy,"4643 Russet Leaf Tr",3,2,0,1,1,N/A
+2807503,"January 21, 2024","New York",Bronx,"4137 White Plains Rd",1,3,0,0,0,N/A
+2807473,"January 21, 2024",Illinois,"Tinley Park","7430 173rd Pl",4,0,0,0,1,N/A
+2808531,"January 21, 2024",Illinois,Joliet,"200 block of Davis St",8,1,1,0,1,N/A
+2807528,"January 20, 2024",Florida,Plantation,"12301 W Sunrise Blvd",1,3,0,0,3,N/A
+2807488,"January 20, 2024",Florida,"Palm Bay","1700 Woodlake Dr NE",3,2,0,0,1,N/A
+2806941,"January 20, 2024",Pennsylvania,Coraopolis,"870 Fourth Ave",1,3,0,0,0,N/A
+2806956,"January 20, 2024",Alabama,Coker,"11000 block of Pate Rd",1,3,0,0,3,N/A
+2805327,"January 19, 2024",Maryland,Baltimore,"5200 block of Fairlawn Ave",0,1,3,0,0,N/A
+2804280,"January 18, 2024",California,"San Francisco","Hyde St and Turk St",1,4,0,0,0,N/A
+2803737,"January 17, 2024",Missouri,"Kansas City","2450 Grand Blvd",0,6,0,0,2,N/A
+2804615,"January 17, 2024",Nevada,"Las Vegas","200 block of W Chicago Ave",2,2,0,0,0,N/A
+2801431,"January 14, 2024",Pennsylvania,Philadelphia,"2400 block of N Myrtlewood St",2,4,0,0,0,N/A
+2801357,"January 14, 2024",Mississippi,"West Point","W Half Mile St and N Division St",2,3,0,0,3,N/A
+2801260,"January 14, 2024",Texas,Houston,"4400 block of Mooney Rd",0,4,0,0,0,N/A
+2800844,"January 13, 2024",Texas,Richmond,"17006 Cory Cornel Ln",4,0,1,0,0,N/A
+2799654,"January 11, 2024",California,Compton,"1000 block of Acacia Ave",0,5,0,0,0,N/A
+2798627,"January 9, 2024",Virginia,Portsmouth,"3700 block of Greenway Ct E",2,2,0,0,1,N/A
+2796605,"January 7, 2024",Alabama,Abbeville,"1600 block of Co Rd 40",0,4,0,0,0,N/A
+2822517,"January 6, 2024",California,Reedley,"1151 S Church Ave",4,0,0,0,1,N/A
+2794498,"January 4, 2024",Louisiana,"Baton Rouge","6315 Greenwell St",1,5,0,0,0,N/A
+2794194,"January 4, 2024",Iowa,Perry,"1200 18th St",2,5,1,0,0,N/A
+2792720,"January 1, 2024",Missouri,Springfield,"5485 W Sunshine St",0,4,0,0,1,N/A
+2792829,"January 1, 2024",Louisiana,"Baton Rouge","4600 block of W Brookstown Dr",1,3,0,0,3,N/A
+2791411,"January 1, 2024",California,"Los Angeles","2350 Porter St",2,8,0,0,0,N/A
+2840907,"January 1, 2024",Illinois,Maywood,"1500 block of St Charles Rd",2,2,0,0,1,N/A
